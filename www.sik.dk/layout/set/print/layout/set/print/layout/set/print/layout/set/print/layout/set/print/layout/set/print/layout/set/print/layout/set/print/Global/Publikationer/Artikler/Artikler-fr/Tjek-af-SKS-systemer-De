@@ -1,0 +1,391 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Publikationer/Artikler/Artikler-fra-Electra/2002/Tjek-af-SKS-systemer-December-2002 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 18:29:28 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                                    <title>    Tjek af SKS-systemer (December 2002) / 2002 / Artikler fra Electra / Artikler / Publikationer / Global  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/4a99891d7bae34142174fac0a99f706b_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<!-- full -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+                        <li>
+                                    <a href="../../../Publikationer.html">Publikationer</a>
+                          </li>
+          <li>
+                                    <a href="../../Artikler.html">Artikler</a>
+                          </li>
+          <li>
+                                    <a href="../Artikler-fra-Electra.html">Artikler fra Electra</a>
+                          </li>
+          <li>
+                                    <a href="../Artikler-fra-Elec/2002.17b87.delaye">2002</a>
+                          </li>
+        <li class="active">Tjek af SKS-systemer (December 2002)</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../../Publikationer.html">
+          Publikationer
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                        <li >
+            <a href="../../Opgoerelser-over-ulykker.html">
+                          Opgørelser over ulykker
+                        </a>
+            </li>
+                                                  
+                                                  <li class="selected">
+            <a href="../../Artikler.html">
+                          Artikler
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Faglige-rapporter.html">
+                          Faglige rapporter
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Foldere.html">
+                          Foldere
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Materialebestilling.html">
+                          Materialebestilling
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Undervisningsmateriale.html">
+                          Undervisningsmateriale
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Lovstof-og-standarder-om-el-og-gas.12cd5.del">
+                          Lovstof og standarder om el og gas
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../DVD.html">
+                          DVD
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>  <div class="col-md-9 center-col">    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../../layout/set/print/Global/Publikationer/Art/Tjek-af-SKS-systemer-De" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+            <h1>Tjek af SKS-systemer (December 2002)</h1>
+      <summary>
+        <p>
+                      
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+I løbet af de næste måneder foretages stikprøvekontrol blandt de etablerede SKS-systemer for at sikre at kvaliteten er i orden.
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+                            </p>
+      </summary>
+      <div class="pull-right social-icons">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://sik.dk/Global/Publikationer/Artikler/Artikler-fra-Electra/2002/Tjek-af-SKS-systemer-December-2002" target="_blank"><i class="fa fa-facebook-square facebook-brand"></i></a>
+<a href="http://twitter.com/share?url=https://sik.dk/Global/Publikationer/Artikler/Artikler-fra-Electra/2002/Tjek-af-SKS-systemer-December-2002" target="_blank"><i class="fa fa-twitter-square twitter-brand"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://sik.dk/Global/Publikationer/Artikler/Artikler-fra-Electra/2002/Tjek-af-SKS-systemer-December-2002" target="_blank"><i class="fa fa-pinterest-square pinterest-brand"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sik.dk/Global/Publikationer/Artikler/Artikler-fra-Electra/2002/Tjek-af-SKS-systemer-December-2002" target="_blank"><i class="fa fa-linkedin-square linkedin-brand"></i></a>
+<a href="mailto:?subject=Tjek af SKS-systemer (December 2002)&body=https://sik.dk/Global/Publikationer/Artikler/Artikler-fra-Electra/2002/Tjek-af-SKS-systemer-December-2002" target="_blank"><i class="fa fa-envelope-o mail-brand"></i></a>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+</div>
+      <br>
+      <hr>
+        
+              
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>NB!</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>SKS er fra 2. juni 2014 erstattet af krav om et godkendt kvalitetsledelsessystem (KLS-system).&nbsp;
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../Virksomhed/Autorisation-el-vvs-og-kloak/Kontrolinstanser/Kvalitetsledelsessystem-KLS.html" target="_blank">Læs mere om KLS her</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>---</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Artiklen fra Elektricitetsrådet har været bragt i <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Electra december 2002</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+De første elvirksomheder har fået besked om, at deres SKS-system er taget ud til en stikprøvekontrol. I løbet af de kommende måneder skal virksomhedernes papirgange gennemgås, så Elektricitetsrådet kan få et overblik over, hvordan systemet fungerer, og om der er særlige områder, hvor der skal strammes op. <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Stikprøvekontrollen foretages af med arbejdere fra Teknlogisk Institut blandt ca. 10 procent af de virksomheder, der har fået den nye autorisation.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+-Da den nye autorisationsordning for elinstallatører trådte i kraft den 1. januar 2001, blev det samtidig et krav, at alle virksomheder skal indføre et SikkerhedsKvalitetsStyrings-system - et SKS-system - for at opnå autorisation, siger specialkonsulent Inger R. Ludvigsen fra Elektricitetsrået. <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+- Systemet skal sikre, at den autoriserede person kan leve op til sine forpligtigelser som den, der har det overordnede ansvar for elsikkerheden. Altså sikre, at den autoriserede har styr på, at installationsarbejdet udføres med højst mulig sikkerhed, og at den færdige installation lever op til Stærkstrømsbekendtgørelsen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Vigtigt at have overblik </b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Der har lige siden starten været lagt op til en stikprøvekontrol af systemet, så vi har en opdateret viden om implementeringen og også har et overblik over, om der skal rettes på noget. Det kan være, at der er behov for justeringer af krav eller vejledninger. Desuden kan en stikprøvekontrol vise, om der er særlige områder, der volder problemer, som vi kan afhjælpe ved justeringer. <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Den tredje mulighed er, at det går ad Hekkenfeldt til, siger Inger R. Ludvigsen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Kræver høj kvalitet </b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+- Hvis der sløses med sikkerheden, må vi præcisere vores krav og eventuelt skride til sanktioner, hvis det viser sig, at de ansvarlige har skrevet under på, at SKS-systemet er implementeret uden så at være det. Hvis der skulle dukke sådanne forhold op, så har vi mulighed for f.eks. at idømme bøder, dagbøder - eller i grelle tilfælde at tilbagekalde autorisationen. <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+- Men, tilføjer Inger R. Ludvigsen, det er bestemt ikke vores hensigt i første omgang. Dog er det klart, at vi vil slå hårdt med på elinstallatører, som tager for let på sikkerheden eller forsøger at smyge sig udenom. <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+- Formålet med den nye autorisationsordning og SKS-systemet er jo, at der på sigt gerne skulle forekomme færre faglige ulykker. Det drejer sig i første omgang om at få nedbragt antallet af ulykker med tavlearbejder, og at elinstallatørerne bliver mere ansvarlige over for de installationer, de afleverer.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>SKS-systemer er sund fornuft </b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+I den tid, hvor der har været krav om et SKS-system, har Elektricitetsrådet fået mange positive tilbagemeldinger fra virksomhederne. <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+- Det er klart, at nogle af branchens mindre virksomheder har oplevet systemet som lidt besværligt, fordi det kræver lidt ekstra skrivearbejde. Men der er i bund og grund ikke tale om en ekstra byrde, for der stilles blot krav om at sætte lidt mere system i de procedurer, som virksomhederne har i forvejen. Der er tale om krav, der bygger på sund fornuft og ikke den stribe meget komplicerede arbejdsgange, betoner Inger R. Ludvigsen. <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Der er på ingen måde tale om, at der skal laves radikalt om på en masse ude i virksomhederne. Der skal blot sættes system i tingene - og som en vigtig sidegevinst vil SKS-systemet også minde virksomhederne om, at der er noget, der hedder elsikkerhed. <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Inger R. Ludvigsen tilføjer, at et af de firmaer, som i sin tid testede systemet, oplevede store fordele ved at få indført systemet. <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+- De fik bl.a. rettet op på nogle småfejl og har efterfølgende kunnet registrere færre fejl. Firmaet har dermed også sparet penge på at skulle rette fejl - arbejder, som er en ren ekstraudgift, da arbejdet ikke kan faktureres videre til en kunde. <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+SKS-systemet blev i sin tid da også etableret i et tæt samarbejde med ELFO og gennemtestet af seks elfirmaer, inden det blev frigivet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Arbejdet speedes op </b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Indtil nu har ca. 700 virksomheder fået autorisation efter de nye bestemmelser. Langt hovedparten af de 700 virksomheder er blevet &quot;tvunget&quot; over på den nye ordning - enten fordi virksomheden har skiftet ejer, eller fordi indehaveren af autorisationen har skiftet job. <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Inger R. Ludvigsen ser gerne, at tempoet øges i de kommende måneder, så de resterende godt 5.000 elvirksomheder kommer til at køre med en autorisation efter de nye bestemmelser i løbet af de næste to-tre år. <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+- I de kommende måneder vil vi skrive til virksomheder i hele landet - store som små - og varsle en tilbagekaldelse af de gamle autorisationer. Der gives et varsel på et halvt år, som virksomheden skal bruge til at få implementeret SKS-systemet, oplyser Inger R. Ludvigsen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+      
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+<!-- page_list_subitems -->    <div class="list-group">
+    </div><!-- /page_list_subitems -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+<hr>
+<div class="text-muted">
+    <small><span class="glyphicon glyphicon-time"></span> Sidst opdateret: 03-okt-2016</small><br>
+    <small><span class="glyphicon glyphicon-envelope"></span> Kontaktperson: <a title="" href="mailto:sik@sik.dk">webmaster</a></small>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+    </article>
+    <!--Content-End-->
+  </div></div>
+<!-- /full -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/41b925061e05fa3c114244590493915c.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Publikationer/Artikler/Artikler-fra-Electra/2002/Tjek-af-SKS-systemer-December-2002 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 18:29:28 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

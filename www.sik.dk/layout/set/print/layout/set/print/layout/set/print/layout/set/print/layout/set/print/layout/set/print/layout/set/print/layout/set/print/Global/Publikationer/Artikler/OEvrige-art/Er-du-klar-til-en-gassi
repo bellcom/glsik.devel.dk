@@ -1,0 +1,358 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Publikationer/Artikler/OEvrige-artikler/2016/Er-du-klar-til-en-gassikker-campingsaeson by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 18:30:17 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                                    <title>    Er du klar til en gassikker campingsæson?  / 2016 / Øvrige artikler / Artikler / Publikationer / Global  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/4a99891d7bae34142174fac0a99f706b_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<!-- full -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+                        <li>
+                                    <a href="../../../Publikationer.html">Publikationer</a>
+                          </li>
+          <li>
+                                    <a href="../../Artikler.html">Artikler</a>
+                          </li>
+          <li>
+                                    <a href="../OEvrige-artikler.html">Øvrige artikler</a>
+                          </li>
+          <li>
+                                    <a href="../OEvrige-artikler/2016.html">2016</a>
+                          </li>
+        <li class="active">Er du klar til en gassikker campingsæson? </li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../../Publikationer.html">
+          Publikationer
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                        <li >
+            <a href="../../Opgoerelser-over-ulykker.html">
+                          Opgørelser over ulykker
+                        </a>
+            </li>
+                                                  
+                                                  <li class="selected">
+            <a href="../../Artikler.html">
+                          Artikler
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Faglige-rapporter.html">
+                          Faglige rapporter
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Foldere.html">
+                          Foldere
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Materialebestilling.html">
+                          Materialebestilling
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Undervisningsmateriale.html">
+                          Undervisningsmateriale
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Lovstof-og-standarder-om-el-og-gas.12cd5.del">
+                          Lovstof og standarder om el og gas
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../DVD.html">
+                          DVD
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>  <div class="col-md-6 center-col">    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../../layout/set/print/Global/Publikationer/Art/Er-du-klar-til-en-gassi" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+            <h1>Er du klar til en gassikker campingsæson? </h1>
+      <summary>
+        <p>
+                      
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+Campingsæsonen er skudt i gang, og mange gør sig klar til sommerferie i campingvogn. Desværre sker der hvert år alvorlige ulykker som følge af giftige kulilteudslip i campingvognen. Ulykker, der kunne være undgået ved få simple forholdsregler. Derfor lancerer Sikkerhedsstyrelsen nu en ny video-kanal på youtube med gode råd til gassikker camping. 
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+                            </p>
+      </summary>
+      <div class="pull-right social-icons">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2016/Er-du-klar-til-en-gassikker-campingsaeson" target="_blank"><i class="fa fa-facebook-square facebook-brand"></i></a>
+<a href="http://twitter.com/share?url=https://sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2016/Er-du-klar-til-en-gassikker-campingsaeson" target="_blank"><i class="fa fa-twitter-square twitter-brand"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2016/Er-du-klar-til-en-gassikker-campingsaeson" target="_blank"><i class="fa fa-pinterest-square pinterest-brand"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2016/Er-du-klar-til-en-gassikker-campingsaeson" target="_blank"><i class="fa fa-linkedin-square linkedin-brand"></i></a>
+<a href="mailto:?subject=Er du klar til en gassikker campingsæson? &body=https://sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2016/Er-du-klar-til-en-gassikker-campingsaeson" target="_blank"><i class="fa fa-envelope-o mail-brand"></i></a>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+</div>
+      <br>
+      <hr>
+        
+              
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>I de første film på Sikkerhedsstyrelsens video-kanal kan campister blandt andet se, hvordan man sikrer en god ventilation i vognen og tilslutter gasapparater korrekt.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Sikkerhedsstyrelsens gasekspert Bjarne Holm opfordrer særligt campisterne til at holde øje med ventilationsåbninger og aftræk i campingvognen. De må aldrig være tildækket af for eksempel et fortelt eller stoppet med skidt og blade. Så risikerer man nemlig, at der ikke kommer luft nok til forbrændingen - eller at røggasserne ikke kan komme væk. Og det er her, at der kan opstå farlige kulilteudslip.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>&quot;Du er selv ansvarlig for, at gasinstallationerne i din campingvogn bliver vedligeholdt og brugt korrekt. Og hvis du oplever fejl eller mangler, skal du omgående søge hjælp hos en virksomhed med autorisation&quot; siger Bjarne Holm, Ingeniør i gasprodukter hos Sikkerhedsstyrelsen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Det er let at finde en virksomhed med autorisation i Sikkerhedsstyrelsens autorisationsregister. Det findes på sik.dk – og man kan både søge på virksomheder i en bestemt kommune eller konkrete navngivne virksomheder.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Bjarne Holm anbefaler samtidig, at man får foretaget en gastest i campingvognen mindst hver andet år. Det er nemlig din garanti for, at gasinstallationerne er kontrolleret korrekt og sikre at bruge.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Se alle campingfilm på Sikkerhedsstyrelsens Youtube-kanal ’Sikkerhedsstyrelsen SIK’ og følg med på hjemmesiden 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="../../../../Forbruger.html" target="_self">www.sik.dk/forbruger</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+, hvor der er flere gode råd til en gassikker camping. Filmene vil også løbende blive lagt ud på Sikkerhedsstyrelsens facebook-side.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/InfoBox.tpl (design:content/datatype/view/ezxmltags/InfoBox.tpl) -->
+<div class="alert alert-info">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>5 gode råd til gassikker camping</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+
+<ul>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Brug altid gasinstallationerne korrekt og efter fabrikantens brugsanvisning.</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Husk aftræk til det fri fra køleskabe, vandvarmere, varmeovne m.v.</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Undgå at lukke ventilationsåbninger og aftræk i vognen med f.eks. et telt eller blade.</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Få gastestet campingvognen af en virksomhed med autorisation mindst hver andet år.</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Afbryd gasinstallationerne omgående og kontakt en virksomhed med autorisation, hvis du oplever gaslugt eller tegn på udslip i vognen.</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+</ul>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/InfoBox.tpl (design:content/datatype/view/ezxmltags/InfoBox.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+      
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+<!-- page_list_subitems -->    <div class="list-group">
+    </div><!-- /page_list_subitems -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+<hr>
+<div class="text-muted">
+    <small><span class="glyphicon glyphicon-time"></span> Sidst opdateret: 17-juni-2016</small><br>
+    <small><span class="glyphicon glyphicon-envelope"></span> Kontaktperson: <a title="" href="mailto:sik@sik.dk">webmaster</a></small>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+    </article>
+    <!--Content-End-->
+  </div>  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+<!-- right_menu_linkbox -->
+            
+            <div class="link-box right-menu">
+
+        <div class="body">
+          <ul>
+                                                                                                      <li >
+                  <a href="Pas-paa-farlige-smaadel">
+                                          Pas på farlige smådele i legetøj til børn under 3 år
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Flere-boern-kommer-til-">
+                                          Flere børn kommer til skade på trampolinen 
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Faa-styr-paa-gassen-i-d">
+                                          Få styr på gassen i din campingvogn 
+                                      </a>
+                </li>
+                                                                                                                                                      <li class="selected">
+                  <a href="Er-du-klar-til-en-gassi">
+                                          Er du klar til en gassikker campingsæson? 
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Sikkerhedsstyrelsen-tje">
+                                          Sikkerhedsstyrelsen tjekker el-installationer i kontorbranchen
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Gassikkerhed-paa-festiv">
+                                          Gassikkerhed på festivalpladsen
+                                      </a>
+                </li>
+                                    </ul>
+      </div>
+    </div>
+    <!-- /right_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+  </div></div>
+<!-- /full -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/41b925061e05fa3c114244590493915c.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Publikationer/Artikler/OEvrige-artikler/2016/Er-du-klar-til-en-gassikker-campingsaeson by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 18:30:17 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

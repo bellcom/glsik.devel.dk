@@ -1,0 +1,2170 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Virksomhed/Metrologi-akkreditering-og-aedelmetal/Legal-metrologi-nationale-og-EOEF-typegodkendelser/Maalesystemer-til-vaesker-IV/IV-370-IV-330 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 15:15:36 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                              <title>    IV-370 - IV-330 / Målesystemer til væsker - IV- / Legal metrologi - nationale og EØF typegodkendelser / Metrologi, akkreditering og ædelmetal / Virksomhed  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/fbe22c545e60ab9ca816978bee99354c_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<!-- full -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+              <li>
+                                    <a href="../../../Virksomhed.html">Virksomhed</a>
+                          </li>
+          <li>
+                                    <a href="../../Metrologi-akkreditering-og-aedelmetal.html">Metrologi, akkreditering og ædelmetal</a>
+                          </li>
+          <li>
+                                    <a href="../Legal-metrologi-nationale-og-EOEF-typegodkendelser.html">Legal metrologi - nationale og EØF typegodkendelser</a>
+                          </li>
+          <li>
+                                    <a href="Maalesystemer-til-vaesk">Målesystemer til væsker - IV-</a>
+                          </li>
+        <li class="active">IV-370 - IV-330</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../Metrologi-akkreditering-og-aedelmetal.html">
+          Metrologi, akkreditering og ædelmetal
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                        <li >
+            <a href="../Legal-metrologi.html">
+                          Legal metrologi - krav til måleinstrumenters nøjagtighed
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Legal-metrologi-regler-og-vejledninger.html">
+                          Legal metrologi - regler og vejledninger
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Legal-metrologi-bestemmelser-for-de-enkelte-maaleomraader.ea4c.dela">
+                          Legal metrologi - bestemmelser for de enkelte måleområder
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Legal-metrologi-certificerede-virksomheder.html">
+                          Legal metrologi - certificerede virksomheder
+                        </a>
+            </li>
+                                                  
+                                                  <li class="selected">
+            <a href="../Legal-metrologi-nationale-og-EOEF-typegodkendelser.html">
+                          Legal metrologi - nationale og EØF typegodkendelser
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Legal-metrologi-spoergsmaal-og-svar.html">
+                          Legal metrologi - spørgsmål og svar
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Akkreditering.html">
+                          Akkreditering – sikring af kvalitet
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../AEdelmetal.html">
+                          Ædelmetal
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>  <div class="col-md-6 center-col">    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../layout/set/print/Virksomhed/Metrologi-akkreditering-og-aedelmetal/Legal-metrologi-nationale-/IV-370-IV-330.ef4f.dela" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+            <h1>IV-370 - IV-330</h1>
+      <summary>
+        <p>
+                            </p>
+      </summary>
+      <div class="pull-right social-icons">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://sik.dk/Virksomhed/Metrologi-akkreditering-og-aedelmetal/Legal-metrologi-nationale-og-EOEF-typegodkendelser/Maalesystemer-til-vaesker-IV/IV-370-IV-330" target="_blank"><i class="fa fa-facebook-square facebook-brand"></i></a>
+<a href="http://twitter.com/share?url=https://sik.dk/Virksomhed/Metrologi-akkreditering-og-aedelmetal/Legal-metrologi-nationale-og-EOEF-typegodkendelser/Maalesystemer-til-vaesker-IV/IV-370-IV-330" target="_blank"><i class="fa fa-twitter-square twitter-brand"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://sik.dk/Virksomhed/Metrologi-akkreditering-og-aedelmetal/Legal-metrologi-nationale-og-EOEF-typegodkendelser/Maalesystemer-til-vaesker-IV/IV-370-IV-330" target="_blank"><i class="fa fa-pinterest-square pinterest-brand"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sik.dk/Virksomhed/Metrologi-akkreditering-og-aedelmetal/Legal-metrologi-nationale-og-EOEF-typegodkendelser/Maalesystemer-til-vaesker-IV/IV-370-IV-330" target="_blank"><i class="fa fa-linkedin-square linkedin-brand"></i></a>
+<a href="mailto:?subject=IV-370 - IV-330&body=https://sik.dk/Virksomhed/Metrologi-akkreditering-og-aedelmetal/Legal-metrologi-nationale-og-EOEF-typegodkendelser/Maalesystemer-til-vaesker-IV/IV-370-IV-330" target="_blank"><i class="fa fa-envelope-o mail-brand"></i></a>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+</div>
+      <br>
+      <hr>
+        
+              
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>MÅLESYSTEMER TIL VÆSKER IV-</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-370</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6890/81324/version/1/file/08_3717.pdf">08-3717</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-369</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6891/81327/version/1/file/08_3716.pdf">08-3716</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-368</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6892/81330/version/1/file/08_3694.pdf">08-3694</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-367</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6893/81333/version/1/file/08_3708.pdf">08-3708</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-366</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6894/81336/version/1/file/08_3726.pdf">08-3726</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-365</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6895/81339/version/1/file/08_3677.pdf">08-3677</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-364cs</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6896/81342/version/1/file/08_3613.pdf">08-3613</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 3. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6897/81345/version/1/file/08_3777.pdf">08-3777</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 2. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6898/81348/version/1/file/08_3776.pdf">08-3776</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 1. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6899/81351/version/1/file/08_3753.pdf">08-3753</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-363cs -&nbsp;MKA - A1 mfl.</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6900/81354/version/1/file/08_3525.pdf">08-3525</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-362s -&nbsp;Brooks type B-82DB1 - Specta Dual Pulls Transmitter type VS300 - TLC Multiload</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6901/81357/version/1/file/08_3394.pdf">08-3394</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 3. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6902/81360/version/1/file/08_3745.pdf">08-3745</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 2. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6903/81363/version/1/file/08_3707.pdf">08-3707</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 1. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6904/81366/version/1/file/08_3548.pdf">08-3548</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-361cs -&nbsp;Diessel IZMSEG1 og 2 - DME-Lillebror</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6905/81369/version/1/file/08_3388.pdf">08-3388</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>-1. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6906/81372/version/1/file/08_3692.pdf">08-3692</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-360cs -&nbsp;Ingen specificeret type</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6907/81375/version/1/file/08_3346.pdf">08-3346</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-359cs -&nbsp;Smith Meter T- og ST-</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6908/81378/version/1/file/08_1972.pdf">08-1972</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 1. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6909/81381/version/1/file/08_3520.pdf">08-3520</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-358cs -&nbsp;NordicLane</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6910/81384/version/1/file/08_1971.pdf">08-1971</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 2. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6911/81387/version/1/file/08_3495.pdf">08-3495</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 1. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6912/81390/version/1/file/08_3420.pdf">08-3420, udg. 2</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-357cs -&nbsp;SK 700</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6913/81393/version/1/file/08_1944.pdf">08-1944, udg. 2</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 6. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/24949/331627/version/1/file/573-03-00032.pdf">573-03-00032</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 5. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/11664/133476/version/1/file/573-03-00003.pdf">573-03-00003</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 4. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6915/81399/version/1/file/08_3706.pdf">08-3706</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 3. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6916/81402/version/1/file/08_3580.pdf">08-3580</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 2. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6917/81405/version/1/file/08_3504.pdf">08-3504</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>&nbsp;- 1. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6918/81408/version/1/file/08_3448.pdf">08-3448</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-356</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6919/81411/version/1/file/03_1896.pdf">2003-7053-1896, udg. 4</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 1. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6920/81414/version/1/file/08_3768.pdf">08-3768</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-355cs -&nbsp;FM1-001 og FM1-002</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6921/81417/version/1/file/03_1894.pdf">2003-7053-1894</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>-1. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6922/81420/version/1/file/08_3517.pdf">08-3517</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-354</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6923/81423/version/1/file/03_1876.pdf">2003-7053-1876</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-353 -&nbsp;Quantium</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6924/81426/version/1/file/03_1829.pdf">2003-7053-1829</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 7. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6925/81429/version/1/file/08_3705.pdf">08-3705</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 6. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6926/81432/version/1/file/08_3704.pdf">08-3704</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 5. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6927/81435/version/1/file/08_3577.pdf">08-3577</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 4. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6928/81438/version/1/file/08_3355.pdf">08-3355</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 3. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6929/81441/version/1/file/08_3398.pdf">08-3398</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 2. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6930/81444/version/1/file/03_1905.pdf">2003-7053-1905</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-352 -&nbsp;PD 340 - PD 681 - PD 600</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6931/81447/version/1/file/02_1790.pdf">2002-7053-1790</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 2. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6932/81450/version/1/file/08_3500.pdf">08-3500</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 1. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6933/81453/version/1/file/08_3396.pdf">08-3396</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-351 -&nbsp;Global Star</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/9668/114605/version/1/file/2002-7053-1722.pdf">2002-7053-1722</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 9. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/9670/114611/version/1/file/594-35-00003.pdf">594-35-00003</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 8. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6935/81459/version/1/file/08_3632.pdf">08-3632</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 7. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6936/81462/version/1/file/08_3513.pdf">08-3513</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 6. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6937/81465/version/1/file/08_3499.pdf">08-3499</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 5. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6938/81468/version/1/file/08_3364.pdf">08-3364</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 4. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6939/81471/version/1/file/08_1954.pdf">08-1954</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 3. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6940/81474/version/1/file/03_1843.pdf">2003-7053-1843</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 2. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6941/81477/version/1/file/03_1858.pdf">2003-7053-1858</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-350 -&nbsp;ST 10 A</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6942/81480/version/1/file/02_1714.pdf">2002-7053-1714</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 1. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6943/81483/version/1/file/08_3344.pdf">08-3344</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-349cs</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6944/81486/version/1/file/02_1753.pdf">2002-7053-1753</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-348</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/24823/329657/version/1/file/573-03-00001.pdf">573-03-00001</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>udgave 6</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>&nbsp;- 1. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/11594/133003/version/1/file/Till%c3%a6g%2btil%2btypegodkendlesesattest%2b-%2bIV-348%2budg%2b6.pdf">Tillæg til typegodkendlesesattest - IV-348 udg 6</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-347cs -&nbsp;SPV</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6948/81498/version/1/file/01_1694.pdf">2001-7053-1694</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-346cs -&nbsp;Marconi 112</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6949/81501/version/1/file/01_1679.pdf">2001-7053-1679</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 1. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6950/81504/version/1/file/02_1755.pdf">2002-7053-1755</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-345cs -&nbsp;Marconi 112</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6951/81507/version/1/file/00_1448.pdf">2000-7053-1448</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 2. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6952/81510/version/1/file/08_3320.pdf">08-3320</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 1. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6953/81513/version/1/file/02_1731.pdf">2002-7053-1731</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-344cs -&nbsp;Global Century</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6954/81516/version/1/file/01_1636.pdf">2001-7053-1636</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 7. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6955/81519/version/1/file/08_3607.pdf">08-3607</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 6. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6956/81522/version/1/file/08_3512.pdf">08-3512</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 5. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6957/81525/version/1/file/08_1953.pdf">08-1953</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 4. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6958/81528/version/1/file/08_1957.pdf">08-1957</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 3. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6959/81531/version/1/file/03_1857.pdf">2003-7053-1857</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 2. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6960/81534/version/1/file/03_1818.pdf">2003-7053-1818</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-343cs -&nbsp;Proces Data A/S type PD - DME A/S - DME-Lillebror</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6962/81540/version/1/file/01_1629.pdf">2001-7053-1629, udgave 2</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-342cs -&nbsp;IFP</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6963/81543/version/1/file/00_1540.pdf">2000-7053-1540, udgave 2</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-341cs -&nbsp;N8</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6964/81546/version/1/file/00_1541.pdf">2000-7053-1541, udgave 3</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 1. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6965/81549/version/1/file/08_3574.pdf">08-3574</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-340</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6966/81552/version/1/file/00_1519.pdf">2000-7053-1519</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-339cs -&nbsp;SU 900</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6967/81555/version/1/file/00_1513.pdf">2000-7053-1513</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 1. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6968/81558/version/1/file/08_3703.pdf">08-3703</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-338cs -&nbsp;SU 700</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6969/81561/version/1/file/00_1491.pdf">2000-7053-1491</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 4. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6970/81564/version/1/file/08_3702.pdf">08-3702</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 3. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6971/81567/version/1/file/03_1856.pdf">2003-7053-1856</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 2. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6972/81570/version/1/file/02_1776.pdf">2002-7053-1776</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 1. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6973/81573/version/1/file/01_1680.pdf">2001-7053-1680</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-337cs -&nbsp;SU 600</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6974/81576/version/1/file/00_1446.pdf">2000-7053-1446</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-336cs -&nbsp;SU 500</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6975/81579/version/1/file/00_1447.pdf">2000-7053-1447</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 1. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6976/81582/version/1/file/02_1775.pdf">2002-7053-1775</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-335 -&nbsp;Type PD 340 -&nbsp; S 12</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6977/81585/version/1/file/00_1455.pdf">2000-7053-1455</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>-1. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6978/81588/version/1/file/08_3691.pdf">08-3691</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-334cs -&nbsp;SU 900</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6979/81591/version/1/file/99_1350.pdf">1999-7053-1350</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-333 -&nbsp;DME Mobicom - DME MIF</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6980/81594/version/1/file/99_1305.pdf">1999-7053-1305</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 4. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6981/81597/version/1/file/08_3690.pdf">08-3690</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 3. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6982/81600/version/1/file/01_1603.pdf">2001-7053-1603</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 2. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6983/81603/version/1/file/99_1401.pdf">1999-7053-1401</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 1. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6984/81606/version/1/file/99_1334.pdf">1999-7053-1334</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-332cs -&nbsp;STAL 9</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6985/81609/version/1/file/98_1118.pdf">1998-4163-1118</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 2. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6986/81612/version/1/file/98_1210.pdf">1998-7053-1210</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- 1. tillæg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6987/81615/version/1/file/00_1543.pdf">2000-7053-1543</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-331 -&nbsp;50 XE 4000 - MAG-XE DE - COPA-XE DE</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6988/81618/version/1/file/98_1175.pdf">1998-7053-1175</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>IV-330</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/6989/81621/version/1/file/96_945.pdf">1996-4163-0945</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+      
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+<!-- page_list_subitems -->    <div class="list-group">
+    </div><!-- /page_list_subitems -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+<hr>
+<div class="text-muted">
+    <small><span class="glyphicon glyphicon-time"></span> Sidst opdateret: 18-marts-2016</small><br>
+    <small><span class="glyphicon glyphicon-envelope"></span> Kontaktperson: <a title="" href="mailto:sik@sik.dk">webmaster</a></small>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+    </article>
+    <!--Content-End-->
+  </div>  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+<!-- right_menu_linkbox -->
+            
+            <div class="link-box right-menu">
+
+        <div class="body">
+          <ul>
+                                                                                                                                        <li class="selected">
+                  <a href="IV-370-IV-330.c5a8.dela">
+                                          IV-370 - IV-330
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="IV-329cs-IV-304cs.c60d">
+                                          IV-329cs - IV-304cs
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="IV-303-IV-282cs.c670.de">
+                                          IV-303 - IV-282cs
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="IV-280-IV-245cs.c6dc.de">
+                                          IV-280 - IV-245cs
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="IV-244cs-IV-210cs.c73d">
+                                          IV-244cs - IV-210cs
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="IV-209cs-IV-186.c7a5.de">
+                                          IV-209cs - IV-186
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="IV-185cs-IV-165cs.c809">
+                                          IV-185cs - IV-165cs
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="IV-164-IV-127cs.c86c.de">
+                                          IV-164 - IV-127cs
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="IV-122cs-IV-78c.c8d4.de">
+                                          IV-122cs - IV-78c
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="IV-70c-IV-16.c937.delay">
+                                          IV-70c - IV-16
+                                      </a>
+                </li>
+                                    </ul>
+      </div>
+    </div>
+    <!-- /right_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+  </div></div>
+<!-- /full -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/e0c4ebb700325956b835b709041e8de3.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Virksomhed/Metrologi-akkreditering-og-aedelmetal/Legal-metrologi-nationale-og-EOEF-typegodkendelser/Maalesystemer-til-vaesker-IV/IV-370-IV-330 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 15:15:58 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

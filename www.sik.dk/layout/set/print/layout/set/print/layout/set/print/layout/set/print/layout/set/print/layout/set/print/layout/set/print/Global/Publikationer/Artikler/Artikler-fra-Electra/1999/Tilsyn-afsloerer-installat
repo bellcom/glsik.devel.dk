@@ -1,0 +1,350 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Publikationer/Artikler/Artikler-fra-Electra/1999/Tilsyn-afsloerer-installationsfejl-Juni-1999 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 17:12:00 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                                    <title>    Tilsyn afslører installationsfejl (Juni 1999) / 1999 / Artikler fra Electra / Artikler / Publikationer / Global  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/172db9c811c86073f79ddeab86716aa8_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<!-- full -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+                        <li>
+                                    <a href="../../../../Publikationer.html">Publikationer</a>
+                          </li>
+          <li>
+                                    <a href="../../../Artikler.html">Artikler</a>
+                          </li>
+          <li>
+                                    <a href="../../Artikler-fra-Electra.html">Artikler fra Electra</a>
+                          </li>
+          <li>
+                                    <a href="../1999.html">1999</a>
+                          </li>
+        <li class="active">Tilsyn afslører installationsfejl (Juni 1999)</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../../../Publikationer.html">
+          Publikationer
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                        <li >
+            <a href="../../../Opgoerelser-over-ulykker.html">
+                          Opgørelser over ulykker
+                        </a>
+            </li>
+                                                  
+                                                  <li class="selected">
+            <a href="../../../Artikler.html">
+                          Artikler
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Faglige-rapporter.html">
+                          Faglige rapporter
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Foldere.html">
+                          Foldere
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Materialebestilling.html">
+                          Materialebestilling
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Undervisningsmateriale.html">
+                          Undervisningsmateriale
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Lovstof-og-standarder-om-el-og-gas.html">
+                          Lovstof og standarder om el og gas
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../DVD.html">
+                          DVD
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>  <div class="col-md-9 center-col">    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../../../layout/set/print/Global/Publikationer/Artikler/Artikler-fr/Tilsyn-afsloerer-instal" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+            <h1>Tilsyn afslører installationsfejl (Juni 1999)</h1>
+      <summary>
+        <p>
+                      
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+Ved tilsynsbesøg på nye installationer i 1998 har elselskaberne fundet flere fejl. Ny tilsynsordning på vej.
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+                            </p>
+      </summary>
+      <div class="pull-right social-icons">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://sik.dk/Global/Publikationer/Artikler/Artikler-fra-Electra/1999/Tilsyn-afsloerer-installationsfejl-Juni-1999" target="_blank"><i class="fa fa-facebook-square facebook-brand"></i></a>
+<a href="http://twitter.com/share?url=https://sik.dk/Global/Publikationer/Artikler/Artikler-fra-Electra/1999/Tilsyn-afsloerer-installationsfejl-Juni-1999" target="_blank"><i class="fa fa-twitter-square twitter-brand"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://sik.dk/Global/Publikationer/Artikler/Artikler-fra-Electra/1999/Tilsyn-afsloerer-installationsfejl-Juni-1999" target="_blank"><i class="fa fa-pinterest-square pinterest-brand"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sik.dk/Global/Publikationer/Artikler/Artikler-fra-Electra/1999/Tilsyn-afsloerer-installationsfejl-Juni-1999" target="_blank"><i class="fa fa-linkedin-square linkedin-brand"></i></a>
+<a href="mailto:?subject=Tilsyn afslører installationsfejl (Juni 1999)&body=https://sik.dk/Global/Publikationer/Artikler/Artikler-fra-Electra/1999/Tilsyn-afsloerer-installationsfejl-Juni-1999" target="_blank"><i class="fa fa-envelope-o mail-brand"></i></a>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+</div>
+      <br>
+      <hr>
+        
+              
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Artiklen fra Elektricitetsrådet har været bragt i Electra juni 1999</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Elselskaberne har i mange år efterset nyanmeldte installationer og eftersynsordningen blev fornyet i 1996 gående ud på, at der efterses 10 % af nye installationer.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>1998-resultatet</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Elselskaberne sender årligt indberetninger til Elektricitetsrådet om eftersynene. I 1998 har 79 ud af 95 elselskaber indsendt oplysninger om, at de har modtaget 28.955 færdigmeldinger på nye installationer eller større installationsudvidelser, at de har gennemført 2949 eftersyn og at de har sendt 1192 fejlmeddelelser til de respektive installatørfirmaer, som har udført installationsarbejderne.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Det aftalte 10% eftersynstjek er generelt blevet opfyldt, idet dog nogle elselskaber har lavet lidt mere og andre lidt mindre end de 10%.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Tilsynskategorier</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Indberetningerne til Rådet er delt op påfølgende tilsynsskategorier: Boliger, Handel og service,Industri, Landbrug og gartneri samt Andet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Antallet af færdigmeldinger, eftersyn og fejlmeddelelser fordelt på tilsynskategorierne fremgår af fig. 1 (Obs! vist logaritmisk), og som det ses, hvilket er naturligt nok, er der flest aktiviteter i forbindelse med &quot;Boliginstallationer&quot; (22.905 færdigmeldinger og 2258 eftersyn). Gennemsnittet for fejlmeddelelser i forhold til de foretagne eftersyn ligger på 40%, idet landbrug/gartneri ligger højest med 70%.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Fordeling af fejl</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Fig. 2 viser procentvis påviste fejl i forhold tilskrevne fejlmeddelelser på følgende installationskategorier: Tavler, Ledninger/materiel, Brugsgenstande, Beskyttelse mod chok, Udligningsforbindelser samt Gør-det-selv.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Tavlefejl ligger klart i spidsen med 38% efterfulgt af fejl ved ledninger/materiel på 30%. Fejl ved beskyttelse mod elchok udgør godt 15% og fejl ved udligningsforbindelser ligger på ca. 10%.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Ved en nærmere undersøgelse af udvalgte installationer i 1996 var fejlfordelingen principielt den samme,dog med lidt højere procenter.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Ved de foretagne installationseftersyn i 1998 er der fundet 138 farlige fejl (umiddelbart eller på kort sigt person- eller brandfare), 645 alvorlige fejl (på længere sigt farefor personer eller ejendom) og 1582 mindre fejl (tavlemærkninger o.l.).</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Materialet fra 1998 har ikke nærmere oplysninger om, hvilke installationsområder fejlene er fundet ved, men generelt viser tallene, selvom der er sket en forbedring af installationsstandarden, at eftersynene af nye installationer stadig er berettiget.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>På baggrund bl.a. heraf fortsætter tilsynsordningen og der indberettes periodevis til Elektricitetsrådet om alle relevante oplysninger om forskellige installationsforhold.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Ny tilsynsordning</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Den 1. januar 1999 blev Stærkstrømsloven ændret bl.a. således at Elektricitetsrådet kan pålægge elforsyningsvirksomhederne mod betaling at føre stikprøvevis kontrol med elektriske installationer, idet der stadig er mulighed for, at Rådet kan bemyndige andre til at udføre tilsynsopgaver.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Det er meningen, at den nye tilsynsordning fortsætter i samme spor som den gamle med kontrol af 10% af nyanmeldte installationer fordelt på de forskellige installationskategorier.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Der er i øvrigt for tiden ved at blive udarbejdet elektroniske installationsblanketter til brug for til- og færdigmeldinger af nye installationer og det overvejes at bruge disse blanketter for udtagning af installationer tileftersyn.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Tilsynsordningen kan udføres af elforsyningsvirksomheder, som ikke driver nogen form for sideordnet elinstallatørvirksomhed (krav til habilitetsforhold). Det er endvidere meningen at stille krav til de tilsynsførendes faglige kvalifikationer for at få en så god og ensartet kontrol som overhovedet muligt.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Ordningen er ved at blive etableret i øjeblikket medkontrakter mellem Elektricitetsrådet og de elselskaber, som fortsat er interesseret i at føre tilsyn.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Der skal fortsat indberettes til Rådet om konstaterede forhold ved eftersete elinstallationer.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Den nye tilsynsordning, der jo ikke bliver så meget anderledes end den hidtidige, vil træde i kraft fra 1.oktober 1999.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>I Electra nr. 7-8/97 var der en artikel om 1996-resultatet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+      
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+<!-- page_list_subitems -->    <div class="list-group">
+    </div><!-- /page_list_subitems -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+<hr>
+<div class="text-muted">
+    <small><span class="glyphicon glyphicon-time"></span> Sidst opdateret: 01-maj-2013</small><br>
+    <small><span class="glyphicon glyphicon-envelope"></span> Kontaktperson: <a title="" href="mailto:sik@sik.dk">webmaster</a></small>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+    </article>
+    <!--Content-End-->
+  </div></div>
+<!-- /full -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/fa9d6053e2ff2c687d5f9075346a055e.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Publikationer/Artikler/Artikler-fra-Electra/1999/Tilsyn-afsloerer-installationsfejl-Juni-1999 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 17:12:00 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

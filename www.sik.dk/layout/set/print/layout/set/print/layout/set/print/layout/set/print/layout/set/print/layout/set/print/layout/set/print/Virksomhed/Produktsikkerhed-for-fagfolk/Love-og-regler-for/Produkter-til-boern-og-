@@ -1,0 +1,437 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Virksomhed/Produktsikkerhed-for-fagfolk/Love-og-regler-for-produktsikkerhed/Produkter-til-boern-og-babyer-love-og-regler by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 16:58:08 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                        <title>    Produkter til børn og babyer - love og regler / Love og regler for produktsikkerhed / Produktsikkerhed for fagfolk / Virksomhed  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/172db9c811c86073f79ddeab86716aa8_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<!-- full -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+              <li>
+                                    <a href="../../../Virksomhed.html">Virksomhed</a>
+                          </li>
+          <li>
+                                    <a href="../../Produktsikkerhed-for-fagfolk.html">Produktsikkerhed for fagfolk</a>
+                          </li>
+          <li>
+                                    <a href="../Love-og-regler-for-produktsikkerhed.12bde">Love og regler for produktsikkerhed</a>
+                          </li>
+        <li class="active">Produkter til børn og babyer - love og regler</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../Produktsikkerhed-for-fagfolk.html">
+          Produktsikkerhed for fagfolk
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                        <li >
+            <a href="../I-fokus-paa-produktsikkerhed.html">
+                          I fokus
+                        </a>
+            </li>
+                                                  
+                                                  <li class="selected">
+            <a href="../Love-og-regler-for-produktsikkerhed.12bde">
+                          Love og regler
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Farlige-produkter.html">
+                          Farlige produkter
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Maerkning-af-produkter.html">
+                          Mærkning
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Vejledninger-om-produktsikkerhed.12be0.del">
+                          Vejledninger til producenter, importører og forhandlere
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Markedsovervaagning-af-nye-omraader.12be1">
+                          Markedsovervågning af nye områder
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>  <div class="col-md-6 center-col">    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../layout/set/print/Virksomhed/Produktsikkerhed-for-fagfolk/L/Produkter-til-boern-og-" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+              <img src="../../../var/plain_site/storage/images/forside/virksomhed/produktsi/Produkter-til-boern-og-" class="img-responsive" alt="" />
+            <h1>Produkter til børn og babyer - love og regler</h1>
+      <summary>
+        <p>
+                      
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+Vi har samlet gældende love og regler for produkter til børn og babyer. Se reglerne for legetøj, legepladsredskaber og babyudstyr. 
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+                            </p>
+      </summary>
+      <div class="pull-right social-icons">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://sik.dk/Virksomhed/Produktsikkerhed-for-fagfolk/Love-og-regler-for-produktsikkerhed/Produkter-til-boern-og-babyer-love-og-regler" target="_blank"><i class="fa fa-facebook-square facebook-brand"></i></a>
+<a href="http://twitter.com/share?url=https://sik.dk/Virksomhed/Produktsikkerhed-for-fagfolk/Love-og-regler-for-produktsikkerhed/Produkter-til-boern-og-babyer-love-og-regler" target="_blank"><i class="fa fa-twitter-square twitter-brand"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://sik.dk/Virksomhed/Produktsikkerhed-for-fagfolk/Love-og-regler-for-produktsikkerhed/Produkter-til-boern-og-babyer-love-og-regler" target="_blank"><i class="fa fa-pinterest-square pinterest-brand"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sik.dk/Virksomhed/Produktsikkerhed-for-fagfolk/Love-og-regler-for-produktsikkerhed/Produkter-til-boern-og-babyer-love-og-regler" target="_blank"><i class="fa fa-linkedin-square linkedin-brand"></i></a>
+<a href="mailto:?subject=Produkter til børn og babyer - love og regler&body=https://sik.dk/Virksomhed/Produktsikkerhed-for-fagfolk/Love-og-regler-for-produktsikkerhed/Produkter-til-boern-og-babyer-love-og-regler" target="_blank"><i class="fa fa-envelope-o mail-brand"></i></a>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+</div>
+      <br>
+      <hr>
+        
+              
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Sikkerhedsstyrelsen administrerer den generelle produktsikkerhed. Ved produkter til børn og babyer betyder det, at vi har ansvar for at kontrollere sikkerheden inden for følgende områder:</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+
+<ul>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="Legetoej-love-og-regler" title="Link til love og regler om legetøj" target="_self">Legetøj</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="Legeredskaber-love-og-r" title="Link til love og regler om legeredskaber" target="_self">Legepladsredskaber</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="Babyudstyr-love-og-regl" title="Link til love og regler om babyudstyr" target="_self">Babyudstyr</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+</ul>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>De tre områder bliver dækket af Produktsikkerhedsloven, Legetøjsdirektivet og Legetøjsbekendtgørelsen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Produktsikkerhedsloven</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Produktsikkerhedsloven gælder produkter, der bliver fremstillet, udbudt, solgt, tilbudt eller udført i Danmark, eller som er bestemt for udførelse til andre EU-lande.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="../../../../print.html" title="Link til produktsikkerhedsloven på sik.dk" target="_self">Link til Produktsikkerhedsloven</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Legetøjsbekendtgørelsen</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Legetøj bliver primært reguleret i Legetøjsbekendtgørelsen. Er der tale om et produkt, der klart er konstrueret eller bestemt til legeformål for børn under 14 år, er produktet defineret som et stykke legetøj og er derfor dækket af legetøjsbekendtgørelsen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Den 3. april 2017 trådte en ny legetøjsbekendtgørelse i kraft&nbsp;</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/InfoBox.tpl (design:content/datatype/view/ezxmltags/InfoBox.tpl) -->
+<div class="alert alert-info">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Vær opmærksom på, at nogle regler for kemikalieindholdet i legetøj først træder i kraft fra den 24. november 2017.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/InfoBox.tpl (design:content/datatype/view/ezxmltags/InfoBox.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=188523" title="Link til Retsinformation" target="_blank">Link til ny Legetøjsbekendtgørelse</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Legetøjsdirektivet</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Legetøjsdirektivet er implementeret i dansk lov i legetøjsbekendtgørelsen. Direktiverne anviser altid alternativer til brug af standarder, men det er frivilligt, om man vil anvende dem. Hvis et produkt overholder de relevante standarder, kan importøren eller fabrikanten formode, at produktet er i overensstemmelse med direktivets krav.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:170:0001:0037:da:PDF" title="Link til legetøjsdirektivet på EUR-Lex" target="_self">Link til Legetøjsdirektivet</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Sikkerhedsstyrelsen holder øje med produkterne på det danske marked, men udgangspunktet er stadig, at det er fabrikantens og importørens ansvar, at produkterne lever op til kravene om sikkerhed.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+      
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+<!-- page_list_subitems -->    <div class="list-group">
+        
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+<div class="line clearfix">
+  <h5><a href="Legetoej-love-og-regler">Legetøj - love og regler</a></h5>
+
+      <p>
+      
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+Legetøj er defineret som produkter, der klart er konstrueret eller bestemt til legeformål for børn under 14 år. Læs om gældende regler ved sikkerhed ved legetøj.
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+    </p>
+  
+  
+  </div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+        
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+<div class="line clearfix">
+  <h5><a href="Legeredskaber-love-og-r">Legeredskaber - love og regler</a></h5>
+
+      <p>
+      
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+Det er producenten og importørens ansvar at sikre, at legeredskaber lever op til lovgivningen og er sikre. Sikkerhedsstyrelsen er myndighed på produktsikkerhedsområdet, som også omfatter legeredskaber til brug på offentlige og private legepladser.
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+    </p>
+  
+  
+  </div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+        
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+<div class="line clearfix">
+  <h5><a href="Babyudstyr-love-og-regl">Babyudstyr - love og regler</a></h5>
+
+      <p>
+      
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+Babyudstyr dækker over et bredt udvalg af produkter fra barnevogne og vugger til bæreseler og narresutter. Find gældende love og regler på området.
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+    </p>
+  
+  
+  </div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+    </div><!-- /page_list_subitems -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+<hr>
+<div class="text-muted">
+    <small><span class="glyphicon glyphicon-time"></span> Sidst opdateret: 31-maj-2017</small><br>
+    <small><span class="glyphicon glyphicon-envelope"></span> Kontaktperson: <a title="" href="mailto:sik@sik.dk">webmaster</a></small>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+    </article>
+    <!--Content-End-->
+  </div>  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+<!-- right_menu_linkbox -->
+            
+            <div class="link-box right-menu">
+
+        <div class="body">
+          <ul>
+                                                                                                      <li >
+                  <a href="Produktsikkerhedsloven">
+                                          Produktsikkerhedsloven
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Direktivet-om-produktsi">
+                                          Direktivet om produktsikkerhed
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Elprodukter-love-og-reg">
+                                          Elprodukter
+                                      </a>
+                </li>
+                                                                                                                                                      <li class="selected">
+                  <a href="Produkter-til-boern-og-">
+                                          Produkter til børn og babyer
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Gasprodukter-love-og-re">
+                                          Gasprodukter
+                                      </a>
+                </li>
+                                    </ul>
+      </div>
+    </div>
+    <!-- /right_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+  </div></div>
+<!-- /full -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/fa9d6053e2ff2c687d5f9075346a055e.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Virksomhed/Produktsikkerhed-for-fagfolk/Love-og-regler-for-produktsikkerhed/Produkter-til-boern-og-babyer-love-og-regler by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 16:58:08 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

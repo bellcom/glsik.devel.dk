@@ -1,0 +1,297 @@
+.sikdiagram-wrapper{
+  transform: rotate(-90deg);
+  position: relative;
+  margin: 1em -30%;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.sikdiagram-wrapper svg{
+  position: relative;
+  top: 0;
+  max-width: 100vw;
+  width: 160%;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.sikdiagram-wrapper button.reset{
+  position: absolute;
+  display: block;
+  height: 12%;
+  width: 12%;
+  top: 50%;
+  left: 0;
+  right: 0;
+  transform: translateY(-50%) scale(1);
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: 99;
+  cursor: pointer;
+
+  border-radius: 50%;
+  border: 1px solid #333;
+  text-align: center;
+  background-color: transparent;
+  outline: none;
+
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+}
+.sikdiagram-wrapper button.reset:hover{
+  transform: translateY(-50%) scale(1.03);
+}
+.sikdiagram-wrapper button.reset::before,
+.sikdiagram-wrapper button.reset::after{
+  content: "";
+  position: absolute;
+  display: block;
+  background-color: #333;
+  height: 4%;
+  width: 40%;
+  top: 48%;
+  left: 30%;
+  transform: rotate(45deg);
+}
+.sikdiagram-wrapper button.reset::before{
+  transform: rotate(-45deg);
+}
+
+.sikdiagram-wrapper .label-wrapper{
+  display: block;
+  position: absolute;
+  height: 3em;
+  top: 50%;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  pointer-events: none;
+  /*border: 1px dashed red;*/
+}
+.sikdiagram-wrapper .label-wrapper::after,
+.sikdiagram-wrapper .label-wrapper .label{
+  color: inherit;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 0 1em;
+  box-sizing: border-box;
+  pointer-events: all;
+}
+.sikdiagram-wrapper .label-wrapper .label.hasinfo:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+.sikdiagram-wrapper .label-wrapper .label.inverted{
+  transform: rotate(180deg);
+}
+
+.sikdiagram-wrapper .infobox{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  top: 50%;
+  padding: 25% 15%;
+  opacity: 0;
+  transform: translateY(-200%) rotate(90deg);
+  transition: transform 1s ease 0s, opacity .4s ease 0s;
+  -webkit-transform: translateY(-200%) rotate(90deg);
+  -webkit-transition: -webkit-transform 1s ease 0s, opacity .4s ease 0s;
+}
+.sikdiagram-wrapper.active .infobox{
+  opacity: 1;
+  transform: translateY(0%) rotate(90deg);
+  transition: transform 1s ease 0s, opacity .4s ease 0.6s;
+  -webkit-transform: translateY(0%) rotate(90deg);
+  -webkit-transition: -webkit-transform 1s ease 0s, opacity .4s ease 0.6s;
+}
+
+.sikdiagram-wrapper .select-wrapper{
+  display: none;
+  position: absolute;
+  bottom: -3em;
+  width: 100%;
+}
+.sikdiagram-wrapper .select-wrapper select{
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  appearance: none;
+
+  background-color: #FFF;
+  padding: .5em 1em;
+  width: 33.333%;
+  display: inline-block;
+}
+
+.sikdiagram-wrapper button.reset{
+  opacity: 0;
+  transition: all 1s;
+}
+.sikdiagram-wrapper.active button.reset{
+  opacity: 1;
+  transition: all 1s ease 1s;
+}
+
+.hideonactive{
+  opacity: 1;
+  transition: opacity 1s ease 1s;
+}
+.sikdiagram-wrapper.active .hideonactive{
+  opacity: 0 !important;
+  transition: opacity 1s ease 0s;
+}
+.sikdiagram-wrapper svg rect[id*="outerseperator"]{
+  transform-origin: 50% 50%;
+  transform-origin: 50px 50px;
+}
+.sikdiagram-wrapper svg circle[id*="outerring"],
+.sikdiagram-wrapper svg line{
+  stroke-opacity: 1;
+  transition: stroke-opacity 1s ease 1s;
+}
+.sikdiagram-wrapper.active svg circle[id*="outerring"],
+.sikdiagram-wrapper.active svg line{
+  stroke-opacity: 0 !important;
+  transition: stroke-opacity 1s ease 0s;
+}
+
+
+
+.sikdiagram-wrapper svg circle:nth-child(1),
+.sikdiagram-wrapper svg circle:nth-child(2),
+.sikdiagram-wrapper svg circle:nth-child(3){
+  transition: all 1s ease 1s;
+}
+.sikdiagram-wrapper.active svg circle:nth-child(1),
+.sikdiagram-wrapper.active svg circle:nth-child(2),
+.sikdiagram-wrapper.active svg circle:nth-child(3){
+  transition: all 1s ease 0s;
+}
+
+/*.sikdiagram-wrapper svg circle[id*="outerring"],*/
+.sikdiagram-wrapper svg rect[id*="outerseperator"]{
+  -webkit-transition: all 1s ease 1s;
+  transition: all 1s ease 1s;
+}
+/*.sikdiagram-wrapper.active svg circle[id*="outerring"],*/
+.sikdiagram-wrapper.active svg rect[id*="outerseperator"]{
+  -webkit-transition: all 1s ease 0s;
+  transition: all 1s ease 0s;
+}
+
+
+.sikdiagram-wrapper .list-wrapper{
+  display: none;
+}
+.sikdiagram-wrapper .list-wrapper ul{list-style: none;}
+.list-wrapper .main-list{padding: 0;}
+/*Top level Label*/
+.list-wrapper .main-list > li > p.li-label{
+  font-size: 18px;
+  font-weight: 600;
+  padding: .4em 1em;
+}
+
+.list-wrapper .main-list li p.li-label ~ ul,
+.list-wrapper .main-list li p.li-label ~ div {display: none;}
+.list-wrapper .main-list li p.li-label.active ~ * {display: block;}
+
+.list-wrapper .main-list li p.li-label{margin: 1em 0 0; padding: .4em 2em .4em 1em; text-transform: uppercase;}
+.list-wrapper .main-list li div{
+  background-color: #F5F5F5;
+  padding: 1em;
+  border: 1px solid #333;
+  border-top: none;
+}
+.list-wrapper .main-list li div p{
+  margin: 0;
+}
+
+.list-wrapper .main-list .has-info > .li-label,
+.list-wrapper .main-list .has-children > .li-label{
+  cursor: pointer;
+  position: relative;
+}
+.list-wrapper .main-list .has-info > .li-label::after,
+.list-wrapper .main-list .has-children > .li-label::after{
+  content: "+";
+  position: absolute;
+  right: 1em;
+  top: .4em;
+}
+.list-wrapper .main-list .has-info > .li-label.active::after,
+.list-wrapper .main-list .has-children > .li-label.active::after{
+  content: "-";
+}
+
+/*****Sik.dk style override compenstation START */
+/*.sikdiagram-wrapper {
+  margin: 1em -40%;
+}*/
+
+.sikdiagram-wrapper h1,
+.sikdiagram-wrapper h2,
+.sikdiagram-wrapper h3,
+.sikdiagram-wrapper h4,
+.sikdiagram-wrapper h5 {
+  font-size: medium;
+}
+
+.sikdiagram-wrapper h3 {
+  font-weight: bold;
+}
+
+.sikdiagram-wrapper .label-wrapper .label {
+  display: block;
+  padding: 0 1em;
+  margin: 1em 0;
+  font-size: inherit;
+  font-weight: normal;
+  line-height: initial;
+  color: inherit;
+  white-space: normal;
+  border-radius: initial;
+}
+/*****Sik.dk style override compenstation END */
+
+@media ( max-width: 1170px ) {
+  .sikdiagram-wrapper{
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    height: auto !important;
+    overflow: visible;
+    border-radius: 0;
+    transform: rotate(0deg);
+  }
+  .sikdiagram-wrapper .list-wrapper{
+    display: block;
+  }
+  .sikdiagram-wrapper svg{
+    display: none;
+    border-radius: 0;
+  }
+  .sikdiagram-wrapper .label{
+    display: none !important;
+  }
+
+  .sikdiagram-wrapper .infobox{
+    display: none;
+    left: 0;
+    background-color: rgba(255,255,255,.8);
+    color: #333 !important;
+  }
+
+  .sikdiagram-wrapper p.headlabel {
+    display: block;
+    position: absolute;
+    z-index: 999;
+    margin: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 0 68% 0 7%;
+    word-break: break-all;
+  }
+}

@@ -1,0 +1,468 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Virksomhed/Fyrvaerkeri-for-fagfolk/Love-og-regler-inden-for-fyrvaerkeri/Bekendtgoerelser-om-fyrvaerkeri by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 17:42:35 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                        <title>    Bekendtgørelser om fyrværkeri / Love og regler inden for fyrværkeri / Fyrværkeri for fagfolk / Virksomhed  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/4a99891d7bae34142174fac0a99f706b_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<!-- full -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+              <li>
+                                    <a href="../../../Virksomhed.html">Virksomhed</a>
+                          </li>
+          <li>
+                                    <a href="../../Fyrvaerkeri-for-fagfolk.html">Fyrværkeri for fagfolk</a>
+                          </li>
+          <li>
+                                    <a href="../Love-og-regler-inden-for-fyrva">Love og regler inden for fyrværkeri</a>
+                          </li>
+        <li class="active">Bekendtgørelser om fyrværkeri</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../Fyrvaerkeri-for-fagfolk.html">
+          Fyrværkeri for fagfolk
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                        <li >
+            <a href="../Fremstilling-import-og-salg.16">
+                          Fremstilling, import og salg
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Info-til-fyrvaerkeribranchen.1">
+                          Information til fyrværkeribranchen
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Info-til-kommuner-om-fyrvaerke">
+                          Information til kommunerne om fyrværkeri
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Uddannelse-som-fyrvaerker.166d">
+                          Uddannelse som fyrværker
+                        </a>
+            </li>
+                                                  
+                                                  <li class="selected">
+            <a href="../Love-og-regler-inden-for-fyrva">
+                          Love og regler inden for fyrværkeri
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Blanketter-om-fyrvaerkeri.166d">
+                          Blanketter
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Vejledninger-om-fyrvaerkeri.16">
+                          Vejledninger om fyrværkeri
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>  <div class="col-md-6 center-col">    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../layout/set/print/Virksomhed/Fyrvaerkeri-f/Bekendtgoerelser-om-fyr" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+            <h1>Bekendtgørelser om fyrværkeri</h1>
+      <summary>
+        <p>
+                      
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+Få en oversigt over særlige bekendtgørelser om fyrværkeri. Her kan du hente links til de enkelte bekendtgørelser eller sammenskrevet versioner, som også indeholder ændringerne til bekendtgørelserne.  
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+                            </p>
+      </summary>
+      <div class="pull-right social-icons">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://sik.dk/Virksomhed/Fyrvaerkeri-for-fagfolk/Love-og-regler-inden-for-fyrvaerkeri/Bekendtgoerelser-om-fyrvaerkeri" target="_blank"><i class="fa fa-facebook-square facebook-brand"></i></a>
+<a href="http://twitter.com/share?url=https://sik.dk/Virksomhed/Fyrvaerkeri-for-fagfolk/Love-og-regler-inden-for-fyrvaerkeri/Bekendtgoerelser-om-fyrvaerkeri" target="_blank"><i class="fa fa-twitter-square twitter-brand"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://sik.dk/Virksomhed/Fyrvaerkeri-for-fagfolk/Love-og-regler-inden-for-fyrvaerkeri/Bekendtgoerelser-om-fyrvaerkeri" target="_blank"><i class="fa fa-pinterest-square pinterest-brand"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sik.dk/Virksomhed/Fyrvaerkeri-for-fagfolk/Love-og-regler-inden-for-fyrvaerkeri/Bekendtgoerelser-om-fyrvaerkeri" target="_blank"><i class="fa fa-linkedin-square linkedin-brand"></i></a>
+<a href="mailto:?subject=Bekendtgørelser om fyrværkeri&body=https://sik.dk/Virksomhed/Fyrvaerkeri-for-fagfolk/Love-og-regler-inden-for-fyrvaerkeri/Bekendtgoerelser-om-fyrvaerkeri" target="_blank"><i class="fa fa-envelope-o mail-brand"></i></a>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+</div>
+      <br>
+      <hr>
+        
+              
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+<a name="eztoc341732_0_0_1" id="eztoc341732_0_0_1"></a><h4>Krav til fyrværkeri</h4>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Bekendtgørelse nr. 1423 af 16. december 2009 om krav til fyrværkeri og andre pyrotekniske artikler.<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=129411" title="Link til Retsinformation.dk" target="_blank">Link til Retsinformation.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/26740/355022/version/1/f/Download%2bsammenskrevet%2b">Download sammenskrevet version</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Bekendtgørelse nr. 885 af 1. juli 2013 om ændring af bekendtgørelse om krav til fyrværkeri og andre pyrotekniske artikler.<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=152763" title="Link til Retsinformation.dk" target="_blank">Link til Retsinformation.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Bekendtgørelse nr. 710 af 24. juni 2014 om ændring af bekendtgørelse om krav til fyrværkeri og andre pyrotekniske artikler.<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=164020" title="Link til Retsinformation.dk" target="_blank">Link til Retsinformation.dk&nbsp;</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Bekendtgørelse nr. 522 af 27. april 2015 om ændring af bekendtgørelse om krav til fyrværkeri og andre pyrotekniske artikler.<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=169913" title="Link til Retsinformation.dk" target="_blank">Link til Retsinformation.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Bekendtgørelse nr. 1386 af 25. november 2016 om ændring af bekendtgørelse om krav til fyrværkeri og andre pyrotekniske artikler.<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=185044" title="Link til Retsinformation.dk" target="_blank">Link til Retsinformation.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+<a name="eztoc341732_0_0_2" id="eztoc341732_0_0_2"></a><h4>Indførsel, fremstilling, opbevaring, overdragelse, erhvervelse og anvendelse af fyrværkeri og andre pyrotekniske artikler</h4>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Bekendtgørelse nr. 1424 af 16. december 2009 om indførsel, fremstilling, opbevaring, overdragelse, erhvervelse og anvendelse af fyrværkeri og andre pyrotekniske artikler.<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=129413" title="Link til Retsinformation.dk" target="_blank">Link til Retsinformation.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../content/download/26741/355026/version/1/f/Download%2bsammenskrevet%2b">Download sammenskrevet version</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Bekendtgørelse nr. 855 af 2. juli 2010 om ændring af bekendtgørelse om indførsel, fremstilling, opbevaring, overdragelse, erhvervelse og anvendelse af fyrværkeri og andre pyrotekniske artikler.<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=132794" title="Link til Retsinformation.dk" target="_blank">Link til Retsinformation.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Bekendtgørelse nr. 1093 af 8. oktober 2014 om ændring af bekendtgørelse om indførsel, fremstilling, opbevaring, overdragelse, erhvervelse og anvendelse af fyrværkeri og andre pyrotekniske artikler. <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+(Indskrænkning af salg- og anvendelsesperioder for fyrværkeri samt ændring af de tekniske forskrifter.)<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=165060" title="Link til Retsinformation.dk" target="_blank">Link til Retsinformation.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+&nbsp;</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Bekendtgørelse nr. 1385 af 25. november 2016 om ændring af bekendtgørelse om indførsel, fremstilling, opbevaring, overdragelse, erhvervelse og anvendelse af fyrværkeri og andre pyrotekniske artikler.<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=185043" title="Link til Retsinformation.dk" target="_blank">Link til Retsinformation.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+<a name="eztoc341732_0_0_3" id="eztoc341732_0_0_3"></a><h4>Godkendelse og udøvelse af erhverv som festfyrværker på baggrund af udenlandske erhvervsmæssige kvalifikationer</h4>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Bekendtgørelse nr. 1425 af 16. december 2009 om godkendelse og udøvelse af erhverv som festfyrværker på baggrund af udenlandske erhvervsmæssige kvalifikationer.<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=129423" title="Link til Retsinformation.dk" target="_blank">Link til Retsinformation.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Bekendtgørelse nr. 59 af 13. januar 2016 om ændring af bekendtgørelse om godkendelse og udøvelse af erhverv som festfyrværker på baggrund af udenlandske erhvervsmæssige kvalifikationer.<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=177090" title="Link til Retsinformation.dk" target="_blank">Link til Retsinformation.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+&nbsp;</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+<a name="eztoc341732_0_0_4" id="eztoc341732_0_0_4"></a><h4>Godkendelse som festfyrværker</h4>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Bekendtgørelse nr. 482 af 18. maj 2017 om godkendelse som festfyrværker.<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=191245" title="Link til Retsinformation.dk" target="_blank">Link til Retsinformation.dk&nbsp;</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+      
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+<!-- page_list_subitems -->    <div class="list-group">
+    </div><!-- /page_list_subitems -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+<hr>
+<div class="text-muted">
+    <small><span class="glyphicon glyphicon-time"></span> Sidst opdateret: 09-nov-2017</small><br>
+    <small><span class="glyphicon glyphicon-envelope"></span> Kontaktperson: <a title="" href="mailto:sik@sik.dk">webmaster</a></small>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+    </article>
+    <!--Content-End-->
+  </div>  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+<!-- right_menu_linkbox -->
+            
+            <div class="link-box right-menu">
+
+        <div class="body">
+          <ul>
+                                                                                                      <li >
+                  <a href="CE-maerkning-af-konsumf">
+                                          CE-mærkning af konsumfyrværkeri
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Krav-om-CE-maerkning-af">
+                                          Krav om CE-mærkning af professionelt fyrværkeri
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="AEndringer-af-fyrvaerke">
+                                          Ændringer af fyrværkeriloven
+                                      </a>
+                </li>
+                                                                                                                                                      <li class="selected">
+                  <a href="Bekendtgoerelser-om-fyr">
+                                          Bekendtgørelser om fyrværkeri
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Fyrvaerkeriloven.13d7f">
+                                          Fyrværkeriloven
+                                      </a>
+                </li>
+                                    </ul>
+      </div>
+    </div>
+    <!-- /right_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+  </div></div>
+<!-- /full -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/41b925061e05fa3c114244590493915c.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Virksomhed/Fyrvaerkeri-for-fagfolk/Love-og-regler-inden-for-fyrvaerkeri/Bekendtgoerelser-om-fyrvaerkeri by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 17:42:35 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

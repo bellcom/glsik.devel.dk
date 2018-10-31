@@ -1,0 +1,601 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Forbruger/Gas-vand-og-afloeb/Information-om-gas/Gas-fra-Tyskland by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 18:34:39 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                        <title>    Gas fra Tyskland / Information om gas / Gas, vand og afløb / Forbruger  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/4a99891d7bae34142174fac0a99f706b_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/full/faq_page.tpl (design:node/view/full.tpl) -->
+
+<!-- full/faq_page -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+              <li>
+                                    <a href="../../../Forbruger.html">Forbruger</a>
+                          </li>
+          <li>
+                                    <a href="../../Gas-vand-og-afloeb.html">Gas, vand og afløb</a>
+                          </li>
+          <li>
+                                    <a href="../Information-om-gas.html">Information om gas</a>
+                          </li>
+        <li class="active">Gas fra Tyskland</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3 link-box">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../Gas-vand-og-afloeb.html">
+          Gas, vand og afløb
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                        <li >
+            <a href="../Se-hvad-du-maa-gas-og-vvs.16652.dela">
+                          Se, hvad du må (gas og vvs)
+                        </a>
+            </li>
+                                                  
+                                                  <li class="selected">
+            <a href="../Information-om-gas.html">
+                          Information om gas
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Vejledninger-til-goer-det-selv-vvs.1">
+                          Vejledninger til gør-det-selv vvs
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Vejledninger-om-flaskegas.16655.dela">
+                          Vejledninger om flaskegas
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Gode-raad-om-gas-og-vvs.16656.delaye">
+                          Gode råd om gas og vvs
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Ofte-stillede-spoergsmaal-om-autoris">
+                          Ofte stillede spørgsmål om autoriseret arbejde
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>
+
+  <div class="col-md-6 center-col">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../layout/set/print/Forbruger/Gas-vand-og-af/Gas-fra-Tyskland.17e9d" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+      <h1>Gas fra Tyskland</h1>
+      <summary>
+        <p>
+        
+                  
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+Siden 2010 har danske gashandlere kunne importere gas fra Tyskland. Få svar på spørgsmål om gas fra Tyskland. Klik på spørgsmålene for at se svaret.
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+                </p>
+      </summary>
+      <hr>
+
+          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+<div class="faq-item">
+  <div class="question hover">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Hvorfor skal Danmark have gas fra Tyskland, når der stadig er gas i Nordsøen?</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+  <div class="answer">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Der er to årsager:</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/ol.tpl (design:content/datatype/view/ezxmltags/ol.tpl) -->
+
+<ol>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Gassen i den danske del af Nordsøen slipper op inden for den nærmeste fremtid. Præcist hvornår ved vi ikke, men vi vil være forberedt på den situation ved blandt andet at importere gas fra Tyskland.</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>For at skaffe forbrugerne de bedste priser. Vi kan indimellem få billigere gas fra Tyskland, end vi kan fra Nordsøen.</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+</ol>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/ol.tpl (design:content/datatype/view/ezxmltags/ol.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+<div class="faq-item">
+  <div class="question hover">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Hvornår kommer der gas fra Tyskland?</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+  <div class="answer">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>De danske gashandlere har siden oktober 2010 kunnet importere gas fra Tyskland, og de vil fremover fortsætte med at gøre det. Hvor ofte, og i hvor store mængder, afhænger af markedsforholdene. Hvis gassen er billigere i Tyskland end i Danmark, vil det være naturligt at importere gassen fra Tyskland.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+<div class="faq-item">
+  <div class="question hover">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Er der noget i farligt i gassen fra Tyskland?</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+  <div class="answer">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Nej, den importerede gas indeholder de samme komponenter som den danske gas, og den skal opfylde de betingelser og specifikationer, som de danske myndigheder har fastsat.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+<div class="faq-item">
+  <div class="question hover">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Har gassen fra Tyskland betydning for sikkerheden?</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+  <div class="answer">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Nej, der er ingen ændringer i sikkerhedsniveauet, og den tyske gas er tilsat lugtstof i lighed med den danske.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+<div class="faq-item">
+  <div class="question hover">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Kan man lugte, at det er en anden gas?</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+  <div class="answer">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Nej, det kan man ikke. Gassen bliver tilsat det samme velkendte lugtstof som den danske gas fra Nordsøen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+<div class="faq-item">
+  <div class="question hover">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Hvorfor sørger Energinet.dk ikke for, at gassen fra Tyskland justeres til samme kvalitet som den danske gas fra Nordsøen?</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+  <div class="answer">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Det er muligt at justere gassen, men det er meget dyrt og ikke nødvendigt.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+<div class="faq-item">
+  <div class="question hover">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Hvor store mængder gas vil gashandlerne importere?</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+  <div class="answer">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Indtil videre kan der importeres ca. 200.000 m3/t, men hvor meget der kommer fra Tyskland afhænger af efterspørgsel og pris på markedet. Indtil 2013, hvor udbygningen af transmissionsnettet i Syd- og Sønderjylland er klar, vil gassen fra Tyskland kunne udgøre op til en tredjedel af den gas, som anvendes i Danmark.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+<div class="faq-item">
+  <div class="question hover">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Hvor langt op / rundt i Danmark når gassen fra Tyskland?</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+  <div class="answer">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Det kommer an på forsyningssituationen. Nogle gange kommer gassen kun til Sønderjylland, men oftest vil den komme forbi Egtved og blive blandet med den danske gas fra Nordsøen. Fra 2013 får hele Danmark glæde af den importerede gas fra Tyskland, når de nye gasrør fra Tyskland til Danmark og en kompressorstation ved Egtved står klar.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+<div class="faq-item">
+  <div class="question hover">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Er prisen for den importerede gas fra Tyskland den samme?</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+  <div class="answer">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Prisen for en kubikmeter gas korrigeres efter energiindholdet. Det vil sige, at man betaler for den energimængde man forbruger, og ikke for de kubikmeter man forbruger. Prisen bliver altså den samme, selv om man kan se gasmåleren løbe hurtigere rundt med tysk gas i rørene.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/InfoBox.tpl (design:content/datatype/view/ezxmltags/InfoBox.tpl) -->
+<div class="alert alert-info">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Har du uddybende spørgsmål vedrørende afregning, kan du kontakte dit lokale distributionsselskab.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/InfoBox.tpl (design:content/datatype/view/ezxmltags/InfoBox.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+<div class="faq-item">
+  <div class="question hover">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Har gassen fra Tyskland et højere indhold af CO2?</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+  <div class="answer">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Gas fra Tyskland og gas fra Nordsøen har næsten samme CO2 emissionsfaktor.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+<div class="faq-item">
+  <div class="question hover">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Jeg har hørt, at der kommer biogas i gassen fra Tyskland. Er det farligt?</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+  <div class="answer">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Nej, vores danske gassystem kan sagtens håndtere biogas, og biogassen skal også opfylde de krav, som de danske myndigheder har fastsat.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+<div class="faq-item">
+  <div class="question hover">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Vil der også komme russisk gas?</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+  <div class="answer">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Den gas vi i dag importerer fra Tyskland stammer primært fra Holland, Norge og Tyskland. I 2013, når udbygningen af transmissionsnettet i Syd- og Sønderjylland er klar, forventer Energinet.dk, at en stor del af gassen fra Tyskland vil være russisk gas. Den russiske gas ligner den gas, der kommer fra Tyskland i dag.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+<div class="faq-item">
+  <div class="question hover">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Hvor finder jeg information om gaskvaliteten?</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+  <div class="answer">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Data om gaskvaliteten finder du hos Energinet.dk.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="https://www.energinet.dk/Gas/Gaskvalitet" title="Link til Energinet.dk" target="_blank">Link til data om gaskvalitet</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+</div>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl (extension/sikkerhedsstyrelsen/design/design_2013/override/templates/line/faq_item.tpl) -->
+    
+    </article>
+    <!--Content-End-->
+  </div>
+
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+<!-- right_menu_linkbox -->
+            
+            <div class="link-box right-menu">
+
+        <div class="body">
+          <ul>
+                                                                                                      <li >
+                  <a href="Hvem-arbejder-med-gas-i">
+                                          Hvem arbejder med gas i Danmark?
+                                      </a>
+                </li>
+                                                                                                                                                      <li class="selected">
+                  <a href="Gas-fra-Tyskland.154f5">
+                                          Gas fra Tyskland
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Drift-gaskedel-og-udsty">
+                                          Drift, gaskedel og udstyr
+                                      </a>
+                </li>
+                                    </ul>
+      </div>
+    </div>
+    <!-- /right_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+  </div>
+</div>
+<!-- /full/faq_page -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/full/faq_page.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/3043f7ff57f1c700ecf15073cc376990.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Forbruger/Gas-vand-og-afloeb/Information-om-gas/Gas-fra-Tyskland by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 18:34:39 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artikler fra Sikkerhedsstyrelsen</title>
+    <link>https://www.sik.dk/</link>
+    <description>Sikkerhedsstyrelsen udgiver selv artikler inden for forskellige fagområder. Hent RSS-feed på artikler fra Sikkerhedsstyrelsen</description>
+    <language>da-DK</language>
+    <managingEditor>webmaster@sik.dk ()</managingEditor>
+    <pubDate>Tue, 30 Oct 2018 11:21:11 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Oct 2018 11:21:11 +0000</lastBuildDate>
+    <generator>eZ Components Feed dev (http://ezcomponents.org/docs/tutorials/Feed)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <atom:link href="https://www.sik.dk/rss/feed/artikler_fra_sikkerhedsstyrelsen" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Aftræk er en vvs-opgave</title>
+      <link>https://www.sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Aftraek-er-en-vvs-opgave</link>
+      <description>Det er kun en autoriseret vvs-installatør, der må udskifte eller ændre på gasaftrækket, når et tag skal udskiftes eller renoveres. Hvis et aftræk ikke er monteret korrekt, kan det have livsfarlige konsekvenser.</description>
+      <author>webmaster@sik.dk (Majbrit Vester)</author>
+      <guid isPermaLink="false">cc17d48c4f839378aa655b165de69966</guid>
+      <pubDate>Wed, 20 Nov 2013 08:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ombygning af belysningsarmaturer giver risiko for livsfarligt stød</title>
+      <link>https://www.sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Ombygning-af-belysningsarmaturer-giver-risiko-for-livsfarligt-stoed</link>
+      <description>Myndighederne i EU advarer mod LED-udskiftningsrør og ombygninger af eksisterende belysningsarmaturer. En anbefaling fra myndighederne på området (LVD-ADCO) beskriver, hvad du som erhvervsdrivende kan gøre for at overholde sikkerhedskravene i lavspændingsdirektivet. Sikkerhedsstyrelsen har fået oversat anbefalingen til dansk. Den kan du finde på styrelsens hjemmeside. </description>
+      <guid isPermaLink="false">23a7b32bcbf0e3c26077fe4b63741518</guid>
+      <pubDate>Thu, 31 Oct 2013 11:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fjernaflæsning: forbrugeren skal kende datoen</title>
+      <link>https://www.sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Fjernaflaesning-forbrugeren-skal-kende-datoen</link>
+      <description>FORBRUGSMÅLERE: Vælger man at fjernaflæse forbrugsmålere, skal forbrugerne vide tidspunktet på forhånd. Hvis fjernaflæsningen ikke viser det samme som visningen på den godkendte måler ude hos forbrugeren, så er det visningen hos forbrugeren, der gælder.</description>
+      <author>webmaster@sik.dk (Majbrit Vester)</author>
+      <guid isPermaLink="false">5406752b2ff4daf15759b370f7dce3f4</guid>
+      <pubDate>Tue, 29 Oct 2013 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snyder vægten dig eller dine kunder?</title>
+      <link>https://www.sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Snyder-vaegten-dig-eller-dine-kunder</link>
+      <description>Vægte, der anvendes til at veje og prissætte guld og andre ædle metaller med, skal veje nøjagtigt – ellers risikerer ædelmetallet at blive handlet til en ”forkert” pris, og så er det enten dig som forhandler eller dine kunder, der bliver snydt.</description>
+      <author>webmaster@sik.dk (Majbrit Vester)</author>
+      <guid isPermaLink="false">beca74a345f064711098f966dcf709ab</guid>
+      <pubDate>Tue, 15 Oct 2013 09:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Solcelleanlæg sender strømmen i flere retninger</title>
+      <link>https://www.sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Solcelleanlaeg-sender-stroemmen-i-flere-retninger</link>
+      <description>Mere end 83.000 husstande, har installeret et solcelleanlæg. Det betyder, at der ofte vil være elforsyning til nettet fra flere sider.  </description>
+      <author>webmaster@sik.dk (Majbrit Vester)</author>
+      <guid isPermaLink="false">1e29576e40851369e6488c20932c4a82</guid>
+      <pubDate>Tue, 08 Oct 2013 11:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gør byggepladsen elsikker</title>
+      <link>https://www.sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Goer-byggepladsen-elsikker</link>
+      <description>På en byggeplads færdes der både murere, tømrere, elektrikere og andre håndværkere, og der bliver ofte talt mange forskellige sprog. Alle faggrupper har indflydelse på sikkerheden. Måske kommer et elkabel i vejen og bliver flyttet, uden at den, der gør det, er klar over, at det kan være en sikkerhedsrisiko for andre. Derfor er der brug for information, inden det går ud over elsikkerheden.</description>
+      <author>webmaster@sik.dk (Boris Gøbel Schmidt)</author>
+      <guid isPermaLink="false">ca0c94f54395de69294f79d408b846a1</guid>
+      <pubDate>Fri, 27 Sep 2013 09:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nye tider på elnettet</title>
+      <link>https://www.sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Nye-tider-paa-elnettet</link>
+      <description>Tidligere kom stort set hele forsyningen til lavspændingsnettet fra 10/0,4 kV-transformerstationer. Men den traditionelle produktion, er over det seneste par år blevet suppleret med produktion fra mere end 83.000 private solcelleanlæg i Danmark, som leverer deres overskudsproduktion af el til forsyningsnettet. Det har betydet en ny situation ved arbejde på lavspændingsnettet, både for installatører og forsyningsselskaber.</description>
+      <author>webmaster@sik.dk (Majbrit Vester)</author>
+      <guid isPermaLink="false">82ca14db341d56b47ce0dea50af53e8a</guid>
+      <pubDate>Tue, 10 Sep 2013 12:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ny gratis app fra Sikkerhedsstyrelsen til dig: Hvad må laves af el og vvs uden autorisation</title>
+      <link>https://www.sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Ny-gratis-app-fra-Sikkerhedsstyrelsen-til-dig-Hvad-maa-laves-af-el-og-vvs-uden-autorisation</link>
+      <description>Sikkerhedsstyrelsen har lavet 15 korte informationsvideoer, som viser, hvad forbrugere og virksomheder uden autorisation må lave af el og vvs-arbejde. Videoerne er lavet til en app, som man gratis kan hente ned på sin Iphone eller smartphone.</description>
+      <guid isPermaLink="false">de03c5eef3ccd261197d63663b84ec3f</guid>
+      <pubDate>Mon, 26 Aug 2013 12:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Undgå skader ved gravearbejde nær jordkabler</title>
+      <link>https://www.sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Undgaa-skader-ved-gravearbejde-naer-jordkabler</link>
+      <description>I Danmark er store dele af luftledningsanlæggene blevet kabellagt og gravet ned i jorden. Men med kablerne nede i jorden øges risikoen for kabelskader. Derfor er det vigtigt, at du har styr på reglerne. Og det vil Sikkerhedsstyrelsen gerne hjælpe dig med.</description>
+      <author>webmaster@sik.dk (Majbrit Vester)</author>
+      <guid isPermaLink="false">78f6a464efd9ee258a01a94e59c76c1c</guid>
+      <pubDate>Mon, 12 Aug 2013 10:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Produkter til børn skal være sikre</title>
+      <link>https://www.sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Produkter-til-boern-skal-vaere-sikre</link>
+      <description>Som distributør skal du overholde produktsikkerhedsloven, og du har et medansvar for kun at bringe sikre produkter på markedet. Produkterne skal være korrekt mærkede, og den nødvendige brugsvejledning skal følge med. Som distributør er du forpligtet til at samarbejde med Sikkerhedsstyrelsen, så farlige produkter ikke når ud til forbrugerne.</description>
+      <guid isPermaLink="false">508884e863a4f388b0e5d7a42ef22dae</guid>
+      <pubDate>Thu, 04 Jul 2013 07:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tjek solcelleinstallationerne</title>
+      <link>https://www.sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Tjek-solcelleinstallationerne</link>
+      <description>Er kablerne fra solcelleanlægget i orden? Er der en effektiv jordforbindelse? Og er der installeret den rigtige type HPFI-afbryder?</description>
+      <guid isPermaLink="false">6a758ec2e37405e47261133523ce5e64</guid>
+      <pubDate>Fri, 07 Jun 2013 07:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sikkerhedsstyrelsen tester gaskøleskabe</title>
+      <link>https://www.sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Sikkerhedsstyrelsen-tester-gaskoeleskabe</link>
+      <description>I 2010 døde to personer i Finland, fordi et gaskøleskab udledte en større mængde kulilte (CO) end tilladt. Så galt gik det heldigvis ikke i Danmark, da tre personer i 2011 blev kulilteforgiftet på grund af et lignende køleskab. Sikkerhedsstyrelsen vil nu teste en række gaskøleskabe med el-tilslutning.</description>
+      <author>webmaster@sik.dk (Majbrit Vester)</author>
+      <guid isPermaLink="false">eebe8da7b7bf3738a984cd7f54f4dc54</guid>
+      <pubDate>Mon, 03 Jun 2013 12:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Byggepladser har problemer med elsikkerheden</title>
+      <link>https://www.sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Byggepladser-har-problemer-med-elsikkerheden</link>
+      <description>Sikkerhedsstyrelsen har i 2012 besøgt 819 danske byggepladser. Desværre blev der fundet mange fejl i elinstallationerne.  Læs her, hvad du skal være opmærksom på for at få styr på elsikkerheden og dermed undgå alvorlige ulykker.</description>
+      <author>webmaster@sik.dk (Majbrit Vester)</author>
+      <guid isPermaLink="false">d62483e977cb75b80b3f7dce3e0c02fe</guid>
+      <pubDate>Wed, 29 May 2013 13:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Byggepladser har alt for mange installationsfejl</title>
+      <link>https://www.sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Byggepladser-har-alt-for-mange-installationsfejl</link>
+      <description>Sikkerhedsstyrelsen har i 2012 besøgt 819 danske byggepladser. Desværre fandt man mange fejl på installationerne. Elinstallatører skal især være opmærksomme på at kontrolmåle fejlstrømsafbrydere, tavlekapslingen og jordforbindelsen.</description>
+      <author>webmaster@sik.dk (Majbrit Vester)</author>
+      <guid isPermaLink="false">7317d382e438f845b27ad39f45f29d22</guid>
+      <pubDate>Wed, 29 May 2013 13:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sikkerhedsstyrelsen har revideret håndbogen for eleftersyn</title>
+      <link>https://www.sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Sikkerhedsstyrelsen-har-revideret-haandbogen-for-eleftersyn</link>
+      <description>Styrelsen har lyttet til interessenternes gode input til, hvordan håndbogen kunne gøres endnu bedre. Nu hjælpes elinstallatørerne 50 år tilbage i tiden, når de skal vurdere, om elinstallationerne var lovlige på opførelsestidspunktet. Samtidig har styrelsen sendt et spørgeskema ud til interessenterne for at tegne et billede af tilfredsheden med ordningen.</description>
+      <author>webmaster@sik.dk (Majbrit Vester)</author>
+      <guid isPermaLink="false">102bbb3d012a25b5f1021f210c336f5f</guid>
+      <pubDate>Tue, 14 May 2013 06:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Giv en hånd til gassikker camping</title>
+      <link>https://www.sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Giv-en-haand-til-gassikker-camping</link>
+      <description>Gassikkerhed i campingvogne kan redde menneskeliv. Derfor er det vigtigt, at campingvognene bliver gastestet, og at testen er udført korrekt. Sikkerhedsstyrelsen opfordrer til, at alle campingvogne testes mindst hvert andet år.</description>
+      <author>webmaster@sik.dk (Boris Gøbel Schmidt)</author>
+      <guid isPermaLink="false">8e608ae8eebcf2fdeea01b54c6065492</guid>
+      <pubDate>Mon, 29 Apr 2013 12:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Få styr på gassen på pladsen</title>
+      <link>https://www.sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Faa-styr-paa-gassen-paa-pladsen</link>
+      <description>Nu er campingsæsonen skudt i gang. Sikkerhedsstyrelsen har en række gode råd til campister og campingpladsejere om flaskegas. Det vigtigste budskab er, at campingvognenes gasinstallationer bliver tjekket, så sikkerheden er i orden.</description>
+      <author>webmaster@sik.dk (Majbrit Vester)</author>
+      <guid isPermaLink="false">d318565133e9a6af7c8f56513ecedd54</guid>
+      <pubDate>Mon, 29 Apr 2013 12:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gør din campingvogn gas-sikker</title>
+      <link>https://www.sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Goer-din-campingvogn-gas-sikker</link>
+      <description>Du har som ejer ansvaret for, at gasudstyret i din campingvogn er i orden. Sikkerhedsstyrelsen anbefaler, at du får gastestet din campingvogn mindst hvert andet år. Det skal enten være en autoriseret vvs-installatør eller en godkendt kompetent virksomhed, der kontrollerer, at udstyret lever op til gasreglementet. Du har som ejer af campingvognen krav på at få en kopi af testrapporten. </description>
+      <author>webmaster@sik.dk (Majbrit Vester)</author>
+      <guid isPermaLink="false">6c6c7d7d9e88b23752ca7ff1148f893a</guid>
+      <pubDate>Mon, 29 Apr 2013 12:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Har du styr på gassen i campingvognen?</title>
+      <link>https://www.sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Har-du-styr-paa-gassen-i-campingvognen</link>
+      <description>Det gode vejr og campingsæsonen er lige på trapperne. Men inden du tager ud i sommerlandet med campingvognen, er det en god idé at få lavet en gastest. Sikkerhedsstyrelsen anbefaler, at det sker mindst hvert andet år. På den måde kan du undgå at få ferien ødelagt af alvorlige ulykker på grund af gaseksplosioner og kulilteudslip.</description>
+      <author>webmaster@sik.dk (Majbrit Vester)</author>
+      <guid isPermaLink="false">ce044be4ebdd28c2cce677fb5920a588</guid>
+      <pubDate>Mon, 29 Apr 2013 12:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Børnetøj skal være sikkert</title>
+      <link>https://www.sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Boernetoej-skal-vaere-sikkert</link>
+      <description>-Og som internetforhandler har du pligt til at sikre dig, at det børnetøj du sælger, er sikkert. Det kan nemlig blive en dyr fornøjelse, hvis der ikke er orden i tingene.</description>
+      <author>webmaster@sik.dk (Majbrit Vester)</author>
+      <guid isPermaLink="false">9f3248aa568f1f061bd93fcbb7cd68a6</guid>
+      <pubDate>Wed, 17 Apr 2013 12:21:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

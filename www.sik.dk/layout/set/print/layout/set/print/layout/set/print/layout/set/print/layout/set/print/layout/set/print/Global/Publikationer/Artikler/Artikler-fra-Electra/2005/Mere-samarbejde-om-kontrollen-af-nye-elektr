@@ -1,0 +1,403 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Publikationer/Artikler/Artikler-fra-Electra/2005/Mere-samarbejde-om-kontrollen-af-nye-elektriske-installationer-April-2005 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 16:16:36 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                                    <title>    Mere samarbejde om kontrollen af nye elektriske installationer (April 2005) / 2005 / Artikler fra Electra / Artikler / Publikationer / Global  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/d1c07eda9c326cad6c76c6c8b63b157a_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<!-- full -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+                        <li>
+                                    <a href="../../../../Publikationer.html">Publikationer</a>
+                          </li>
+          <li>
+                                    <a href="../../../Artikler.html">Artikler</a>
+                          </li>
+          <li>
+                                    <a href="../../Artikler-fra-Electra.html">Artikler fra Electra</a>
+                          </li>
+          <li>
+                                    <a href="../2005.html">2005</a>
+                          </li>
+        <li class="active">Mere samarbejde om kontrollen af nye elektriske installationer (April 2005)</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../../../Publikationer.html">
+          Publikationer
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                        <li >
+            <a href="../../../Opgoerelser-over-ulykker.html">
+                          Opgørelser over ulykker
+                        </a>
+            </li>
+                                                  
+                                                  <li class="selected">
+            <a href="../../../Artikler.html">
+                          Artikler
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Faglige-rapporter.html">
+                          Faglige rapporter
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Foldere.html">
+                          Foldere
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Materialebestilling.html">
+                          Materialebestilling
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Undervisningsmateriale.html">
+                          Undervisningsmateriale
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Lovstof-og-standarder-om-el-og-gas.html">
+                          Lovstof og standarder om el og gas
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../DVD.html">
+                          DVD
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>  <div class="col-md-6 center-col">    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../../../layout/set/print/Global/Publikationer/Artikler/Artikler-fra-Electra/2005/Mere-samarbejde-om-kontrol" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+            <h1>Mere samarbejde om kontrollen af nye elektriske installationer (April 2005)</h1>
+      <summary>
+        <p>
+                      
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+I 2004 blev der foretaget tilsyn med ca. 11 procent af de 34.748 færdigmeldte installationer, som opfyldte de kriterier, der ligger til grund for udvælgelse til tilsyn. Det blev året, hvor der blev fundet færrest fejl per gennemført tilsyn
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+                            </p>
+      </summary>
+      <div class="pull-right social-icons">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://sik.dk/Global/Publikationer/Artikler/Artikler-fra-Electra/2005/Mere-samarbejde-om-kontrollen-af-nye-elektriske-installationer-April-2005" target="_blank"><i class="fa fa-facebook-square facebook-brand"></i></a>
+<a href="http://twitter.com/share?url=https://sik.dk/Global/Publikationer/Artikler/Artikler-fra-Electra/2005/Mere-samarbejde-om-kontrollen-af-nye-elektriske-installationer-April-2005" target="_blank"><i class="fa fa-twitter-square twitter-brand"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://sik.dk/Global/Publikationer/Artikler/Artikler-fra-Electra/2005/Mere-samarbejde-om-kontrollen-af-nye-elektriske-installationer-April-2005" target="_blank"><i class="fa fa-pinterest-square pinterest-brand"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sik.dk/Global/Publikationer/Artikler/Artikler-fra-Electra/2005/Mere-samarbejde-om-kontrollen-af-nye-elektriske-installationer-April-2005" target="_blank"><i class="fa fa-linkedin-square linkedin-brand"></i></a>
+<a href="mailto:?subject=Mere samarbejde om kontrollen af nye elektriske installationer (April 2005)&body=https://sik.dk/Global/Publikationer/Artikler/Artikler-fra-Electra/2005/Mere-samarbejde-om-kontrollen-af-nye-elektriske-installationer-April-2005" target="_blank"><i class="fa fa-envelope-o mail-brand"></i></a>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+</div>
+      <br>
+      <hr>
+        
+              
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Artiklen fra Sikkerhedsstyrelsen er bragt i<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Electra april 2005</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Fra år 2003 har der været krav om, at en række nye elektriske installationer og installationsudvidelser skal færdigmeldes på en elektronisk installationsblanket til Dansk Energi.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Sikkerhedsstyrelsen har derefter automatisk udvalgt tilfældige elektriske installationer, som skulle udtages til tilsyn. Dermed har man sikret, at tilsynene er statistisk tilfældigt fordelt blandt de mange færdigmeldinger, der årligt indrapporteres til Dansk Energi.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Mere samarbejde med elinstallatøren</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+De kontrakthavere, som Sikkerhedsstyrelsen i den nuværende kontraktperiode har entreret med, skal som noget nyt invitere den autoriserede elinstallatør, som har stået for installationsarbejdet, med til at deltage ved gennemgangen af installationen.<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Den tilsynsførende og installatøren kan således i samarbejde gennemgå installationen samtidig med, at den tilsynsførende undervejs forklarer, hvis der er bemærkninger til installationen. På den måde deler de deres viden om de nyeste installationsbestemmelser og installationspraksis. Desuden kan installatøren samtidig gøre opmærksom på, hvis der er forhold ved installationen, som han ikke er ansvarlig for.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Et statistisk værktøj</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Siden 1999 har Sikkerhedsstyrelsen (dengang Elektricitetsrådet) elektronisk registreret alle de fejl, som er fundet ved tilsynene.<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Det har med tiden givet Sikkerhedsstyrelsen et godt værktøj til at kunne fokusere på de fejl, der forekommer hyppigst i forbindelse med tilsyn. Det har ligeledes bidraget til, at man har et godt statistisk materiale, der blandt andet viser, at antallet af fundne fejl per tilsyn gennem årene har været faldende. År 2004 har således været det år, hvor der blev fundet færrest fejl per gennemført tilsyn.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Mest almindelige fejl</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Det er ikke ualmindeligt, at installationer af forskellig art sammenblandes. Det kan fx være strømkredse med forskellige isolationsniveauer i tavler, hvor ledere med lavt isolationsniveau (SELV-kredse) for intelligente styringer sammenblandes med gruppeledninger for den almindelige lysinstallation (bygningsinstallation).<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Maskininstallationer og bygningsinstallationer sammenblandes også. Installationerne må ikke sammenblandes. Grunden til det er ikke af elektrisk karakter, men skyldes hensynet til, hvem der må udføre installationsarbejdet. Der kan dog også være andre årsager til, at man skal tænke sig godt om med hensyn til adskillelse. Nogle strømkredse i installationer er fx dimensioneret efter IEC-bestemmelserne, mens andre strømkredse er dimensioneret efter de danske særregler.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Mærkningsfejl forekommer ofte. Fx mangler gruppetavlen typisk fabrikantoplysninger, koblingsudstyr mangler mærkning om tilhørsforhold eller der mangler mærkning om størst tilladelige mærkestrøm for overstrømsbeskyttelsesudstyret. I tavlen er beskyttelseslederne ofte anbragt under samme skrueforbindelse og kan ikke identificeres i forhold til den tilhørende strømkreds. Disse mærkningsfejl er mindre betydningsfulde fejl, men de bliver påtalt og indgår i statistikken.<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Der blev indført mange nye krav til installationer med Stærkstrømsbekendtgørelsens afsnit 6, elektriske installationer. Fx må et profilbræddeloft ikke længere udgøre en del af kapslingen for de elektriske forbindelser, da det er en brændbar bygningsdel.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Det medfører, at PL-dåsen for lampeudtaget skal føres ned gennem loftet og slutte sig til lampeudtaget eller der skal anbringes en afstandsring mellem dåse og lampeudtaget. Der blev også indført krav om, at de tre frie stikkontakter i køkkener skulle fordeles på to lysgrupper. Dette er typiske eksempler på fundne fejl iforbindelse med tilsyn.<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Supplerende udligningsforbindelser i områder med badekar eller bruser samt hovedudligning til fremmede ledende dele giver også stadig anledning til mange fejlbemærkninger. Det gør også manglende trækaflastning af tilledninger i forbindelse med lysinstallationer fx i forbindelse med lysinstallationer for ekstra lav spænding (lavvoltbelysning).<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Sikkerhedsstyrelsen vil senere på året offentliggøre en mere detaljeret statistik over de fundne fejl i 2004.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>I mange af de nævnte eksempler ved installatører godt, at fejlene er der, men har ikke nået at gøre tingene helt færdige. Andre typer af fejl kan skyldes, at installatøren ikke har fået læst de nye krav i Stærkstrømsbekendtgørelsens afsnit 6, elektriske installationer.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Det er en rigtig god ide at deltage i forbindelse med 10%-tilsynet af installationen for at få den sidste nye viden om installationsbestemmelserne samt at deltage i de installatørmøder, som installatørerne årligt bliver inviteret til af kontrakthaveren i lokalområdet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Mere end blot et kontroleftersyn</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Ud over at føre tilsyn på de installationer, som Sikkerhedsstyrelsen udmelder, har kontrakthaverne forpligtet sig til at afholde årlige installatørmøder, hvor den autoriserede elinstallatør har mulighed for at deltage. Her skal kontrakthaveren informere om erfaringer og redegøre for fundne fejl på de områder, hvor kontrakthaveren har ført tilsyn. De skal også informere om nye bestemmelser, fortolkninger mv. i stærkstrømsbekendtgørelsen.<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Derudover skal kontrakthaveren besvare telefoniske, skriftlige og personlige henvendelser fra elfagfolk. Hvis du har et fagrelevant spørgsmål kan du derfor henvende sig til den kontrakthaver, som fører tilsyn i det område, hvor du arbejder. Her på www.sik.dk kan du læse mere om, hvem der er Sikkerhedsstyrelsens kontrakthaver i dit område.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Af Carsten Jakobsen, Sikkerhedsstyrelsen</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+      
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+<!-- page_list_subitems -->    <div class="list-group">
+    </div><!-- /page_list_subitems -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+<hr>
+<div class="text-muted">
+    <small><span class="glyphicon glyphicon-time"></span> Sidst opdateret: 01-aug-2012</small><br>
+    <small><span class="glyphicon glyphicon-envelope"></span> Kontaktperson: <a title="" href="mailto:sik@sik.dk">webmaster</a></small>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+    </article>
+    <!--Content-End-->
+  </div>  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+<!-- right_menu_linkbox -->
+            
+            <div class="link-box right-menu">
+
+        <div class="body">
+          <ul>
+                                                                                                      <li >
+                  <a href="Stroemkredse-skal-kunne-adskilles-Februar-2">
+                                          Strømkredse skal kunne adskilles (Februar 2005)
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Den-ildesete-gruppetavle-August-2005.fe7c.d">
+                                          Den ildesete gruppetavle (August 2005)
+                                      </a>
+                </li>
+                                                                                                                                                      <li class="selected">
+                  <a href="Mere-samarbejde-om-kontrollen-af-nye-elektr">
+                                          Mere samarbejde om kontrollen af nye elektriske installationer (April 2005)
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Fyrvaerkerilagre-og-elektriske-installation">
+                                          Fyrværkerilagre og elektriske installationer (December 2005)
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Nye-og-forbedrede-SKS-retningslinier-Oktobe">
+                                          Nye og forbedrede SKS-retningslinier (Oktober 2005)
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Installationer-i-eksplosionsfarlige-omraade">
+                                          Installationer i eksplosionsfarlige områder (Juni 2005)
+                                      </a>
+                </li>
+                                    </ul>
+      </div>
+    </div>
+    <!-- /right_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+  </div></div>
+<!-- /full -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/f7012d06058bd5d5db35a640dcb232eb.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Publikationer/Artikler/Artikler-fra-Electra/2005/Mere-samarbejde-om-kontrollen-af-nye-elektriske-installationer-April-2005 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 16:16:36 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

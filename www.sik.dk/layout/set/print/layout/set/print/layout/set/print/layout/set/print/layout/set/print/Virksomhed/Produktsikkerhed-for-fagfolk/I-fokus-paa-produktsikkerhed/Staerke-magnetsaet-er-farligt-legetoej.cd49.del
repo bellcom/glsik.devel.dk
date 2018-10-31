@@ -1,0 +1,530 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Virksomhed/Produktsikkerhed-for-fagfolk/I-fokus-paa-produktsikkerhed/Staerke-magnetsaet-er-farligt-legetoej by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 15:23:02 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                        <title>    Stærke magnetsæt er farligt legetøj / I fokus på produktsikkerhed / Produktsikkerhed for fagfolk / Virksomhed  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/fbe22c545e60ab9ca816978bee99354c_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<!-- full -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+              <li>
+                                    <a href="../../../Virksomhed.html">Virksomhed</a>
+                          </li>
+          <li>
+                                    <a href="../../Produktsikkerhed-for-fagfolk.html">Produktsikkerhed for fagfolk</a>
+                          </li>
+          <li>
+                                    <a href="../I-fokus-paa-produktsikkerhed.html">I fokus på produktsikkerhed</a>
+                          </li>
+        <li class="active">Stærke magnetsæt er farligt legetøj</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../Produktsikkerhed-for-fagfolk.html">
+          Produktsikkerhed for fagfolk
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                                                  <li class="selected">
+            <a href="../I-fokus-paa-produktsikkerhed.html">
+                          I fokus
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Love-og-regler-for-produktsikkerhed.html">
+                          Love og regler
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Farlige-produkter.html">
+                          Farlige produkter
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Maerkning-af-produkter.html">
+                          Mærkning
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Vejledninger-om-produktsikkerhed.html">
+                          Vejledninger til producenter, importører og forhandlere
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Markedsovervaagning-af-nye-omraader.html">
+                          Markedsovervågning af nye områder
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>  <div class="col-md-6 center-col">    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../layout/set/print/Virksomhed/Produktsikkerhed-for-fagfolk/I-fokus-paa-produktsikkerhed/Staerke-magnetsaet-er-farligt-" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+            <h1>Stærke magnetsæt er farligt legetøj</h1>
+      <summary>
+        <p>
+                      
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+Sæt med stærke magneter, der bliver markedsført til eller vil blive anvendt af børn under 14 år, skal betragtes som legetøj. 
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+                            </p>
+      </summary>
+      <div class="pull-right social-icons">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://sik.dk/Virksomhed/Produktsikkerhed-for-fagfolk/I-fokus-paa-produktsikkerhed/Staerke-magnetsaet-er-farligt-legetoej" target="_blank"><i class="fa fa-facebook-square facebook-brand"></i></a>
+<a href="http://twitter.com/share?url=https://sik.dk/Virksomhed/Produktsikkerhed-for-fagfolk/I-fokus-paa-produktsikkerhed/Staerke-magnetsaet-er-farligt-legetoej" target="_blank"><i class="fa fa-twitter-square twitter-brand"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://sik.dk/Virksomhed/Produktsikkerhed-for-fagfolk/I-fokus-paa-produktsikkerhed/Staerke-magnetsaet-er-farligt-legetoej" target="_blank"><i class="fa fa-pinterest-square pinterest-brand"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sik.dk/Virksomhed/Produktsikkerhed-for-fagfolk/I-fokus-paa-produktsikkerhed/Staerke-magnetsaet-er-farligt-legetoej" target="_blank"><i class="fa fa-linkedin-square linkedin-brand"></i></a>
+<a href="mailto:?subject=Stærke magnetsæt er farligt legetøj&body=https://sik.dk/Virksomhed/Produktsikkerhed-for-fagfolk/I-fokus-paa-produktsikkerhed/Staerke-magnetsaet-er-farligt-legetoej" target="_blank"><i class="fa fa-envelope-o mail-brand"></i></a>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+</div>
+      <br>
+      <hr>
+        
+              
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Små, stærke magneter er farligt legetøj, hvis magneterne sluges. Magneterne har stor styrke og kan derfor forbinde sig på tværs af tarmene eller andre indre kropsdele og derved give alvorlige skader.&nbsp;</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Når magnetsæt betragtes som legetøj, skal de overholde sikkerhedskravene i legetøjsbekendtgørelsen. Dette dokumenteres typisk ved at lade legetøjet teste efter legetøjsstandarden EN 71-1. Ifølge standardens pkt 4.23 må magneter, som kan gå i 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="../../../../../../../../../../../../../../../../../../Forbruger/Sikkerhed-for-boern-0-3-aar/Er-det-farligt/Test-sikkerheden-med-en-legetoejstester.html" target="_blank">smådelstesteren</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+, ikke have et magnetisk flux-index på over 50 kG2mm2. Dette krav kan ikke overholdes af stærke magnetsæt, der skal kunne binde effektivt sammen og derfor har et væsentligt højere magnetisk flux-index.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Hvis et barn eller en teenager har slugt to eller flere magneter, kan symptomerne minde om influenza. Det kan derfor være svært at opdage, at årsagen er magneter, og der kan nå at opstå skader af permanent karakter, hvor fx dele af tarmen må bortopereres.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Ulykker er især set for børn under tre år, der putter magneterne i munden og kommer til at sluge dem, samt for større børn, som afprøver magneternes muligheder som snyde-piercinger.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Hvornår er et magnetsæt legetøj?</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Et stærkt magnetsæt betragtes som legetøj, hvis det forudsigeligt vil blive anvendt af børn.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Ved vurdering af, om et stærkt magnetsæt er legetøj, lægger Sikkerhedsstyrelsen vægt på følgende kriterier:</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+
+<ul>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Hvordan markedsføres produktet</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Er det et salgssted, som i øvrigt sælger legetøj eller produkter til børn under 14 år</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Hvad er prisen</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+</ul>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Dette er kriterier, som også fremgår af EU-Kommissionens vejledning nr, 4 om, hvornår et produkt er legetøj: 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="http://ec.europa.eu/growth/sectors/toys/safety/guidance/index_en.htm" target="_blank">http://ec.europa.eu/growth/sectors/toys/safety/guidance/index_en.htm</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Magnetsæt til voksne</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Hvis et stærkt magnetsæt ikke er legetøj, så er det et produkt, som skal overholde 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="../../../../../../../../../../../../../../../../../../Virksomhed/Produktsikkerhed-for-fagfolk/Love-og-regler-for-produktsikkerhed/Produktsikkerhedsloven.html" target="_blank">produktsikkerhedsloven</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+. Det betyder, at fabrikanten bærer ansvaret for, at det stærke magnetsæt er sikkert at benytte for forbrugerne.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Fabrikanten skal kunne dokumentere, at han har forholdt sig til de risici, som magnetsættet indebærer ved den tilsigtede og den forudsigelige brug. Risikoen skal være afhjulpet ved et hensigtsmæssigt design, eller alternativt ved advarselsmærkning. Som eksempler kan nævnes, at fabrikanten bør have forholdt sig til risikoen for, at børn eller personer med pacemaker ønsker at benytte magnetsættet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Også forhandleren skal medvirke til, at der kun markedsføres sikre produkter. Forhandleren skal blandt andet forholde sig til, om den valgte markedsføring indebærer risiko for, at det stærke magnetsæt vil blive brugt&nbsp; af børn under 14 år.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Der findes andre produkttyper med tilsvarende risiko som følge af stærke magneter. Som eksempler kan nævnes smykker og tavlemagneter.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-image ">
+<!-- START: including template: design/base/override/templates/embed/image.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embeddedmedia">
+<div class="class-image">
+
+<div class="attribute-image">
+<p>      
+<!-- START: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+
+
+    
+        
+    
+                                                                                                                                            <img src="../../../../../../../../../../../../../../../../../../var/plain_site/storage/images/media/images/magneter/330140-1-dan-DK/magneter_medium.gif" width="102" height="99"  style="border: 0px  ;" alt="magneter" title="magneter" />
+            
+    
+    
+    
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+  </p>
+</div>
+</div>
+</div>
+
+
+<!-- STOP: including template: design/base/override/templates/embed/image.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>FAKTA</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Stærke magnetsæt</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Ved stærke magnetsæt forstås stærke magneter, eller enkeltmagneter, som kan bruges sammen med magnetsæt, som markedsføres eller er almindeligt anvendt som et kreativt produkt til leg og underholdning. Fx som puslespil eller til bygning af skulpturer mv.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Legetøj</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Ved legetøj forstås et produkt, som helt eller delvist er konstrueret eller beregnet til at blive brugt af børn under 14 år under leg.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+      
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+<!-- page_list_subitems -->    <div class="list-group">
+    </div><!-- /page_list_subitems -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+<hr>
+<div class="text-muted">
+    <small><span class="glyphicon glyphicon-time"></span> Sidst opdateret: 20-juni-2016</small><br>
+    <small><span class="glyphicon glyphicon-envelope"></span> Kontaktperson: <a title="" href="mailto:sik@sik.dk">webmaster</a></small>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+    </article>
+    <!--Content-End-->
+  </div>  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+<!-- right_menu_linkbox -->
+            
+            <div class="link-box right-menu">
+
+        <div class="body">
+          <ul>
+                                                                                                      <li >
+                  <a href="Aldersvurdering-af-squishies.html">
+                                          Aldersvurdering af squishies
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Sikkerhed-omkring-segboards.html">
+                                          Sikkerhed omkring segboards 
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Faa-styr-paa-straalingen-og-UV-typen.cd4a.delay">
+                                          Få styr på strålingen og UV-typen
+                                      </a>
+                </li>
+                                                                                                                                                      <li class="selected">
+                  <a href="Staerke-magnetsaet-er-farligt-legetoej.cd49.del">
+                                          Stærke magnetsæt er farligt legetøj
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Standard-daekker-ikke-visse-baerbare-gasblus.cd">
+                                          Standard dækker ikke visse bærbare gasblus
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="10-gode-raad-til-indkoebere-af-barnevogne-kombi">
+                                          10 gode råd til indkøbere af barnevogne/kombivogne
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Saelg-kun-sikre-laserpointere.html">
+                                          Sælg kun sikre laserpointere
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Registrering-af-solcentre.html">
+                                          Registrering af solcentre
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Ny-solarielov.html">
+                                          Ny solarielov
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Legetoejsregler.html">
+                                          Legetøjsregler.dk
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Tjek-af-legetoej-uden-lovpligtig-maerkning.cd42">
+                                          Tjek af legetøj uden lovpligtig mærkning
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Pas-paa-med-1-10V-analogstyringer-af-daempbare-">
+                                          Pas på med 1-10V analogstyringer af dæmpbare LED-belysningsarmaturer
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Ombygning-af-belysningsarmaturer-giver-risiko-f">
+                                          Ombygning af belysningsarmaturer giver risiko for livsfarligt stød
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Fjernstyrede-helikoptere-kan-vaere-legetoej.cd3">
+                                          Fjernstyrede helikoptere kan være legetøj
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="10-gode-raad-til-indkoeb-og-haandtering-af-lege">
+                                          10 gode råd til indkøb og håndtering af legetøj
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Fokus-paa-gasprodukter.html">
+                                          Fokus på gasprodukter
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Screening-af-solcentre-i-Danmark.html">
+                                          Screening af solcentre i Danmark
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Fortsat-fokus-paa-forbudte-lightere.cd56.delaye">
+                                          Fortsat fokus på forbudte lightere 
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Alvorlige-sikkerhedsrisici-ved-lyskaeder.cd54.d">
+                                          Alvorlige sikkerhedsrisici ved lyskæder
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Rejseadaptere-kan-vaere-farlige.html">
+                                          Rejseadaptere
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Efterligninger-af-levnedsmidler-kan-vaere-farli">
+                                          Efterligninger af levnedsmidler kan være farlige
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Kontrol-med-sikkerhed-af-legetoej.html">
+                                          Kontrol med sikkerhed af legetøj
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Projekt-Snore-i-boernetoej.html">
+                                          Projekt "Snore i børnetøj"
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Pas-paa-hvis-du-koeber-biopejse.html">
+                                          Pas på, hvis du køber biopejse
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Et-aars-foedselsdag-for-lighterforbud2.cd40.del">
+                                          Et års fødselsdag for lighterforbud
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Voldsom-stigning-i-RAPEX2.html">
+                                          Voldsom stigning i RAPEX
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Lighterforbud2.html">
+                                          Lighterforbud
+                                      </a>
+                </li>
+                                    </ul>
+      </div>
+    </div>
+    <!-- /right_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+  </div></div>
+<!-- /full -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/e0c4ebb700325956b835b709041e8de3.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Virksomhed/Produktsikkerhed-for-fagfolk/I-fokus-paa-produktsikkerhed/Staerke-magnetsaet-er-farligt-legetoej by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 15:23:02 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

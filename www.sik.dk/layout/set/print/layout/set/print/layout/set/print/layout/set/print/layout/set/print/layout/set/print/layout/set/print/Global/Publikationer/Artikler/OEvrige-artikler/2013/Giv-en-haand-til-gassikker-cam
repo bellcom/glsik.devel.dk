@@ -1,0 +1,637 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Publikationer/Artikler/OEvrige-artikler/2013/Giv-en-haand-til-gassikker-camping by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 17:12:28 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                                    <title>    Giv en hånd til gassikker camping / 2013 / Øvrige artikler / Artikler / Publikationer / Global  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/172db9c811c86073f79ddeab86716aa8_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<!-- full -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+                        <li>
+                                    <a href="../../../../Publikationer.html">Publikationer</a>
+                          </li>
+          <li>
+                                    <a href="../../../Artikler.html">Artikler</a>
+                          </li>
+          <li>
+                                    <a href="../../OEvrige-artikler.html">Øvrige artikler</a>
+                          </li>
+          <li>
+                                    <a href="../2013.html">2013</a>
+                          </li>
+        <li class="active">Giv en hånd til gassikker camping</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../../../Publikationer.html">
+          Publikationer
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                        <li >
+            <a href="../../../Opgoerelser-over-ulykker.html">
+                          Opgørelser over ulykker
+                        </a>
+            </li>
+                                                  
+                                                  <li class="selected">
+            <a href="../../../Artikler.html">
+                          Artikler
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Faglige-rapporter.html">
+                          Faglige rapporter
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Foldere.html">
+                          Foldere
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Materialebestilling.html">
+                          Materialebestilling
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Undervisningsmateriale.html">
+                          Undervisningsmateriale
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Lovstof-og-standarder-om-el-og-gas.html">
+                          Lovstof og standarder om el og gas
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../DVD.html">
+                          DVD
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>  <div class="col-md-6 center-col">    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../../../layout/set/print/Global/Publikationer/Artikler/OEvrige-art/Giv-en-haand-til-gassik" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+            <h1>Giv en hånd til gassikker camping</h1>
+      <summary>
+        <p>
+                      
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+Gassikkerhed i campingvogne kan redde menneskeliv. Derfor er det vigtigt, at campingvognene bliver gastestet, og at testen er udført korrekt. Sikkerhedsstyrelsen opfordrer til, at alle campingvogne testes mindst hvert andet år.
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+                            </p>
+      </summary>
+      <div class="pull-right social-icons">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Giv-en-haand-til-gassikker-camping" target="_blank"><i class="fa fa-facebook-square facebook-brand"></i></a>
+<a href="http://twitter.com/share?url=https://sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Giv-en-haand-til-gassikker-camping" target="_blank"><i class="fa fa-twitter-square twitter-brand"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Giv-en-haand-til-gassikker-camping" target="_blank"><i class="fa fa-pinterest-square pinterest-brand"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Giv-en-haand-til-gassikker-camping" target="_blank"><i class="fa fa-linkedin-square linkedin-brand"></i></a>
+<a href="mailto:?subject=Giv en hånd til gassikker camping&body=https://sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Giv-en-haand-til-gassikker-camping" target="_blank"><i class="fa fa-envelope-o mail-brand"></i></a>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+</div>
+      <br>
+      <hr>
+        
+              
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+<i>Af Lene Skovsted, Sikkerhedsstyrelsen</i>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Det er ejeren eller brugerens ansvar, at gasudstyret i campingvognen er sikkert og vedligeholdt. Derfor går Sikkerhedsstyrelsen i år ud med information til campister og campingpladsejere. Budskabet er blandt andet at få gastestet vognen mindst hvert andet år - og at man skal sikre sig, at det er en autoriseret vvs-installatør, der er godkendt til installation og service eller en godkendt kompetent virksomhed inden for F-gas camping, der udfører testen i henhold til gasreglementets afsnit B-3.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- Er du en af de virksomheder, der tilbyder at teste gasinstallationerne, er det vigtigt, at du udfører testen korrekt. Gas i campingvogne er beskrevet i gasreglementets afsnit B-3. Her kan du også finde et skema, som du kan bruge, når du tester. Når du har udfyldt hele skemaet, er du sikker på, at du har været igennem alle de elementer, der kræves i en gastest, siger Mette Cramon, der er kommunikationskonsulent i Sikkerhedsstyrelsen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Skemaet hedder ”installations- og servicerapport”. Det er et krav, at der udleveres en kopi af det udfyldte testskema til ejeren. Derudover skal virksomheden, der har udført gastesten, påsætte en underskrevet servicemærkat i vognens gaskasse. Servicemærkaten skal oplyse, hvilket firma der har udført testen og hvornår den er udført.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- En gastest er møntet på selve campingvognen, og det er derfor udelukkende installationerne i vognen, som skal kigges efter for at tjekke sikkerheden. Men vi håber, at virksomhederne vil hjælpe forbrugerne med gode råd om gassikkerhed, for vi ved, at mange campister har terrassevarmere og lignende med på campingturen, forklarer Mette Cramon.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/InfoBox.tpl (design:content/datatype/view/ezxmltags/InfoBox.tpl) -->
+<div class="alert alert-info">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>En gastest omfatter følgende</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+
+<ul>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Gasflaskeforsyningssystemet</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Rørinstallation og apparattilslutning</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Ventilation</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Gasforbrugende apparater</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Dokumentation</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Resultatet af testen/konklusion</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+</ul>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>En gastest omfatter ikke</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Alt uden for campingvognen, for eksempel:</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+
+<ul>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Terrassevarmere</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Gasgrill</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Gasvarmeovne</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Ukrudtsbrændere</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+</ul>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/InfoBox.tpl (design:content/datatype/view/ezxmltags/InfoBox.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/InfoBox.tpl (design:content/datatype/view/ezxmltags/InfoBox.tpl) -->
+<div class="alert alert-info">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Hvem må udføre test af campingvognes gasinstallationer?</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Du skal være autoriseret vvs-installatør med en godkendelse til at udføre installation og service eller være godkendt af Sikkerhedsstyrelsen som kompetent virksomhed inden for ”f-gas camping,” før du må udføre gastests.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="../../../../../Tjek-din-haandvaerker.html" target="_self">www.sik.dk/tjek</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+ - her kan du finde de virksomheder, der må udføre gastesten</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/InfoBox.tpl (design:content/datatype/view/ezxmltags/InfoBox.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/InfoBox.tpl (design:content/datatype/view/ezxmltags/InfoBox.tpl) -->
+<div class="alert alert-info">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Hvor finder jeg hjælp?</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>I folderen 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="../../../Foldere/5-gode-raad-foer-du-gi-r-den-gas.html" target="_self">Fem gode råd før du giver den gas</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+&nbsp;på Sikkherhedsstyrelsens hjemmeside.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="../../../../../Forbruger/Gas-vand-og-afloeb/Vejledninger-om-flaskegas/Flaskegas-for-campister-og-" target="_self">Flaskegas for campister/friluftsfolk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+&nbsp;på Sikkerhedsstyrelsens hjemmeside. Her finder du reglementet med afsnit B3 om campingvogne. Bagerst i reglement B-3 kan du finde installations- og servicerapporten.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="../../../../../Forbruger/Gas-vand-og-afloeb/Gode-raad-om-gas-og-vvs.html" target="_self">Alt om flaskegas</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+&nbsp;på Sikkerhedsstyrelsens hjemmeside, hvor du finder&nbsp;mere information og gode råd om brugen af flaskegas.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/InfoBox.tpl (design:content/datatype/view/ezxmltags/InfoBox.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/InfoBox.tpl (design:content/datatype/view/ezxmltags/InfoBox.tpl) -->
+<div class="alert alert-info">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Hvad skal der stå på servicemærkaten?</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Den virksomhed, der udfører gastesten, skal selv sørge for at fremstille servicemærkaten, der skal sættes i campingvognens gaskasse.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Der er ingen størrelseskrav til mærkaten, men følgende data skal fremgå:</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+
+<ul>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Virksomhedens navn, adresse og telefonnummer</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Lækagetestet: 150 mbar</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Regulatorens afgangstryk: 30 mbar</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Dato: xx-xx-xxxx</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Underskrift (den, der har udført testen)</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+</ul>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/InfoBox.tpl (design:content/datatype/view/ezxmltags/InfoBox.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+      
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+<!-- page_list_subitems -->    <div class="list-group">
+    </div><!-- /page_list_subitems -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+<hr>
+<div class="text-muted">
+    <small><span class="glyphicon glyphicon-time"></span> Sidst opdateret: 07-juli-2015</small><br>
+    <small><span class="glyphicon glyphicon-envelope"></span> Kontaktperson: <a title="" href="mailto:sik@sik.dk">webmaster</a></small>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+    </article>
+    <!--Content-End-->
+  </div>  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+<!-- right_menu_linkbox -->
+            
+            <div class="link-box right-menu">
+
+        <div class="body">
+          <ul>
+                                                                                                      <li >
+                  <a href="Aftraek-er-en-vvs-opgave.128ab">
+                                          Aftræk er en vvs-opgave
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Ombygning-af-belysningsarmatur">
+                                          Ombygning af belysningsarmaturer giver risiko for livsfarligt stød
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Fjernaflaesning-forbrugeren-sk">
+                                          Fjernaflæsning: forbrugeren skal kende datoen
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Snyder-vaegten-dig-eller-dine-">
+                                          Snyder vægten dig eller dine kunder?
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Solcelleanlaeg-sender-stroemme">
+                                          Solcelleanlæg sender strømmen i flere retninger
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Goer-byggepladsen-elsikker.128">
+                                          Gør byggepladsen elsikker
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Nye-tider-paa-elnettet.128a3.d">
+                                          Nye tider på elnettet
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Ny-gratis-app-fra-Sikkerhedsst">
+                                          Ny gratis app fra Sikkerhedsstyrelsen til dig: Hvad må laves af el og vvs uden autorisation
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Undgaa-skader-ved-gravearbejde">
+                                          Undgå skader ved gravearbejde nær jordkabler
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Produkter-til-boern-skal-vaere">
+                                          Produkter til børn skal være sikre
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Tjek-solcelleinstallationerne">
+                                          Tjek solcelleinstallationerne
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Sikkerhedsstyrelsen-tester-gas">
+                                          Sikkerhedsstyrelsen tester gaskøleskabe
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Byggepladser-har-problemer-med">
+                                          Byggepladser har problemer med elsikkerheden
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Byggepladser-har-alt-for-mange">
+                                          Byggepladser har alt for mange installationsfejl
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Sikkerhedsstyrelsen-har-revide">
+                                          Sikkerhedsstyrelsen har revideret håndbogen for eleftersyn
+                                      </a>
+                </li>
+                                                                                                                                                      <li class="selected">
+                  <a href="Giv-en-haand-til-gassikker-cam">
+                                          Giv en hånd til gassikker camping
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Faa-styr-paa-gassen-paa-pladse">
+                                          Få styr på gassen på pladsen
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Goer-din-campingvogn-gas-sikke">
+                                          Gør din campingvogn gas-sikker
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Har-du-styr-paa-gassen-i-campi">
+                                          Har du styr på gassen i campingvognen?
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Boernetoej-skal-vaere-sikkert">
+                                          Børnetøj skal være sikkert
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Ombyggede-trinetter-kan-vaere-">
+                                          Ombyggede trinetter kan være livsfarlige
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Testede-batteriladere-fejler-a">
+                                          Testede batteriladere fejler alvorligt
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Information-om-e-cigaretter.12">
+                                          Information om e-cigaretter
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Tjek-paa-sikkerheden-for-barne">
+                                          Tjek på sikkerheden for barnevogne og tilbehør
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Er-der-CE-maerke-paa-det-gode-">
+                                          Er der CE-mærke på det gode tilbud?
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Har-forsamlingshuset-styr-paa-">
+                                          Har forsamlingshuset styr på sikkerheden ved el og gas?
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="L-AUS-goer-Avs.html">
+                                          L-AUS gør Avs
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Helle-var-heldig.html">
+                                          Helle var heldig
+                                      </a>
+                </li>
+                                    </ul>
+      </div>
+    </div>
+    <!-- /right_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+  </div></div>
+<!-- /full -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/fa9d6053e2ff2c687d5f9075346a055e.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Publikationer/Artikler/OEvrige-artikler/2013/Giv-en-haand-til-gassikker-camping by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 17:12:28 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

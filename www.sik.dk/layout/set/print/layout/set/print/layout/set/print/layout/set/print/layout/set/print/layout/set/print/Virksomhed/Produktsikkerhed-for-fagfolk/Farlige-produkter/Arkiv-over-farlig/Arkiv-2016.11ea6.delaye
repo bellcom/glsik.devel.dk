@@ -1,0 +1,451 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Virksomhed/Produktsikkerhed-for-fagfolk/Farlige-produkter/Arkiv-over-farlige-produkter/Arkiv-2016 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 16:56:31 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                              <title>    Arkiv 2016 / Arkiv over farlige produkter / Farlige produkter / Produktsikkerhed for fagfolk / Virksomhed  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/d1c07eda9c326cad6c76c6c8b63b157a_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/full/folder_node.tpl (design:node/view/full.tpl) -->
+<!-- folder_node -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+              <li>
+                                    <a href="../../../../Virksomhed.html">Virksomhed</a>
+                          </li>
+          <li>
+                                    <a href="../../../Produktsikkerhed-for-fagfolk.html">Produktsikkerhed for fagfolk</a>
+                          </li>
+          <li>
+                                    <a href="../../Farlige-produkter.html">Farlige produkter</a>
+                          </li>
+          <li>
+                                    <a href="../Arkiv-over-farlige-produkter.11d32.delaye">Arkiv over farlige produkter</a>
+                          </li>
+        <li class="active">Arkiv 2016</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3 link-box">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../../Produktsikkerhed-for-fagfolk.html">
+          Produktsikkerhed for fagfolk
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                        <li >
+            <a href="../../I-fokus-paa-produktsikkerhed.html">
+                          I fokus
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Love-og-regler-for-produktsikkerhed.html">
+                          Love og regler
+                        </a>
+            </li>
+                                                  
+                                                  <li class="selected">
+            <a href="../../Farlige-produkter.html">
+                          Farlige produkter
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Maerkning-af-produkter.html">
+                          Mærkning
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Vejledninger-om-produktsikkerhed.html">
+                          Vejledninger til producenter, importører og forhandlere
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Markedsovervaagning-af-nye-omraader.html">
+                          Markedsovervågning af nye områder
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>
+  <div class="col-md-6">
+    <h1>Arkiv 2016</h1>
+    <!-- Content-Begin -->
+      
+                      
+                                                          <div class="list-group">
+                          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+<div class="line clearfix">
+  <h5><a href="Electrolux-koeleskab-og">Electrolux køleskab og fryser</a></h5>
+
+  
+  
+      <img src="../../../../var/plain_site/storage/images/forside/virksomhed/produktsikkerhed-for-fagfo/Electrolux-koeleskab-og-2" alt=""/>
+  </div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+              
+                          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+<div class="line clearfix">
+  <h5><a href="Filter-til-PRESTIGE-saf">Filter til PRESTIGE saftpresser 6749</a></h5>
+
+  
+  
+      <img src="../../../../var/plain_site/storage/images/forside/virksomhed/produktsikkerhed-for-fagfo/Filter-til-PRESTIGE-saf-2" alt=""/>
+  </div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+              
+                          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+<div class="line clearfix">
+  <h5><a href="HP-Compaq-HP-Probook-HP-2">HP, Compaq, HP Probook, HP ENVY, Compaq Presario, og HP pavilion</a></h5>
+
+  
+  
+      <img src="../../../../var/plain_site/storage/images/forside/virksomhed/produktsikkerhed-for-fagfo/HP-Compaq-HP-Probook-HP-10" alt=""/>
+  </div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+              
+                          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+<div class="line clearfix">
+  <h5><a href="3-i-1-gynge-model-nr.10">3 i 1 gynge (model nr. 805-463) </a></h5>
+
+  
+  
+      <img src="../../../../var/plain_site/storage/images/forside/virksomhed/produktsikkerhed-for-fagfo/3-i-1-gynge-model-nr-2.-8" alt=""/>
+  </div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+              
+                          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+<div class="line clearfix">
+  <h5><a href="Normiinest-med-integrer">Normiinest med integreret liftfunktion</a></h5>
+
+  
+  
+      <img src="../../../../var/plain_site/storage/images/forside/virksomhed/produktsikkerhed-for-fagfo/Normiinest-med-integrer-2" alt=""/>
+  </div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+              
+                          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+<div class="line clearfix">
+  <h5><a href="Boernegitter-PATRULL-KL-2">Børnegitter PATRULL : KLÄMMA/SMIDIG og PATRULL FAST</a></h5>
+
+  
+  
+      <img src="../../../../var/plain_site/storage/images/forside/virksomhed/produktsikkerhed-for-fagfo/Boernegitter-PATRULL-KL-6" alt=""/>
+  </div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+              
+                          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+<div class="line clearfix">
+  <h5><a href="Alba-Hojstol.10360.dela">Alba Hojstol</a></h5>
+
+  
+  
+      <img src="../../../../var/plain_site/storage/images/forside/virksomhed/produktsikkerhed-for-fagfo/Alba-Hojstol_produktbil" alt=""/>
+  </div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+              
+                          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+<div class="line clearfix">
+  <h5><a href="Digitsole-G402.1040c.de">Digitsole G402</a></h5>
+
+  
+  
+      <img src="../../../../var/plain_site/storage/images/forside/virksomhed/produktsikkerhed-for-fagfo/Digitsole-G402_produktb" alt=""/>
+  </div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+              
+                          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+<div class="line clearfix">
+  <h5><a href="4-Floejter-item-no.1034">4 Fløjter, item no. 2600226, batch 79468</a></h5>
+
+  
+  
+      <img src="../../../../var/plain_site/storage/images/forside/virksomhed/produktsikkerhed-for-fagfo/4-Floejter-item-no-2.-260" alt=""/>
+  </div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+              
+                          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+<div class="line clearfix">
+  <h5><a href="Brandtaeppe-JT510.103dc">Brandtæppe JT510</a></h5>
+
+  
+  
+      <img src="../../../../var/plain_site/storage/images/forside/virksomhed/produktsikkerhed-for-fagfo/Brandtaeppe-JT510_produ" alt=""/>
+  </div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+              
+                          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+<div class="line clearfix">
+  <h5><a href="FROSTFRI-Koeleskab-302">FROSTFRI Køleskab 302.218.68 / FROSTFRI Fryser 70221871</a></h5>
+
+  
+  
+      <img src="../../../../var/plain_site/storage/images/forside/virksomhed/produktsikkerhed-for-fagfo/FROSTFRI-Koeleskab-303" alt=""/>
+  </div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+              
+                          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+<div class="line clearfix">
+  <h5><a href="Campingovn-art.-nr.f515">Campingovn art. nr. 37-600</a></h5>
+
+  
+  
+      <img src="../../../../var/plain_site/storage/images/forside/virksomhed/produktsikkerhed-for-fagfo/Campingovn-art.-nr-2.-37-" alt=""/>
+  </div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+              
+                          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+<div class="line clearfix">
+  <h5><a href="Elradiator-med-glaspane">Elradiator med glaspanel art. nr. 44-0050 – 44-0055 og 44-0058 – 44-0061</a></h5>
+
+  
+  
+      <img src="../../../../var/plain_site/storage/images/forside/virksomhed/produktsikkerhed-for-fagfo/Elradiator-med-glaspane-2" alt=""/>
+  </div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+              
+                          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+<div class="line clearfix">
+  <h5><a href="LATTJO-flagermuskappe.f">LATTJO flagermuskappe</a></h5>
+
+  
+  
+      <img src="../../../../var/plain_site/storage/images/forside/virksomhed/produktsikkerhed-for-fagfo/LATTJO-flagermuskappe_p" alt=""/>
+  </div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+              
+                          
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+<div class="line clearfix">
+  <h5><a href="LED-Work-Lamp-GRIPO-230">LED Work Lamp, GRIPO, 230V~33W, Vare nr. 7065, EAN nr. 5 709 119 070 656</a></h5>
+
+  
+  
+      <img src="../../../../var/plain_site/storage/images/forside/virksomhed/produktsikkerhed-for-fagfo/LED-Work-Lamp-GRIPO-231" alt=""/>
+  </div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/line.tpl) -->
+              
+                      </div>
+          
+<!-- START: including template: design/standard/templates/navigator/google.tpl (design/standard/templates/navigator/google.tpl) -->
+
+
+<div class="pagenavigator">
+<p>
+
+            
+            <span class="next"><a href="../Arkiv-over-farlige-produk/15.1484c.delaye"><span class="text">Next&nbsp;&raquo;</span></a></span>
+      
+<span class="pages">
+    
+        <span class="current">1</span>
+
+                      <span class="other"><a href="../Arkiv-over-farlige-produk/15.1484c.delaye">2</a></span>
+                              <span class="other"><a href="../Arkiv-over-farlige-produk/30.1484d.delaye">3</a></span>
+            
+</span>
+
+</p>
+<div class="break"></div>
+</div>
+
+ 
+
+<!-- STOP: including template: design/standard/templates/navigator/google.tpl (design/standard/templates/navigator/google.tpl) -->
+                          <!-- Content-End -->
+  </div>
+
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_info_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_info_linkbox.tpl) -->
+<!-- right_info_linkbox -->                                                                    <div class="link-box inverted">
+          <header>
+            <h5>Legetøjsregler.dk</h5>
+          </header>
+                    <a href=http://www.xn--legetjsregler-fnb.dk/>
+            <img src="../../../../var/plain_site/storage/images/forside/virksomhed/produktsikkerhed-for-fagfo/Legetoejsregler.dk_fron" class="img-responsive" alt="Legetøjsregler.dk" />
+          </a>
+                    <div class="body">
+            
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Få et samlet overblik over, hvilke regler, du skal være opmærksom på, når du fremstiller, importerer eller distribuerer legetøj i Danmark.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+                          <ul>
+                
+               <li><a class="external" href="http://www.xn--legetjsregler-fnb.dk/">Link til legetøjsregler.dk</a></li>
+                             </ul>
+                                  </div>
+        </div>
+                                                        <div class="link-box inverted">
+          <header>
+            <h5>Tekstiler til børn</h5>
+          </header>
+                    <a href=https://mst.dk/kemi/kemikalier/fokus-paa-saerlige-produkter/tekstiler-til-boern/>
+            <img src="../../../../../print.html" class="img-responsive" alt="" />
+          </a>
+                    <div class="body">
+            
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Få et overblik over reglerne for børnetøj og børneprodukter med tekstil.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+                          <ul>
+                
+               <li><a class="external" href="https://mst.dk/kemi/kemikalier/fokus-paa-saerlige-produkter/tekstiler-til-boern/">Link til Børnetekstilregler.dk</a></li>
+                             </ul>
+                                  </div>
+        </div>
+                                      <div class="link-box inverted">
+          <header>
+            <h5>Foldere om produktsikkerhed</h5>
+          </header>
+                    <div class="body">
+            
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Se vores liste over foldere om produktsikkerhed.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+                                    <a class="more" href="../../../../Global/Publikationer/Foldere.html">Foldere om produktsikkerhed</a>
+                      </div>
+        </div>
+            <!-- /right_info_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_info_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_info_linkbox.tpl) -->
+  </div>
+</div>
+<!-- /folder_node -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/full/folder_node.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/f7012d06058bd5d5db35a640dcb232eb.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Virksomhed/Produktsikkerhed-for-fagfolk/Farlige-produkter/Arkiv-over-farlige-produkter/Arkiv-2016 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 16:56:31 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

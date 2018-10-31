@@ -1,0 +1,612 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Om-os/Raad-og-udvalg/Det-Tekniske-Sikkerhedsraad-ophoert-pr.-1.-januar-2016/Raadsmoeder/2012/Referat-19.-november-2012 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 16:13:39 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                                          <title>    Referat 19. november 2012 / 2012 / Rådsmøder  / Det Tekniske Sikkerhedsråd - ophørt pr. 1. januar 2016 / Råd og udvalg / Om os / Global  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/d1c07eda9c326cad6c76c6c8b63b157a_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<!-- full -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+                        <li>
+                                    <a href="../../../../Om-os.html">Om os</a>
+                          </li>
+          <li>
+                                    <a href="../../../Raad-og-udvalg.html">Råd og udvalg</a>
+                          </li>
+          <li>
+                                    <a href="../../Det-Tekniske-Sikkerhedsraad-ophoert-pr.-1.html">Det Tekniske Sikkerhedsråd - ophørt pr. 1. januar 2016</a>
+                          </li>
+          <li>
+                                    <a href="../Raadsmoeder.fda4.delaye">Rådsmøder </a>
+                          </li>
+          <li>
+                                    <a href="../Raads/2012.12750.delaye">2012</a>
+                          </li>
+        <li class="active">Referat 19. november 2012</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../../../Om-os.html">
+          Om os
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                        <li >
+            <a href="../../../Organisation-og-ledelse.html">
+                          Organisation og ledelse 
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Strategier-og-maal.html">
+                          Strategier og mål
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Job-og-karriere.html">
+                          Job og karriere
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Udbud-og-hoeringer.html">
+                          Udbud og høringer 
+                        </a>
+            </li>
+                                                  
+                                                  <li class="selected">
+            <a href="../../../Raad-og-udvalg.html">
+                          Råd og udvalg
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Om-Sik.html">
+                          Om Sik.dk
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>  <div class="col-md-6 center-col">    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../../../layout/set/print/Global/Om-os/Raad-og-udvalg/Det-Tekniske-Sikkerhedsraad-op/Referat-19.1275b.delaye" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+            <h1>Referat 19. november 2012</h1>
+      <summary>
+        <p>
+                            </p>
+      </summary>
+      <div class="pull-right social-icons">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://sik.dk/Global/Om-os/Raad-og-udvalg/Det-Tekniske-Sikkerhedsraad-ophoert-pr.-1.-januar-2016/Raadsmoeder/2012/Referat-19.-november-2012" target="_blank"><i class="fa fa-facebook-square facebook-brand"></i></a>
+<a href="http://twitter.com/share?url=https://sik.dk/Global/Om-os/Raad-og-udvalg/Det-Tekniske-Sikkerhedsraad-ophoert-pr.-1.-januar-2016/Raadsmoeder/2012/Referat-19.-november-2012" target="_blank"><i class="fa fa-twitter-square twitter-brand"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://sik.dk/Global/Om-os/Raad-og-udvalg/Det-Tekniske-Sikkerhedsraad-ophoert-pr.-1.-januar-2016/Raadsmoeder/2012/Referat-19.-november-2012" target="_blank"><i class="fa fa-pinterest-square pinterest-brand"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sik.dk/Global/Om-os/Raad-og-udvalg/Det-Tekniske-Sikkerhedsraad-ophoert-pr.-1.-januar-2016/Raadsmoeder/2012/Referat-19.-november-2012" target="_blank"><i class="fa fa-linkedin-square linkedin-brand"></i></a>
+<a href="mailto:?subject=Referat 19. november 2012&body=https://sik.dk/Global/Om-os/Raad-og-udvalg/Det-Tekniske-Sikkerhedsraad-ophoert-pr.-1.-januar-2016/Raadsmoeder/2012/Referat-19.-november-2012" target="_blank"><i class="fa fa-envelope-o mail-brand"></i></a>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+</div>
+      <br>
+      <hr>
+        
+              
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Til stede:</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+ Mette Præst Knudsen, Anita Rønne, Annette Dragsdahl, Niels Jørgen Hansen, Willy Goldby, Jens-Olav Pedersen, Jørgen K. Nielsen, Flemming Jensen, Jani Lykke Methmann, Michael Ostenfeld, Lizzi Krarup Jakobsen, Carsten Sørig, Dorthe G. Rasmussen og Martin Kastoft Nielsen (referent).</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>1. Velkomst ved formand Mette Præst Knudsen</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Formanden bød velkommen til mødet og nævnte i den forbindelse, at det sidste møde havde budt på en hård, men god, proces omkring rådets arbejdsform, som nu skulle landes endeligt på mødet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>2.</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+ 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Godkendelse af dagsorden og referat fra mødet den 30. og 31. august 2012</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Referat fra mødet blev godkendt sammen med dagsordenen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>3. Rådets arbejdsform - opfølgning på sidste møde: </b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Formanden gennemgik det fremsendte oplæg om rådets arbejdsform. Det gav anledning til en drøftelse omkring oplægget og i særdeleshed organiseringen af underudvalg. Niels Jørgen Hansen lagde ud med at spørge ind til, hvilke overvejelser der ligger bag oplægget – og at der er fare for en udtynding, hvis rådet skal arbejde overordnet, samtidigt med at underudvalgene bliver nedlagt. Han slog fast, at den vigtigste dagsorden er Sikkerhedsstyrelsens og styrelsens behov for input. Formanden var enig, men forklarede, at oplægget har fokus på at se fremad og sikre, at medlemmerne i højere grad kommer på banen, så der bliver tale om en blanding af sager fra både SIK og medlemmernes bagland. Willy Goldby mente, at det er fint med et strategisk niveau, men at man ikke må miste fodfæste med de arbejdsgrupper, der er, og at der bør være fokus på at få lukket nogle af alle de aktiviteter, der har været sat i gang, fx arbejdet med den nye stærkstrømsbekendtgørelse da det er frustrerende ikke at få afsluttet arbejdet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Mette Præst Knudsen mente, at der tidligere har været en tendens til at se for meget bagud, og at der i stedet skal fokuseres på de sager, hvor rådet har mulighed for at påvirke.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Willy Goldby sagde, at der er Smart Grid et godt eksempel, både jobmæssigt og sikkerhedsmæssigt. Jens-Olav Pedersen mente, at det gode samspil mellem rådet og styrelsen er ambitionen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Lizzi Krarup Jakobsen forklarede, at det er vigtigt at se på det som en helhed, og at det er vigtigt at samarbejde der, hvor det giver værdi, men at der fx med den nye stærkstrømsbekendtgørelse er tale om et projekt, som styrelsens skal gøre sig klar til for at kunne følge det helt til dørs. Mette Præst Knudsen vendte tilbage til spørgsmålet om gensidig dialog. Hun slog fast, at det er nødvendigt, at dem, der kan, skal bidrage, og at det skal på bordet, hvis der ligger noget relevant information eller viden i deres bagland. Hun understregede ligeledes, at rådet skal væk fra orienteringspunkter og i stedet have flere ekspert- og diskussionsoplæg ind.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Antallet af møderne i 2013 i DTS blev fastlagt til fire ca. 1 hvert kvartal, med et døgnseminar i 3. kvartal.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Der var herefter en selvstændig debat om strukturen i underudvalgene, der endte med enighed om dette setup:</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-image ">
+<!-- START: including template: design/base/override/templates/embed/image.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embeddedmedia">
+<div class="class-image">
+
+<div class="attribute-image">
+<p>      
+<!-- START: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+
+
+    
+        
+    
+                                                                                                                                            <img src="../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/storage/images/media/images/udvalgsstruktur-dts/134546-1-dan-DK/Udvalgsstruktur-DTS.png" width="480" height="360"  style="border: 0px  ;" alt="Udvalgsstruktur DTS" title="Udvalgsstruktur DTS" />
+            
+    
+    
+    
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+  </p>
+</div>
+</div>
+</div>
+
+
+<!-- STOP: including template: design/base/override/templates/embed/image.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Vedrørende det permanente udvalg, blev det besluttet, at:</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+
+<ul>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Nedlægge el-, gas-, og autorisationsudvalget og erstatte disse af et nyt permanent udvalg, der dækker områderne</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Sikkerhedsstyrelsen gerne kommer med forslag til navn på udvalget, og at øvrige forslag er også velkomne</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Sikkerhedsstyrelsen udarbejder udkast til kommissorium, inkl. indstillingsberettigede organisationer, som sendes rundt til medlemmernes godkendelse</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Det permanente udvalg får ansvar for at sikre netværksaktiviteter/dialogfora på fagområderne gas og el, så de faglige diskussioner og input fastholdes, men mængden af formalia begrænses</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Der udpeges en formand til udvalget fra DTS. Medlemmerne opfordres til at overveje hvervet.</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+</ul>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Generelt blev det besluttet at:</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+
+<ul>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Ad hoc udvalg kan nedsættes efter behov</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Medlemmerne af underudvalgene ikke skal udpeges/godkendes af DTS. De organisationer, som har indstillingsret fastsat i kommissoriet, styrer selv, hvem der deltager fra deres respektive organisationer</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>At en formand fra DTS, såfremt en sådan findes, og en kontorchef fra SIK står i spidsen for underudvalgene og sørger for at bringe væsentlige problemstillinger op i DTS</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>At formalia i forbindelse med dialogfora holdes på et minimum. Det er derfor fx ikke nødvendigt med referater fra møderne. Sikkerhedsstyrelsen får ansvar for at bringe relevante emner op i DTS. Medlemmerne af dialogfora skal ikke udpeges af DTS, og der er fri adgang for de interessenter, som måtte ønske det.</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>At SIK undersøger mulighederne for at samle alt relevant materiale på en slags intranet-platform</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>At den nye udvalgsstruktur træder i kraft 1. januar 2013, og at der bliver udarbejdet en orientering til de berørte udvalgsmedlemmer i de nuværende udvalg</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Metrologiudvalget kører videre som hidtil.</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+</ul>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>4. Meddelelser</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Lizzi Krarup Jakobsen gjorde kort rede for situationen omkring SIKs kontorchefer, der ansættes på såkaldte åremålsaftaler. Ved udløb efter typisk 5 år vil stillingerne blive slået op Det indebærer, at stillingen som kontorchef for Jura og Metrologi slås op.&nbsp; Kontorchefen for SIKs produktafdeling, har valgt at søge nye udfordringer i politiet, og derfor er den ledige stilling ligeledes slået op.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>5. Orientering</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Carsten Sørig orienterede kort om processen omkring et nyt produktsikkerhedsdirektiv og en ny markedsovervågningsforordning, der skal erstatte den nuværende. Han forklarede, at der arbejdes på at lave en fælles markedsovervågningsstruktur, og at arbejdet er præget af visse uoverensstemmelser på EU-plan. Derfor afventer SIK det videre forløb. Han forklarede, at Erhvervsstyrelsen forhandler forordningen i tæt samarbejde med SIK, og at der også vil blive tale om interessentinddragelse. Han advarede om, at det formentligt vil komme til at gå meget stærkt på et tidspunkt.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Lizzi Krarup Jakobsen præsterende herefter Virksomhedsforum, der efter et ”følg eller forklar” princip har fremlagt en række forslag, der skal gøre det lettere at være virksomhed eller offentlig myndighed i Danmark. Et af forslagene går på gaslovens § 23 stk. 2 om kommunernes forpligtelse til at føre stikprøvekontrol med, at vandinstallationer ved nybyggeri er udført af autoriserede virksomheder. Niels Jørgen Hansen forklarede, at forslaget bygger på en misforståelse, og at han vil opfordre til, at det bliver ryddet af vejen. Han understregede, at dårlige vandinstallationer er et stigende problem, og at problemet blot bliver større, hvis kontrollen ophører. Jani Lykke Methmann og Willy Goldby udtrykte deres enighed. Lizzi Krarup Jakobsen understregede, at SIK finder det vigtigt, at det er autoriserede, der udfører arbejdet, men at en løsning måske kan være, at der i forbindelse med byggesangsansøgninger blev henvist til ”tjek din håndværker”, så beslutningstageren selv kan sikre sig, at det er autoriseret arbejdskraft, der står for installationen. Niels Jørgen Hansen svarede, at man ofte er i ond tro, og at der derfor skal være kontrol. Jørgen K. Nielsen forklarede, at forbrugeren ikke er tæt nok på til, at det kan fungere, fordi det ofte er en sag mellem byggefirma og underleverandør, som forbrugeren ikke nødvendigvis får kendskab til.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>6</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+. 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Regeringens konkurrenceudspil og</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+ 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>process</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Lizzi Krarup Jakobsen orienterede om regeringens konkurrencepolitiske udspil og om modernisering af autorisationsordningen, som er en del af udspillet. Hun kom også ind på, hvordan processen med inddragelsen af interessenterne kommer til at forløbe.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Anette Dragsdahl spurgte, om der er mulighed for at se bredt på det, fx indtænke installation af vedvarende energi mv. Lizzi Krarup Jakobsen sagde, at regeringen har bedt om, at der bliver set på autorisationsområdet, og at man så må se, hvad der kommer i spil. Jens-Olav Pedersen sagde, at det er samme forslag, som før har været oppe i rådet. Niels Jørgen Hansen sagde, at de vil gå konstruktivt ind, men at deres kriterier er kvalitet og sikkerhed. Lizzi Krarup Jakobsen opfordrede til at blive helt afklaret på, hvad der menes med sikkerhed og kvalitet. Herefter blev det drøftet, hvilken rolle DTS har i forhold til forslaget, og der blev udtrykt ønske fra medlemmernes side om, at DTS bliver inddraget i processen. Der blev blandt andet talt om et ekstraordinært DTS-møde eller, at første møde i 2013 blev rykket frem til januar.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>7.</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+ 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Arbejdet med Sikkerhedsstyrelsen kommende strateg</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+i<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Niels Hviid Knudsen gennemgik styrelsens strategiproces, som de fleste af medlemmerne har været involveret i.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>8.</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+ 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Sikkerhedsstyrelsens tilsyn med solceller</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Kontorchef fra installationsafdelingen, Christian Winther, præsenterede styrelsens foreløbige resultater på årets tilsyn på solcelleinstallationer. Han forklarede, at man fortsat arbejder på databehandlingen, og at der ikke kan konkluderes noget endeligt om tilsynene, før resultaterne er helt færdige. Fra medlemmerne blev der givet udtryk for, at det var interessant at se resultaterne, selvom arbejdet stadig pågår.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>9.</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+ 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Smart Grid-rapporten</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Lars Knudsen fra SIKs installationsafdeling gennemgik herefter arbejdet med styrelsens Smart Grid-rapport.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Jani Lykke Methmann spurgte, hvilke produkter, man havde en forventning om, ville få smart grid-funktionalitet. Lars Knudsen forklarede, at det nok vil blive mest relevant for Elbiler og varmepumper, altså produkter med stort effektforbrug. Willy Goldby spurgte, om ikke installationerne skal ændres, fx i private husstande. Hertil svarede Lars Knudsen, at det er noget af det, der bliver kigget på, det vil muligvis blive nødvendigt at opgradere installationer i forbindelse med implementeringen af Smart Grid. Jens-Olav Pedersen spurgte ind til, om ikke batterier ville kunne bruges som energilager i stedet for elbiler, mens Willy Goldby forklarede, at han mente, at de i Tyskland brugte Li-ion batterier som energibuffer. Lars Knudsen forklarede, at det er lidt forskelligt, hvad de forskellige aktører tror, vil komme til at ske i forhold til blandt andet lagring, men at man allerede i dag bruger energikonvertering fx i forbindelse med fjernvarme, som en slags lagring af energien. Willy Goldby mente, at det vil være nødvendigt at se på, hvad der vil ske med nye aktører på markedet, som fx såkaldte serviceproviders, der formentligt vil komme ind som et led mellem forsyningsselskaber og grupper af forbrugere for at sikre forbrugerne den bedst mulige pris.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>10. </b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Forslag til dagsordenpunkter til de kommende møder</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Der blev foreslået følgende emner til dagsordenen på næste møde:&nbsp;</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+
+<ul>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Opfølgning på ny udvalgsstruktur</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Markedskontrol – hvordan går det med det i Danmark, hvordan griber man det an?</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+</ul>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>11. Eventuelt – herunder fastlæggelse af næste møde</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Mette Præst Knudsen forklarede, at der vil blive lavet en doodle ligesom sidst, og at der vil blive set på muligheden for et tidligt møde af hensyn til konkurrenceudspillet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>May-Britt Aaskov Jakobsen meldte sig som mulig vært ved næste møde, alt afhængig af datoen.&nbsp;</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+      
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+<!-- page_list_subitems -->    <div class="list-group">
+    </div><!-- /page_list_subitems -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+<hr>
+<div class="text-muted">
+    <small><span class="glyphicon glyphicon-time"></span> Sidst opdateret: 17-dec-2013</small><br>
+    <small><span class="glyphicon glyphicon-envelope"></span> Kontaktperson: <a title="" href="mailto:sik@sik.dk">webmaster</a></small>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+    </article>
+    <!--Content-End-->
+  </div>  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+<!-- right_menu_linkbox -->
+            
+            <div class="link-box right-menu">
+
+        <div class="body">
+          <ul>
+                                                                                                                                        <li class="selected">
+                  <a href="Referat-19.fdb3.delaye">
+                                          Referat 19. november 2012
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="../Referat-30.-og-31.fdb2">
+                                          Referat 30. og 31. august 2012
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Referat-22.fdb1.delaye">
+                                          Referat 22. maj 2012
+                                      </a>
+                </li>
+                                    </ul>
+      </div>
+    </div>
+    <!-- /right_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+  </div></div>
+<!-- /full -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/f7012d06058bd5d5db35a640dcb232eb.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Om-os/Raad-og-udvalg/Det-Tekniske-Sikkerhedsraad-ophoert-pr.-1.-januar-2016/Raadsmoeder/2012/Referat-19.-november-2012 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 16:13:39 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

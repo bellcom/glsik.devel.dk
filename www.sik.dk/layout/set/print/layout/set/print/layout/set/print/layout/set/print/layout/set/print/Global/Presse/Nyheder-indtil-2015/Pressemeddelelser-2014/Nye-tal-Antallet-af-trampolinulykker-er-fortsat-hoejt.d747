@@ -1,0 +1,464 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2014/Nye-tal-Antallet-af-trampolinulykker-er-fortsat-hoejt by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 15:32:47 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                              <title>    Nye tal: Antallet af trampolinulykker er fortsat højt / Pressemeddelelser 2014 / Nyheder indtil 2015 / Presse / Global  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/fbe22c545e60ab9ca816978bee99354c_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<!-- full -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+                        <li>
+                                    <a href="../../../Presse.html">Presse</a>
+                          </li>
+          <li>
+                                    <a href="../../Nyheder-indtil-2015.html">Nyheder indtil 2015</a>
+                          </li>
+          <li>
+                                    <a href="../Pressemeddelelser-2014.html">Pressemeddelelser 2014</a>
+                          </li>
+        <li class="active">Nye tal: Antallet af trampolinulykker er fortsat højt</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../../Presse.html">
+          Presse
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                        <li >
+            <a href="../../Nyheder-2018.html">
+                          Nyheder 2018
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Nyheder-2017.html">
+                          Nyheder 2017
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Nyheder-2016.html">
+                          Nyheder 2016
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Pressefoto-og-logo.html">
+                          Pressefoto og logo
+                        </a>
+            </li>
+                                                  
+                                                  <li class="selected">
+            <a href="../../Nyheder-indtil-2015.html">
+                          Nyheder indtil 2015
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>  <div class="col-md-6 center-col">    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../../layout/set/print/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2014/Nye-tal-Antallet-af-trampolinulykker-er-fo" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+            <h1>Nye tal: Antallet af trampolinulykker er fortsat højt</h1>
+      <summary>
+        <p>
+                      
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+De seneste fem år har der gennemsnitligt været cirka 400 henvendelser om året på skadestuen på Odense Universitetshospital efter trampolin-relaterede ulykker, hvilket svarer til over 8.000 ulykker på landsplan. I 6 ud af 7 tilfælde er det børn under 15 år, det går ud over. I 2013 var andelen af knoglebrud til gengæld det laveste siden 2005, hvilket tyder på, at man er blevet bedre til at undgå alvorlige ulykker. 
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+                            </p>
+      </summary>
+      <div class="pull-right social-icons">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://sik.dk/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2014/Nye-tal-Antallet-af-trampolinulykker-er-fortsat-hoejt" target="_blank"><i class="fa fa-facebook-square facebook-brand"></i></a>
+<a href="http://twitter.com/share?url=https://sik.dk/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2014/Nye-tal-Antallet-af-trampolinulykker-er-fortsat-hoejt" target="_blank"><i class="fa fa-twitter-square twitter-brand"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://sik.dk/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2014/Nye-tal-Antallet-af-trampolinulykker-er-fortsat-hoejt" target="_blank"><i class="fa fa-pinterest-square pinterest-brand"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sik.dk/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2014/Nye-tal-Antallet-af-trampolinulykker-er-fortsat-hoejt" target="_blank"><i class="fa fa-linkedin-square linkedin-brand"></i></a>
+<a href="mailto:?subject=Nye tal: Antallet af trampolinulykker er fortsat højt&body=https://sik.dk/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2014/Nye-tal-Antallet-af-trampolinulykker-er-fortsat-hoejt" target="_blank"><i class="fa fa-envelope-o mail-brand"></i></a>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+</div>
+      <br>
+      <hr>
+        
+              
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Det danske have-landskab har de seneste 10 år været under forandring: overalt i villakvartererne skyder store, sorte cirkler op som enorme paddehatte. Det er trampolinen, som har gjort sit indtog i de danske haver, og ligesom det længere sydpå er svømmepøle, der har sat sig præg på luftfotoet, så er det havetrampolinen herhjemme, som er populær. En ny undersøgelse, som YouGov har foretaget for Børneulykkesfonden viser, at der står trampoliner hjemme hos 4 ud af 10 børnefamilier. Men de mange trampoliner giver desværre også anledning til mange ulykker.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>”De seneste fem år er der cirka 400 henvendelser om ulykker på trampolin på vores skadestue hvert år, og det er stadig langt flest børn, der kommer til skade. Det præcise antal om året afhænger formentlig af vejrforholdene. Der var særdeles godt vejr i sommerperioden sidste år, hvilket gav anledning til mange flere timers hopperi i de danske haver,” siger Overlæge Jens Lauritsen fra Ulykkes Analyse Gruppen på Odense Universitetshospital. Her registrerede man i 2013 411 skadestuehenvendelser, hvor trampoliner var involveret. Det svarer til over 8.000 ulykker på landsplan.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>”Men den gode nyhed er, at andelen af knoglebrud er lavere i 2013. Det vil sige, at ulykkerne er ikke så alvorlige, som vi har set tidligere. Uanset skaderne er den træning og motorik, som brug af trampolin giver bestemt et gode - men trampolinen skal jo bruges rigtigt. Den seneste nedgang i de alvorlige skader, håber jeg, er et tegn på, at der er kommet mere fokus på sikkerhedsforholdene på trampolinen. Det er især knoglebrud i nærheden af led, som kan være alvorlige hos små børn, da det kan medføre varige mén, som kan ende med at være til gene resten af livet,” siger Jens Lauritsen og tilføjer, at der sker knoglebrud ved hver fjerde trampolin-ulykke med et barn i alderen 5-14 år.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Hop med hovedet</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Børneulykkesfonden, Forbrugerrådet Tænk og Sikkerhedsstyrelsen har de seneste 4 år sat fokus på sikker adfærd på trampolinerne med initiativet ”Hop Med Hovedet” med Jeppe Vig, kendt fra DR Lille NØRD, i front. Her glæder man sig over, at alvorligheden af ulykker ser ud til at falde.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>”Det er meget positivt, hvis vi begynder at se en mindre andel af alvorlige ulykker på trampolinerne. Det tyder på, at både børn og voksne er blevet mere bevidste om, at man altså kan komme alvorligt til skade på en trampolin, hvis man ikke tager sine forholdsregler,” siger Henriette Madsen, leder af Børneulykkesfonden, og fortsætter:</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>”Trampolinen er et dejligt stykke legetøj, som styrker børnenes motorik og bidrager til en aktiv hverdag. Børn får rigtigt meget ud af at hoppe på trampolin. Derfor er det en fantastisk ting, at den er blevet så populær herhjemme. Blot så længe at man husker at bruge hovedet og hoppe med omtanke, så man undgår skader”.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Børn under 15 år er ifølge Ulykkes Analyse Gruppen involveret i 6 ud af 7 ulykker på trampoliner.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Godt råd til forældre: husk nettet</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Lone Hansen, kommunikationskonsulent i Sikkerhedsstyrelsen, fortæller, at noget af det bedste, man kan gøre som ejer af en trampolin, er at have styr på sikkerhedsnettet. Hver femte ulykke sker nemlig, fordi personen falder ned fra trampolinen og kommer til skade.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>”Noget af det første du, som forælder og trampolin-ejer, bør have styr på, er sikkerhedsnettet. Sikkerhedsnettet er en rigtig god idé, da det ikke indskrænker barnets mulighed for at udfolde sig fysisk, men samtidig undgår du rigtigt mange af de mere alvorlige ulykker. Alternativt kan du grave trampolinen ned, hvis det er en type, der er beregnet til det. Dog bør du altid sørge for at have blødt underlag, så som græs eller lignende, omkring trampolinen i tilfælde af, at uheldet er ude,” siger hun.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/InfoBox.tpl (design:content/datatype/view/ezxmltags/InfoBox.tpl) -->
+<div class="alert alert-info">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Om undersøgelsen:</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Undersøgelsen er gennemført af analyseinstituttet YouGov for Børneulykkesfonden. Der er i alt gennemført&nbsp;1050CAWI-interview med danske forældre i alderen18-65 år, som har børn i alderen 0-17 år, i perioden 8. - 19. april 2014.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Odense Universitetshospital indsamler løbende kvalitetssikrede oplysninger om henvendelser efter skader. Det er dette, som gør det muligt at opgøre antal skader pr år efter trampoliner. Henvendelse om talgrundlaget kan ske til Ulykkes Analyse Gruppen, Ortopædkirurgisk afd. Tlf 6541 2283.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/InfoBox.tpl (design:content/datatype/view/ezxmltags/InfoBox.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+<i>&nbsp;</i>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-image ">
+<!-- START: including template: design/base/override/templates/embed/image.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embeddedmedia">
+<div class="class-image">
+
+<div class="attribute-image">
+<p>      
+<!-- START: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+
+
+    
+        
+    
+                                                                                                                                            <img src="../../../../../../../../../../../../../../../../../../../var/plain_site/storage/images/media/images/trampolintal2/299906-1-dan-DK/Trampolintal_reference.png" width="600" height="554"  style="border: 0px  ;" alt="Trampolintal" title="Trampolintal" />
+            
+    
+    
+    
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+  </p>
+</div>
+</div>
+</div>
+
+
+<!-- STOP: including template: design/base/override/templates/embed/image.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>&nbsp;</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>For yderligere information:</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Claus Nielsen, presse- og kommunikationsansvarlig i Børneulykkesfonden, <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+tlf. 30 37 82 39<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Lone Hansen, kommunikationskonsulent i Sikkerhedsstyrelsen, <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+tlf. 25 43 16 21<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Helen Amundsen, seniorrådgiver i Forbrugerrådet Tænk, <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+tlf. 77 41 77 32 eller 27 15 74 31</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>&nbsp;</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>&nbsp;</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+<i>&nbsp;</i>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+      
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+<!-- page_list_subitems -->    <div class="list-group">
+    </div><!-- /page_list_subitems -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+<hr>
+<div class="text-muted">
+    <small><span class="glyphicon glyphicon-time"></span> Sidst opdateret: 18-juni-2014</small><br>
+    <small><span class="glyphicon glyphicon-envelope"></span> Kontaktperson: <a title="" href="mailto:sik@sik.dk">webmaster</a></small>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+    </article>
+    <!--Content-End-->
+  </div>  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+<!-- right_menu_linkbox -->
+            
+            <div class="link-box right-menu">
+
+        <div class="body">
+          <ul>
+                                                                                                      <li >
+                  <a href="Tilbagetraekning-af-Batteri-2048-77-skuds-batteri.d74c.dela">
+                                          Tilbagetrækning af Batteri 2048 - 77 skuds batteri
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Pas-paa-flyvende-trampoliner.html">
+                                          Pas på flyvende trampoliner
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Test-af-HPFI-afbryder-kan-redde-dit-liv2.html">
+                                          Test af HPFI-afbryder kan redde dit liv
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="ADVARSEL-risiko-for-elektrisk-stoed-og-drukning.d749.delaye">
+                                          ADVARSEL – risiko for elektrisk stød og drukning
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Undgaa-brand-naar-ukrudtet-svitses.html">
+                                          Undgå brand når ukrudtet svitses
+                                      </a>
+                </li>
+                                                                                                                                                      <li class="selected">
+                  <a href="Nye-tal-Antallet-af-trampolinulykker-er-fortsat-hoejt.d747">
+                                          Nye tal: Antallet af trampolinulykker er fortsat højt
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Danmark-har-faaet-en-ny-autorisationslov.html">
+                                          Danmark har fået en ny autorisationslov
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Foraarsvejr-er-trampolinvejr.html">
+                                          Forårsvejr er trampolinvejr
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Test-af-HPFI-afbryder-kan-redde-dit-liv.html">
+                                          Test af HPFI-afbryder kan redde dit liv
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Brug-ukrudtsbraenderen-med-omtanke.html">
+                                          Brug ukrudtsbrænderen med omtanke
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Ulovlig-annoncering-og-uautoriseret-arbejde-straffes.d73c.d">
+                                          Ulovlig annoncering og uautoriseret arbejde straffes
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Salgsforbud-annulleres.html">
+                                          Salgsforbud annulleres
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="TEKNIQ-har-bragt-forkerte-tal-om-elulykker.html">
+                                          TEKNIQ har bragt forkerte tal om elulykker
+                                      </a>
+                </li>
+                                    </ul>
+      </div>
+    </div>
+    <!-- /right_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+  </div></div>
+<!-- /full -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/e0c4ebb700325956b835b709041e8de3.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2014/Nye-tal-Antallet-af-trampolinulykker-er-fortsat-hoejt by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 15:32:47 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

@@ -1,0 +1,380 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2012/Sansegyngers-ophaeng-kan-skade-babyers-syn by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 17:18:39 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                              <title>    Sansegyngers ophæng kan skade babyers syn / Pressemeddelelser 2012 / Nyheder indtil 2015 / Presse / Global  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/172db9c811c86073f79ddeab86716aa8_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<!-- full -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+                        <li>
+                                    <a href="../../../Presse.html">Presse</a>
+                          </li>
+          <li>
+                                    <a href="../../Nyheder-indtil-2015.html">Nyheder indtil 2015</a>
+                          </li>
+          <li>
+                                    <a href="../Pressemeddelelser-2012.html">Pressemeddelelser 2012</a>
+                          </li>
+        <li class="active">Sansegyngers ophæng kan skade babyers syn</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../../Presse.html">
+          Presse
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                        <li >
+            <a href="../../Nyheder-2018.html">
+                          Nyheder 2018
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Nyheder-2017.html">
+                          Nyheder 2017
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Nyheder-2016.html">
+                          Nyheder 2016
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Pressefoto-og-logo.html">
+                          Pressefoto og logo
+                        </a>
+            </li>
+                                                  
+                                                  <li class="selected">
+            <a href="../../Nyheder-indtil-2015.html">
+                          Nyheder indtil 2015
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>  <div class="col-md-6 center-col">    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../../layout/set/print/Global/Presse/Nyheder-indtil-2015/Pressem/Sansegyngers-ophaeng-ka" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+            <h1>Sansegyngers ophæng kan skade babyers syn</h1>
+      <summary>
+        <p>
+                      
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+Sikkerhedsstyrelsen har fået kendskab til 10 episoder, hvor helt små børn har fået metalsplinter i øjnene. Splinterne kommer fra metalophæng til de populære sansegynger. Sagen begyndte, da læge Eva Holsts søn to gange fik metalsplinter i øjnene. 
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+                            </p>
+      </summary>
+      <div class="pull-right social-icons">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://sik.dk/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2012/Sansegyngers-ophaeng-kan-skade-babyers-syn" target="_blank"><i class="fa fa-facebook-square facebook-brand"></i></a>
+<a href="http://twitter.com/share?url=https://sik.dk/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2012/Sansegyngers-ophaeng-kan-skade-babyers-syn" target="_blank"><i class="fa fa-twitter-square twitter-brand"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://sik.dk/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2012/Sansegyngers-ophaeng-kan-skade-babyers-syn" target="_blank"><i class="fa fa-pinterest-square pinterest-brand"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sik.dk/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2012/Sansegyngers-ophaeng-kan-skade-babyers-syn" target="_blank"><i class="fa fa-linkedin-square linkedin-brand"></i></a>
+<a href="mailto:?subject=Sansegyngers ophæng kan skade babyers syn&body=https://sik.dk/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2012/Sansegyngers-ophaeng-kan-skade-babyers-syn" target="_blank"><i class="fa fa-envelope-o mail-brand"></i></a>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+</div>
+      <br>
+      <hr>
+        
+              
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Sikkerhedsstyrelsen opfordrer småbørnsforældre til at holde nøje øje med, at metalophængene til deres sansegynger ikke afgiver metalsplinter, når metalfladerne gnides mod hinanden. Sikkerhedsstyrelsen har fået kendskab til 10 tilfælde, hvor babyer er blevet indlagt med metalsplinter i øjnene på grund af metalophæng.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Konstaterer du problemer med, at metalophænget afgiver splinter, skal du tage gyngen ned og kontakte forhandleren.</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>&nbsp; - &nbsp; Det drejer sig både om sansegynger, fugleredegynger, motorikgynger, hængekøjer, hængevugger og lignende til børn. Ens for produkterne er, at de skal eller kan ophænges centreret i ophæng og kroge af metal. Vi har fået kendskab til, at ophænget til denne type produkter kan afgive metalsplinter under brug, når metal mod metal slides mod hinanden, siger Mette Cramon, kommunikationskonsulent i Sikkerhedsstyrelsen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Kan skade synet permanent </b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Sagen startede med, at læge Eva Holst undrede sig, da hendes søn to gange med 1 månedes mellemrum fik metalsplinter i øjnene.. Ved en nøje gennemgang af hjemmet fandt hun frem til at metallet måtte stamme fra ophænget til sønnens sansegynge. Ophænget var synligt slidt, og man kunne tørre metalsplinter af det. Denne observation fik overlæge Regitze Bangsgaard på øjenafdelingen på Glostrup Hospital til at undersøge, om de øvrige børn, som havde været behandlet i afdelingen de sidste tre år havde ligget i sansegynger eller lignende produkter med centreret ophæng. Dette viste sig at være tilfældet for 10 ud af 11 børn.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Børnene har fået fjernet metalsplinterne, og det krævede i de fleste tilfælde fuld narkose.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Det kan skade børns syn permanent, hvis de får en metalsplint i øjet. Risiko for varig synspåvirkning på øjet er større jo mindre barnet er, når skaden sker.&nbsp; Problemet med metalsplinterne er, at de kan falde ned i øjnene på barnet, når barnet ligger på ryggen i gyngen/vuggen og ser op mod metalophænget.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>De to lægers observationer er accepteret til publikation i British Journal of Ophthalmology. Og lægerne opfordrer også praktiserende læger og sundhedsplejersker til at være opmærksomme på problematikken.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Rigtig mange børnefamilier har allerede disse gynger i deres hjem. Det er vigtigt at den nye viden når ud til dem, så de kan få ændret ophængningssystemet. Børns synsudvikling er specielt følsom, når de er under 3-4 mdr og det et er netop i den alder, at de ligger stille på ryggen i gyngen og har den største risiko for at splinterne falder direkte ned i øjnene. I starten er der ikke mange symptomer. Man kan nogle gange se en lille sort plet i øjet , måske løber øjet lidt i vand og barnet kan evt også sove dårligt pga generne fra splinten. Det er nemt at overse, og vi vil derfor også gerne gøre praktiserende læger og sundhedsplejersker opmærksomme på denne problematik, udtaler Eva Holst og Regitze Bangsgaard.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Brev til branchen </b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Krogen og ophænget til sansegyngen, som Eva Holsts’s søn havde ligget i, har Sikkerhedsstyrelsen fået undersøgt på et laboratorium med speciale indenfor korrosion og metallurgi. Det er laboratoriets konklusion, at der uden tvivl vil kunne afgives metalsplinter i form af belægning fra ophæng og kroge.&nbsp; Det har nu fået Sikkerhedsstyrelsen til at kontakte hele branchen med information og indskærpe, at det er producenten og importørens ansvar, at produktet er sikkert.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>&nbsp; &nbsp; - Vi har valgt at sende en skrivelse ud til alle kendte importører og forhandlere af den her type produkter. Her er budskabet meget klart, at det er deres ansvar, at produkterne er sikre. Derfor forventer vi, at de nu vurderer, om gyngerne opfylder produktsikkerhedslovens krav i alle produktets funktioner ved forudsigelig og forventet brug og under hele produktets levetid, forklarer Mette Cramon og understreger, at ethvert led i omsætningen af produkterne er ansvarlig for sikkerheden.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+      
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+<!-- page_list_subitems -->    <div class="list-group">
+    </div><!-- /page_list_subitems -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+<hr>
+<div class="text-muted">
+    <small><span class="glyphicon glyphicon-time"></span> Sidst opdateret: 04-okt-2012</small><br>
+    <small><span class="glyphicon glyphicon-envelope"></span> Kontaktperson: <a title="" href="mailto:sik@sik.dk">webmaster</a></small>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+    </article>
+    <!--Content-End-->
+  </div>  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+<!-- right_menu_linkbox -->
+            
+            <div class="link-box right-menu">
+
+        <div class="body">
+          <ul>
+                                                                                                      <li >
+                  <a href="Sikkerhedsstyrelsens-kont">
+                                          Sikkerhedsstyrelsens kontrol af fyrværkeri
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="3518-farlige-gasvarmeovne">
+                                          3518 farlige gasvarmeovne med el er stadig hjemme hos forbrugerne 
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Pas-paa-flyvende-trampoli">
+                                          Pas på flyvende trampoliner
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Test-din-fejlstroemsafbry-2">
+                                          Test din fejlstrømsafbryder – det kan redde liv
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Uautoriseret-arbejde-og-v">
+                                          Uautoriseret arbejde og vildledende annoncering bliver straffet
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Taend-for-damerne-ikke-ko">
+                                          Tænd for damerne – ikke komfuret
+                                      </a>
+                </li>
+                                                                                                                                                      <li class="selected">
+                  <a href="Sansegyngers-ophaeng-kan-">
+                                          Sansegyngers ophæng kan skade babyers syn
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Gasvarmeovne-med-el-dumpe">
+                                          Gasvarmeovne med el dumper i sikkerhedstest
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Nye-tal-om-overtraedelser">
+                                          Nye tal om overtrædelser på autorisationsområdet
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Gratis-spil-skal-faa-boer">
+                                          Gratis spil skal få børn til at hoppe sikkert på trampolin
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Sikkerhedsstyrelsens-resu">
+                                          Sikkerhedsstyrelsens resultat af kontroller på solarieområdet 2010 - 2012
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Gasvarmeovne-undersoeges-">
+                                          Gasvarmeovne undersøges i hele Norden                                                                                         
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Kampagne-saetter-fokus-pa">
+                                          Kampagne sætter fokus på ukrudtsbrændere  - Pressemeddelelse fra Beredskabsstyrelsen og Sikkerhedsstyrelsen  
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Test-din-fejlstroemsafbry">
+                                          Test din fejlstrømsafbryder – det kan redde liv
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Gaskoeleskab-kan-vaere-li">
+                                          Gaskøleskab kan være livsfarligt
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Eleftersyn-giver-bedre-el">
+                                          Eleftersyn giver bedre elsikkerhed
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Stikproeve-afsloerer-farl">
+                                          Stikprøve afslører farlige snore i børnetøj
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Gem-bleposerne-vaek.12a52">
+                                          Gem bleposerne væk
+                                      </a>
+                </li>
+                                    </ul>
+      </div>
+    </div>
+    <!-- /right_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+  </div></div>
+<!-- /full -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/fa9d6053e2ff2c687d5f9075346a055e.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2012/Sansegyngers-ophaeng-kan-skade-babyers-syn by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 17:18:39 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

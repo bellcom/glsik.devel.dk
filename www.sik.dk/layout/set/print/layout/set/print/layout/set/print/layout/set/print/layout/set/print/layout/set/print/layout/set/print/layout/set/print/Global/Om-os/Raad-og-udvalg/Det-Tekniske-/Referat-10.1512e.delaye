@@ -1,0 +1,553 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Om-os/Raad-og-udvalg/Det-Tekniske-Sikkerhedsraad-ophoert-pr.-1.-januar-2016/Raadsmoeder/2009/Referat-10.-juni-2009 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 18:28:19 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                                          <title>    Referat - 10. juni 2009 / 2009 / Rådsmøder  / Det Tekniske Sikkerhedsråd - ophørt pr. 1. januar 2016 / Råd og udvalg / Om os / Global  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/4a99891d7bae34142174fac0a99f706b_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<!-- full -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+                        <li>
+                                    <a href="../../../Om-os.html">Om os</a>
+                          </li>
+          <li>
+                                    <a href="../../Raad-og-udvalg.html">Råd og udvalg</a>
+                          </li>
+          <li>
+                                    <a href="../Det-Tekniske-Sikkerhedsraad-ophoert-p">Det Tekniske Sikkerhedsråd - ophørt pr. 1. januar 2016</a>
+                          </li>
+          <li>
+                                    <a href="Raadsmoeder.150f4.delay">Rådsmøder </a>
+                          </li>
+          <li>
+                                    <a href="../Det-Tekniske-Sikker/2009.17aa3.delaye">2009</a>
+                          </li>
+        <li class="active">Referat - 10. juni 2009</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../../Om-os.html">
+          Om os
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                        <li >
+            <a href="../../Organisation-og-ledelse.html">
+                          Organisation og ledelse 
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Strategier-og-maal.html">
+                          Strategier og mål
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Job-og-karriere.html">
+                          Job og karriere
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Udbud-og-hoeringer.html">
+                          Udbud og høringer 
+                        </a>
+            </li>
+                                                  
+                                                  <li class="selected">
+            <a href="../../Raad-og-udvalg.html">
+                          Råd og udvalg
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Om-Sik.html">
+                          Om Sik.dk
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>  <div class="col-md-6 center-col">    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../../layout/set/print/Global/Om-os/Raad-og-udv/Referat-10.17ad6.delaye" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+            <h1>Referat - 10. juni 2009</h1>
+      <summary>
+        <p>
+                            </p>
+      </summary>
+      <div class="pull-right social-icons">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://sik.dk/Global/Om-os/Raad-og-udvalg/Det-Tekniske-Sikkerhedsraad-ophoert-pr.-1.-januar-2016/Raadsmoeder/2009/Referat-10.-juni-2009" target="_blank"><i class="fa fa-facebook-square facebook-brand"></i></a>
+<a href="http://twitter.com/share?url=https://sik.dk/Global/Om-os/Raad-og-udvalg/Det-Tekniske-Sikkerhedsraad-ophoert-pr.-1.-januar-2016/Raadsmoeder/2009/Referat-10.-juni-2009" target="_blank"><i class="fa fa-twitter-square twitter-brand"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://sik.dk/Global/Om-os/Raad-og-udvalg/Det-Tekniske-Sikkerhedsraad-ophoert-pr.-1.-januar-2016/Raadsmoeder/2009/Referat-10.-juni-2009" target="_blank"><i class="fa fa-pinterest-square pinterest-brand"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sik.dk/Global/Om-os/Raad-og-udvalg/Det-Tekniske-Sikkerhedsraad-ophoert-pr.-1.-januar-2016/Raadsmoeder/2009/Referat-10.-juni-2009" target="_blank"><i class="fa fa-linkedin-square linkedin-brand"></i></a>
+<a href="mailto:?subject=Referat - 10. juni 2009&body=https://sik.dk/Global/Om-os/Raad-og-udvalg/Det-Tekniske-Sikkerhedsraad-ophoert-pr.-1.-januar-2016/Raadsmoeder/2009/Referat-10.-juni-2009" target="_blank"><i class="fa fa-envelope-o mail-brand"></i></a>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+</div>
+      <br>
+      <hr>
+        
+              
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Til stede:</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+ Mette Præst Knudsen, Anita Rønne, Willy Goldby, Flemming Jensen, Jens-Olav Pedersen, Niels Jørgen Hansen, Torben Steenberg, Elin Brandi Sørensen, May-Britt Aaskov Jacobsen, Jacob Schmidt, Carsten Sørig, Torben Skødt, Jan Roed, Tina Ovesen Petersen, Charlotte Kirk Larsen og Dorthe G. Rasmussen (referent).</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Afbud:</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+ Erik F. Hyldahl og Annette Dragsdahl.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Velkomst ved Mette Præst Knudsen</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Formanden bød alle velkommen til mødet, hvorefter den nye repræsentant for Dansk Energi, May-Britt Aaskov Jacobsen, kort præsenterede sig for rådet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Godkendelse af dagsorden</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Dagsorden blev godkendt.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Godkendelse af referat fra mødet 14. april 2009 og gennemgang af referater fra underudvalg</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Referat fra DTS mødet 15. april 2009 blev godkendt med den bemærkning, at der på styrelsens hjemmeside er foretaget en præcisering af forholdet mellem service, opstart og indregulering på gasområdet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Under gennemgangen af referaterne fra underudvalgene blev der spurgt, om der er aktiviteter, som understøtter udfordringerne for branchen omkring gas fra udlandet, fx Tyskland, og om den eventuelle nødvendighed af at ændre i gasreglementet. Carsten Sørig fortalte, at styrelsen deltager i et samarbejder med bl.a. Energinet.dk om at analysere betydningen for den danske naturgas, herunder tidsfrister. Men det er udgangspunktet, at ændringerne ikke vil få den helt store betydning i den nærmeste fremtid, og at der højest vil blive tale om mindre justeringer i gasreglementet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Der var ingen kommentarer til referaterne fra autorisation – og ESP udvalgene.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Sket siden sidst</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+På fyrværkeriområdet blev Rådet informeret om, at partierne i Folketinget fortsat diskuterer nødvendigheden af at ændre affyringsperioden. Der blev spurgt ind til forholdene i Tyskland. Og her blev det bl.a. nævnt, at de kulturelle forhold mellem de to lande er forskellige på fyrværkeriområdet, derfor kan man ikke umiddelbart sammenligne dem. Det vil kræve en lovændring, hvis affyringsperioden skal begrænses til perioden mellem jul og nytår. Spørgsmålet diskuteres altså forsat, og styrelsen er blevet bedt om at komme yderligere input.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Styrelsen informerede om et projekt i regi af Nordisk Råd, som skal gøre det nemmere for elinstallatører at arbejde i de nordiske lande. Styrelsen deltager bl.a. i en analyse af muligheden for en gensidig anerkendelse af autorisationer og uddannelsen af installatører i de nordiske lande. Ingen forudser nu de helt store problemer, da installatører allerede i dag har mulighed for at opfylde de nationale bestemmelser i de enkelte lande og derved opnå autorisation.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Omkring den nye produktsikkerhedslov blev notatet uddybet med kommentarer om, det udvalg, der har udarbejdet forslag til den nye lov, har udgivet en rapport, som er tilgængelig på Økonomi- og Erhvervsministeriets hjemmeside. Høringsfasen forventes afsluttet efter sommerferien.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Styrelsen har været nødsaget til at indføre gebyrforhøjelser på administrationen af autorisationer inden for el, gas og vvs områderne. En af årsagerne til gebyrforhøjelsen er, at nogle sager er meget komplicerede og kræver lang sagsbehandlingstid, og der blev spurgt ind til muligheden for at skelne mellem komplicerede og ukomplicerede sager og sætte gebyret herefter. Styrelsen ser ingen umiddelbar løsning, men lovede at man ved fremtidige gebyrfastsættelser vil se på mulighederne for at differentiere gebyrets størrelse.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Omkring udfasning af glødelamper til fordel for mere miljørigtige elsparerpærer/kompaktlysstofrør fremførte Willy Golby stor tilfredshed med styrelsens deltagelse og engagement på området. Willy Goldby forudser nemlig en række problemer for forbrugerne, der efter hans mening er blevet ladt i stikken. I spareiveren har man overset en række tekniske problemer med lyskilderne, og derfor vil fabrikanterne tage initiativ til en informationskampagne til forbrugerne i samarbejde med Forbrugerrådet og Forbrugerstyrelsen. Sikkerhedsstyrelsen arbejder for at få ændret standarder på området, og vil naturligvis også kunne levere input til informationsarbejdet. Jan Roed fra styrelsen vil holde Rådet orienteret om udfasningen af glødepærer.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Faglige emner til diskussion</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Forslag til ændringer i autorisationsordningerne</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Tina Ovesen Petersen fra styrelsen gennemgik status på projektet, herunder tidsplanen. Styrelsen forventer, at en rapport fra arbejdsgruppen kommer i høring omkring medio august. Til det indvendte nogle medlemmer, at den tidsfrist er uhensigtsmæssig. Man mente, at høringen kommer til at ligge for tæt på DTS mødet 3. og 4. september, og at man kunne forestille sig, at høringen kunne kaste nogle synspunkter af sig, som man ville kunne tage højde for på forhånd i regi af DTS. Samtidig fremførte man, at oplægget til dagens møde burde have været sendt ud til medlemmerne tidligere, så man kunne have tæppet tingene af i sit bagland. Til det fremførte styrelsen, at de berørte organisationer er repræsenteret i det underudvalg, som arbejder med projektet, og ad den vej havde muligheden for at holde sig løbende orienteret. Styrelsen tog de fremsatte synspunkter til efterretning og lovede at sikre en høring eller drøftelse i DTS, inden rapporten bliver sendt til høring i en bredere kreds.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Tina Ovesen Petersen orienterede efterfølgende om det nye udspil til kravene til et enkelt KS - system og autorisationsudvalgets kommentarer hertil.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Rådet gik herefter over til en drøftelse af forslag til ændringer i autorisationsvilkårene:</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>1 - Opbygning af en ny autorisationsordning uden personlige autorisationer og bibeskæftigelsesbegrebet</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>2 - Revision af undtagelserne fra autorisationskravene.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+1). Nogle medlemmer udtrykte frygt for, at fjernelse af den personlige autorisationsordning vil betyde en svækkelse af sikkerheden generelt, da man ikke vil føle sig ansvarlig, hvis ikke ansvaret er knyttet op på den personlige autorisation. Dette tilbageviste styrelsen og påpegede, at en harmonisering af autorisationsordningerne ikke vil betyde en svækket af sikkerheden, hverken for forbrugere eller for arbejdstagere. <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Diskussionen handlede derefter om ansvar, hvor et medlem fremførte, at det er vigtigt, at der ikke hersker tvivl om ansvarsfordelingen i forbindelse med udført el-arbejde. Styrelsen fremførte, at et eventuelt økonomisk erstatningsansvar over for forbrugeren vil ligge hos virksomheden, uanset om der findes en ordning med personlig autorisation eller ej. Ligesom styrelsen fastslog, at en person også fortsat kan straffes for overtrædelse af stærkstrømsbekendtgørelsen, uanset om der er tale om en ordning med en personlig autorisation eller ej.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Et andet medlem fastslog, at den såkaldte teknisk ansvarlige, man opererer med på gas og vvs området, i høj grad føler sig ansvarlig – uden at oppebære en personlig autorisation. Set fra styrelsens side hersker der ingen tvivl om fordelingen af ansvar ved bortfald af den personlige autorisation på elområdet, uanset om det handler økonomi eller straffeansvar.<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Et medlem fremførte, at man jo stadig skal have en godkendelse som teknisk ansvarlig hos styrelsen, hvis man fx skal uddelegere ansvar. </p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>2). Styrelsen udbad sig rådets kommentarer til undtagelser fra kravet om autorisation på el-, vvs- og kloakområdet. Og bad specifik om input til de opgaver, som forbrugerne evt. selv må kunne udføre. Burde man fx få lov til at skifte en udendørsstikkontakt, når man godt må indendørs. Rådets medlemmer tilkendegav, at de som udgangspunkt finder, at det eksisterende niveau for gør det selv arbejde på elområdet er rimeligt, og at man skal være meget forsigtig med at udvide rammerne. Når det handler om stikkontakter, der sidder udendørs, er det vigtigste sikkerhedsmæssige område tætningsgraden, og dér skal fagfolk til. På gas-området var der opbakning til at tillade, at man selv monterer og udskifter slager mv. på simple gasinstallationer, fx grill, terrassevarmere og ukrudtsbrændere.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Formanden kunne afslutningsvis konkludere, at styrelsen udarbejder en samlet rapport om oplægget til ændringer i autorisationsloven. Og at styrelsen finder en model til at inddrage rådet ved en ”præ-høring eller ved drøftelse på næste DTS møde, som finder sted 3. og 4. september i Esbjerg. For at sikre at styrelsen har det bedste grundlag for at udarbejde udkast til rapporten blev der aftalt et møde i juni mellem styrelsen, Dansk El-forbund og TEKNIQ.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>DTS og underudvalg</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Charlotte Kirk Larsen fra styrelsen præsenterede en række forskellige muligheder for håndtering af underudvalgene i Det Tekniske Sikkerhedsråd. Hun gennemgik først juraen for rådets arbejde, og i oplægget var der ifølge dagsordenen lagt op til diskussion af to ting:</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>1 - Diskussion af hvordan Det Tekniske Sikkerhedsråd bør benytte eventuelle underudvalg fremover.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>2 - Drøftelse af hvordan vi kan involvere underudvalgenes formænd i en eventuel re-organisering af underudvalgsstrukturen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>1). Et medlem lagde ud med at takke for opfriskningen af det juridiske grundlag, og fastslog, at hun mener, at der fortsat skal være tale om underudvalg. Hun mener også, at styrelsen ikke bør være formænd for udvalgene, men derimod besidde sekretærfunktionen i alle udvalg. Et medlem bakkede op og mente, at formændene burde findes blandt DTS medlemmerne.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Et anden medlem takkede også for et godt diskussionsoplæg, men fastslog, at problemet efter hans mening ikke kun er af strukturel karakter. Han mener, at det reelt handler om, hvad styrelsen vil bruge DTS til. Han fastslog, at rådets medlemmer gerne vil have indflydelse på regeldannelsen og ikke diskutere enkeltsager, så behøver styrelsen ikke at have paraderne så højt hævet. Han sagde også, at nogle underudvalg efter hans mening fungerer godt, mens det kniber med andre.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Formanden fastslog, at rådet kan efterspørge input fra udvalgene og således være med til at sætte dagsordenen. Til det svarede et medlem, at det kan knibe med at komme med input, da den nødvendige viden ikke altid findes hos et medlem af DTS, men derimod hos styrelsen, som derfor må sætte dagsordenen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Et medlem foreslog, at styrelsen kunne udarbejde en slags ”Det sker”, efter samme linje, som den i dag udarbejder et ”Sket siden sidst” notat til møderne. På den måde kunne man måske sikre, at DTS fik de nødvendige information rettidigt.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Charlotte Kirk Larsen spurgte til medlemmernes holdning til at behandle skriftligt materiale. Rådets medlemmer var alle positive over for at forholde sig til materiale, ligesom der var bred opbakning til et slags ekstranet, hvor styrelsen kunne lægge alle relevante informationer ud til medlemmerne. Nogle medlemmer understregede dog det vigtige i, at man også får drøftet sager ansigt til ansigt, og mente, at it kunne være et udmærket suppleringsværktøj. Styrelsen understregede, at en evt. it-løsning skal være et supplement og ikke en erstatning for møderne. Rådets drøftede også at afskaffe udvalgene og i stedet nedsætte med ad hoc udvalg. Formanden foreslog, at alle DTS medlemmer skal sidde i et underudvalg, og måske ligefrem beklæde formandsposten.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Et medlem beklagede, at samarbejdsformen mellem DTS og udvalg ikke var blevet sat på dagsordenen i forbindelse med udnævnelsen af nye medlemmer til DTS.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Styrelsens direktør indskød at både struktur, indhold og kultur er vigtige elementer i forbindelse med DTS’s rolle og dets forhold til udvalgene.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Formanden samlede afslutningsvis op på debatten, og kunne konkludere følgende:</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+
+<ul>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Medlemmerne ønsker al nødvendigt materiale i skriftlig form så tidligt som muligt.</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Tanken om et eventuelt ekstranet skal diskutere nærmere.</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Dagsordenen skal femover tydeligere vise, hvad der skal diskuteres, og hvad der er til orientering.</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Rådet skal diskutere strukturen. Skal formændene for udvalgene fx også sidde i DTS, eller skal medlemmer fra DTS også sidde i udvalg.</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>En evt. revision af rådets forretningsorden bør diskuteres.</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<li>Antallet af underudvalg og sammensætning bør gennemgås på næste møde (3.og 4. september 2009).</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+</ul>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Formanden opfordrede rådets medlemmer til at sende synspunkter og input senest 1. august til rådets sekretær, Dorthe G. Rasmussen (
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="mailto:dgr@sik.dk" target="_self">dgr@sik.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+), så de kan komme med i diskussionsoplægget til mødet 3. og 4. september, hvor hovedemnet vil blive DTS og dets underudvalg.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Derudover vil mødet også komme til at omhandle et oplæg om forbrugeradfærd ved Elin Brandi Sørensen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Meddelelser</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Rådet godkendte, at Lars Henning Nielsen indstillet af FAFGE indtræder i Installations- og Netudvalget og i udvalget for EU-direktiver, produkter og standardisering, hvortil han er indstillet af DI.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Evt.</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Næste møde finder sted i Esbjerg 3. og 4. september 2009. Formanden bad medlemmerne noterer sig, at mødet i Esbjerg begynder om formiddagen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Mødet 25. november finder sted hos DI i København kl. 10.30.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Medlemmerne vil få tilsendt udkast til datoer for møder i 2010 med forslag til den geografiske placering.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+      
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+<!-- page_list_subitems -->    <div class="list-group">
+    </div><!-- /page_list_subitems -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+<hr>
+<div class="text-muted">
+    <small><span class="glyphicon glyphicon-time"></span> Sidst opdateret: 17-dec-2013</small><br>
+    <small><span class="glyphicon glyphicon-envelope"></span> Kontaktperson: <a title="" href="mailto:sik@sik.dk">webmaster</a></small>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+    </article>
+    <!--Content-End-->
+  </div>  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+<!-- right_menu_linkbox -->
+            
+            <div class="link-box right-menu">
+
+        <div class="body">
+          <ul>
+                                                                                                      <li >
+                  <a href="Referat-25.15130.delaye">
+                                          Referat - 25. november 2009
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Referat-3.-og-4.1512f.d">
+                                          Referat - 3. og 4. september 2009
+                                      </a>
+                </li>
+                                                                                                                                                      <li class="selected">
+                  <a href="Referat-10.1512e.delaye">
+                                          Referat - 10. juni 2009
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Referat-15.1512d.delaye">
+                                          Referat - 15. april 2009
+                                      </a>
+                </li>
+                                    </ul>
+      </div>
+    </div>
+    <!-- /right_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+  </div></div>
+<!-- /full -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/41b925061e05fa3c114244590493915c.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Om-os/Raad-og-udvalg/Det-Tekniske-Sikkerhedsraad-ophoert-pr.-1.-januar-2016/Raadsmoeder/2009/Referat-10.-juni-2009 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 18:28:19 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

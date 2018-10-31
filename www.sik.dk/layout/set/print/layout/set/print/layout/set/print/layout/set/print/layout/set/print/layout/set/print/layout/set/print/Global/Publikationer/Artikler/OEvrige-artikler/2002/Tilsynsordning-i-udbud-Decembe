@@ -1,0 +1,383 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Publikationer/Artikler/OEvrige-artikler/2002/Tilsynsordning-i-udbud-December-2002 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 17:12:50 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                                    <title>    Tilsynsordning i udbud (December 2002) / 2002 / Øvrige artikler / Artikler / Publikationer / Global  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/172db9c811c86073f79ddeab86716aa8_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<!-- full -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+                        <li>
+                                    <a href="../../../../Publikationer.html">Publikationer</a>
+                          </li>
+          <li>
+                                    <a href="../../../Artikler.html">Artikler</a>
+                          </li>
+          <li>
+                                    <a href="../../OEvrige-artikler.html">Øvrige artikler</a>
+                          </li>
+          <li>
+                                    <a href="../2002.html">2002</a>
+                          </li>
+        <li class="active">Tilsynsordning i udbud (December 2002)</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../../../Publikationer.html">
+          Publikationer
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                        <li >
+            <a href="../../../Opgoerelser-over-ulykker.html">
+                          Opgørelser over ulykker
+                        </a>
+            </li>
+                                                  
+                                                  <li class="selected">
+            <a href="../../../Artikler.html">
+                          Artikler
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Faglige-rapporter.html">
+                          Faglige rapporter
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Foldere.html">
+                          Foldere
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Materialebestilling.html">
+                          Materialebestilling
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Undervisningsmateriale.html">
+                          Undervisningsmateriale
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Lovstof-og-standarder-om-el-og-gas.html">
+                          Lovstof og standarder om el og gas
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../DVD.html">
+                          DVD
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>  <div class="col-md-9 center-col">    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../../../layout/set/print/Global/Publikationer/Artikler/OEvrige-art/Tilsynsordning-i-udbud-" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+            <h1>Tilsynsordning i udbud (December 2002)</h1>
+      <summary>
+        <p>
+                      
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+Elselskaberne har i mange år været Elektricitetsrådets forlængede arm i arbejdet med tilsyn af nye installationer. Nu er tilsynsvirksomheden som noget nyt gået i udbud
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+                            </p>
+      </summary>
+      <div class="pull-right social-icons">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2002/Tilsynsordning-i-udbud-December-2002" target="_blank"><i class="fa fa-facebook-square facebook-brand"></i></a>
+<a href="http://twitter.com/share?url=https://sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2002/Tilsynsordning-i-udbud-December-2002" target="_blank"><i class="fa fa-twitter-square twitter-brand"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2002/Tilsynsordning-i-udbud-December-2002" target="_blank"><i class="fa fa-pinterest-square pinterest-brand"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2002/Tilsynsordning-i-udbud-December-2002" target="_blank"><i class="fa fa-linkedin-square linkedin-brand"></i></a>
+<a href="mailto:?subject=Tilsynsordning i udbud (December 2002)&body=https://sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2002/Tilsynsordning-i-udbud-December-2002" target="_blank"><i class="fa fa-envelope-o mail-brand"></i></a>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+</div>
+      <br>
+      <hr>
+        
+              
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Artiklen har været bragt i el &amp; energi, december 2002</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>I mange år har der været en ordning om, at 10% af alle nye installationer efterses, så man sikrer, at den overordnede sikkerhedsstandard er i orden. Denne opgave har siden efteråret 1999 været gennemført af en række netselskaber, som har tegnet kontrakt med Elektricitetsrådet, og via dette samarbejde udført tilsynene under Elektricitetsrådets myndighedsansvar. Ordningen har nu kørt godt 3 år som en prøveordning, og kontrakterne udløber ved udgangen af 2002.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Baggrund </b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Allerede i 1970 blev der fremsat et ønske om at få efterset nye installationer og større udvidelser på installationer for at følge de autoriserede elinstallatørers arbejde. Man ønskede en veldokumenteret tilsynsordning, hvis statistiske resultater kan anvendes til målrettet kvalitetssikring og højnelse af elsikkerheden, og som i længden kan være med til at nedbringe antallet og omfanget af alvorlige og farlige fejl. <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Tilsynsarbejdet blev overdraget elselskaberne og finansieret gennem elprisen. Udviklingen med liberalisering og dermed elprisen som en konkurrencefaktor satte dog sidst i halvfemserne ordningen under pres. Elselskaberne havde ikke noget økonomisk incitament til at fortsætte, men tværtimod var opgaven en resursemæssig byrde i en travl hverdag med krav om økonomisk rentabilitet af alle aktiviteter. <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+For at imødegå en nedprioritering fik Elektricitetsrådet i 1998 lovhjemmel til at betale for tilsynsvirksomheden, og 10%-tilsynene blev i en forsøgsperiode ændret til en kontraktaftale mellem Elektricitetsrådet og de elselskaber, der fortsat ønskede opgaven.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>EU-udbud er nødvendigt </b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+En rapport udarbejdet på baggrund af en evaluering af ordningen viser, at 10%-ordningen i forsøgsperioden i det store og hele har levet op til forventningerne. At opgaven alligevel skal i udbud og ikke blot kan fortsætte som tidligere, skyldes flere ting. Dels blev det allerede ved lovformuleringen i 1998 stillet i udsigt, at ordningen på sigt skulle i udbud. Dels er der krav i &quot;Cirkulære om udbud og udlicitering af statslige drifts- og anlægsopgaver&quot;, som skal overholdes. <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Cirkulæret påpeger, at det overordnede politiske ønske om, at statslige opgaver skal løses bedst og billigst, opnås ved at udlicitere opgaverne, hvor det er muligt. Da 10%-ordningen betragtes som en egnet opgave, skal den derfor med passende mellemrum underkastes en udbudsrunde, og på grund af beløbsstørrelsen - 8,4 millioner kroner årligt - i åben licitation efter bestemmelserne for EU-udbud. <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Som al anden liberalisering handler det om at skabe konkurrence, og om at afskaffe monopolopgaver, som kan forvride effektiviteten og udførelsens standard. Kravet om konkurrencedygtigt arbejde blev som sagt allerede fastlagt tilbage i 1998, da loven blev formuleret, og der er derfor ikke tale om en justering, som følge af prøveordningen. Den har kørt fornuftigt, oplyser Elektricitetsrådet, men derfor er der jo alligevel nogle områder, som på baggrund af den nuværende erfaring, skal rettes til. Det handler blandt andet om at sikre habiliteten hos de tilsynsførende virksomheder, om antallet af tilsynskredse og ikke mindst en udvidelse af opgaven til også at omfatte rådgivning af fagfolk.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Hidtidige konklusioner </b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Både kravspecifikationen i forbindelse med udbuddet og de endelige kontrakter er udformet på baggrund af evalueringen af forsøgsperioden. Her er en af konklusionerne blandt andet, at der skal ske en kraftig reduktion i antallet af tilsynskredse. De nuværende 41 kontrakter medfører et uhensigtsmæssigt stort administrativt arbejde, og man ønsker mere ensartethed i inddateringerne. <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Herudover er det et ønske, at de medarbejdere, der involveres i den endelige ordning, skal bruge 50% af deres tid på disse opgaver. I prøveordningen var der afsat 20% af de tilsynsførendes samlede arbejdstid, og det har vist sig ikke at være nok til at få den nødvendige rutine og det fornødne kendskab til bestemmelserne. Det er nødvendigt, at man arbejder med opgaverne mere kontinuerligt for at opretholde sin ekspertise. Desuden ligger der reelt mange timer i projektet, når man også medregner informationsdelen telefonisk rådgivning, installatørmøder etc. Man har nemlig besluttet at inkludere rådgivning af fagfolk i den endelige udbudsopgave, da de medarbejdere, der skal foretage tilsyn af de nye installationer i forvejen skal være opdateret i stærkstrømsbekendtgørelsens nye bestemmelser og derfor vil være velegnede som rådgivere og informatører. Det har hele tiden været sådan, at elselskaberne varetog en vis del af informationen til fagfolk, men først nu kommer også dette på kontrakt. Man har valgt at udbyde tilsyn og information som en samlet opgave, da disse opgaver er tæt forbundne.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Inhabilitet forhindrer netselskaber i at fortsætte </b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Da forsøgsperioden har været en succes, ser Elektricitetsrådet gerne, at de netselskaber, der hidtil har løftet tilsynsopgaven fortsætter. Dog forudsat, at deres tilbud er afgivet korrekt, at selskabet ikke findes inhabilt, og at tilbuddet i øvrigt er attraktivt. <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Da 10%-ordningen blev formuleret i 1998 forventede både Elektricitetsrådet og Dansk Energi, at der ville ske en opdeling af mandskabet i de enkelte elselskaber, således at der tydeligt var adskillelse mellem erhvervsaktiviteter og monopolaktiviteter. Det har vist sig ikke altid at være tilfældet. Derfor har flere elselskaber et habilitetsproblem, som stiller sig i vejen for tilsynsopgaven. Habilitetskravet forudsætter, at medarbejdere, der udfører tilsynsopgaver i henhold til ordningen, ikke samtidigt anvender deres autorisation i sammenhæng med udførelsen af eksterne installationsopgaver eller på anden vis driver installatørvirksomhed. Det er vigtigt, at de, der kontrollerer elinstallatørerne, ikke på samme tid er deres konkurrenter. Kontrollen skal ske på objektive kriterier.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Et udbud er en snæver proces </b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Som nævnt er det vigtigt i udbudssituationen, at såvel ansøgningen om prækvalifikation som tilbuddet er afgivet korrekt. EU har opsat strenge regler for, hvordan både ansøger og udbyder skal forholde sig. For at opretholde en lige konkurrence må Elektricitetsrådet for eksempel kun vurdere hver enkel henvendelse ud fra det materiale, der er indsendt og kan ikke tage forhåndskendskab og almindelig goodwill med i vurderingen. Kun det indsendte gælder. Derfor er det også afgørende, at ansøgerne har opfyldt de krav og ønsker til dokumentation, som udbudsbekendtgørelsen og det øvrige udbudsmateriale stiller. Ellers kvalificerede elselskaber, som måske endda i forvejen har erfaring med arbejdet, kan ryge ud allerede i første fase, &quot;interessetilkendegivelsen&quot;, hvis der mangler vigtige oplysninger i deres ansøgning - for eksempel om deres erfaring med informationsarbejde over for elfagfolk. I et udbud som dette, er det juraen, der taler og tæller, og de rammer, der stilles, skal begge partner holde sig indenfor.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Elektricitetsrådet forventer, at udbudsrunden afsluttes i december 2002, således at de nye kontrakter kan træde i kraft 1. januar 2003.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/table.tpl (design:content/datatype/view/ezxmltags/table.tpl) -->
+  <table class="renderedtable table" cellpadding="" cellspacing=""  width="100%">
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+Forløbet i EU-udbud <br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Udbuddet i forbindelse med tilsynsvirksomheden er allerede i gang. Der har været foretaget det, man kalder et begrænset udbud, hvor alle interesserede i første omgang har kunnet melde ind, at de ønskede at afgive bud. Dette har været indrykket i EU-tidende.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Herefter har Elektricitetsrådet udvalgt en række potentielle virksomheder (prækvalifikation), som har afgivet deres endelige bud på baggrund af kravspecifikation og udbudsbekendtgørelse. Tilbuddene kan omfatte et eller flere af de 15 tilsynsområder.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Efter udløbet af tilbudsfristen den 14. november er Elektricitetsrådet gået i gang med at vurdere tilbuddene og vælger herefter de tilbud, som samlet set giver den bedste og billigste løsning af opgaverne. Ved vurderingen tages der både hensyn til prisen på tilsynene, og på en række andre parametre, herunder vurderingen af virksomhedernes habilitet. Derefter indgås der kontrakt med den/de virksomheder, der har afgivet de bedste tilbud.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Elektricitetsrådet har afgivet kontrolbud hvilket kan betyde at dele af udbuddet muligvis bliver annulleret, hvis det vurderes, at Rådet selv kan løse dele af den samlede opgaven bedst og billigst.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+</table>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/table.tpl (design:content/datatype/view/ezxmltags/table.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+      
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+<!-- page_list_subitems -->    <div class="list-group">
+    </div><!-- /page_list_subitems -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+<hr>
+<div class="text-muted">
+    <small><span class="glyphicon glyphicon-time"></span> Sidst opdateret: 31-juli-2012</small><br>
+    <small><span class="glyphicon glyphicon-envelope"></span> Kontaktperson: <a title="" href="mailto:sik@sik.dk">webmaster</a></small>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+    </article>
+    <!--Content-End-->
+  </div></div>
+<!-- /full -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/fa9d6053e2ff2c687d5f9075346a055e.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Publikationer/Artikler/OEvrige-artikler/2002/Tilsynsordning-i-udbud-December-2002 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 17:12:50 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

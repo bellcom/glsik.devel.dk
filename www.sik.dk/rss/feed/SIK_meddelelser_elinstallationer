@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SIK-Meddelelser på Elinstallationer</title>
+    <link>https://www.sik.dk/</link>
+    <description>Læs de seneste SIK-meddelelser udsendt inden for Elinstallationer</description>
+    <language>da-DK</language>
+    <managingEditor>webmaster@sik.dk ()</managingEditor>
+    <pubDate>Tue, 30 Oct 2018 11:25:59 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Oct 2018 11:25:59 +0000</lastBuildDate>
+    <generator>eZ Components Feed dev (http://ezcomponents.org/docs/tutorials/Feed)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <atom:link href="https://www.sik.dk/rss/feed/SIK_meddelelser_elinstallationer" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Elinstallationer nr. 2/12</title>
+      <link>https://www.sik.dk/Virksomhed/El-for-fagfolk/Vejledninger-om-elarbejde/SIK-Meddelelser/Elinstallationer/2012/Elinstallationer-nr.-2-12</link>
+      <description>Afgrænsning af elinstallatørlovens anvendelsesområde i relation til montage, sammenkobling og tilkobling af solcelleinstallationer</description>
+      <guid isPermaLink="false">7200055b2d5b42d48acc0e837275dd31</guid>
+      <pubDate>Thu, 25 Oct 2012 10:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elinstallationer nr. 1/12</title>
+      <link>https://www.sik.dk/Virksomhed/El-for-fagfolk/Vejledninger-om-elarbejde/SIK-Meddelelser/Elinstallationer/2012/Elinstallationer-nr.-1-12</link>
+      <description>Fortegnelse over SIK-Meddelelser Elinstallationer</description>
+      <guid isPermaLink="false">b1acebcf5b4778f40147a01ec45d3c5f</guid>
+      <pubDate>Wed, 23 Nov 2011 10:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elinstallationer nr. 2/11</title>
+      <link>https://www.sik.dk/Virksomhed/El-for-fagfolk/Vejledninger-om-elarbejde/SIK-Meddelelser/Elinstallationer/2011/Elinstallationer-nr.-2-11</link>
+      <description>Ophør af Abonnement 1</description>
+      <guid isPermaLink="false">41b33f2478d74e29c2a9d5a481919fe6</guid>
+      <pubDate>Wed, 23 Nov 2011 09:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elinstallationer nr. 1/11</title>
+      <link>https://www.sik.dk/Virksomhed/El-for-fagfolk/Vejledninger-om-elarbejde/SIK-Meddelelser/Elinstallationer/2011/Elinstallationer-nr.-1-11</link>
+      <description>Stikkontakter med sidejord</description>
+      <guid isPermaLink="false">8f22e0e60dc81311f89ec8cd3547e9ab</guid>
+      <pubDate>Tue, 15 Nov 2011 13:12:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

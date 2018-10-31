@@ -1,0 +1,689 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2012/Sikkerhedsstyrelsens-resultat-af-kontroller-paa-solarieomraadet-2010-2012 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 18:33:07 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                              <title>    Sikkerhedsstyrelsens resultat af kontroller på solarieområdet 2010 - 2012 / Pressemeddelelser 2012 / Nyheder indtil 2015 / Presse / Global  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/4a99891d7bae34142174fac0a99f706b_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<!-- full -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+                        <li>
+                                    <a href="../../../Presse.html">Presse</a>
+                          </li>
+          <li>
+                                    <a href="../../Nyheder-indtil-2015.html">Nyheder indtil 2015</a>
+                          </li>
+          <li>
+                                    <a href="../Pressemeddelelser-2012.1564b.de">Pressemeddelelser 2012</a>
+                          </li>
+        <li class="active">Sikkerhedsstyrelsens resultat af kontroller på solarieområdet 2010 - 2012</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../../Presse.html">
+          Presse
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                        <li >
+            <a href="../../Nyheder-2018.html">
+                          Nyheder 2018
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Nyheder-2017.html">
+                          Nyheder 2017
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Nyheder-2016.html">
+                          Nyheder 2016
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Pressefoto-og-logo.html">
+                          Pressefoto og logo
+                        </a>
+            </li>
+                                                  
+                                                  <li class="selected">
+            <a href="../../Nyheder-indtil-2015.html">
+                          Nyheder indtil 2015
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>  <div class="col-md-6 center-col">    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../../layout/set/print/Global/Presse/Nyheder-in/Sikkerhedsstyrelsens-re" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+            <h1>Sikkerhedsstyrelsens resultat af kontroller på solarieområdet 2010 - 2012</h1>
+      <summary>
+        <p>
+                      
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+Sikkerhedsstyrelsen har gennemført en kontrolindsats i forhold til landets solcentre, som viser, at der fortsat er problemer med sikkerheden.
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+                            </p>
+      </summary>
+      <div class="pull-right social-icons">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://sik.dk/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2012/Sikkerhedsstyrelsens-resultat-af-kontroller-paa-solarieomraadet-2010-2012" target="_blank"><i class="fa fa-facebook-square facebook-brand"></i></a>
+<a href="http://twitter.com/share?url=https://sik.dk/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2012/Sikkerhedsstyrelsens-resultat-af-kontroller-paa-solarieomraadet-2010-2012" target="_blank"><i class="fa fa-twitter-square twitter-brand"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://sik.dk/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2012/Sikkerhedsstyrelsens-resultat-af-kontroller-paa-solarieomraadet-2010-2012" target="_blank"><i class="fa fa-pinterest-square pinterest-brand"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sik.dk/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2012/Sikkerhedsstyrelsens-resultat-af-kontroller-paa-solarieomraadet-2010-2012" target="_blank"><i class="fa fa-linkedin-square linkedin-brand"></i></a>
+<a href="mailto:?subject=Sikkerhedsstyrelsens resultat af kontroller på solarieområdet 2010 - 2012&body=https://sik.dk/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2012/Sikkerhedsstyrelsens-resultat-af-kontroller-paa-solarieomraadet-2010-2012" target="_blank"><i class="fa fa-envelope-o mail-brand"></i></a>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+</div>
+      <br>
+      <hr>
+        
+              
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Sikkerhedsstyrelsen har de seneste år haft fokus på solariesikkerheden i Danmark. Samlet set er der besøgt 126 solcentre og kontrolleret 523 solarier. Af de 523 solarier er der foretaget målinger af UV udstrålingen på de 196.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>I kontrollen er indgået solariets stamoplysninger, solariets mekaniske tilstand, oplysning om UV mærkning, vejledning til forbrugeren samt oplysning om anvendte lyskilder. I 196 af solarierne er der herudover foretaget måling af den totale UV udstrålingen samt spektralfordelingen i solariets toppanel, bundpanel samt ansigtssol.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>I de tilfælde, hvor grænseværdierne for den maksimale UV-udstråling er overskredet, er udgifterne for målingerne blevet pålagt ejeren.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/table.tpl (design:content/datatype/view/ezxmltags/table.tpl) -->
+    <table class="renderedtable borderless table" cellpadding="1" cellspacing="1"  width="550px">
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td class="Orange" width="119" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td class="Orange" width="119" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Antal solcentre</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td class="Orange" width="119" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Antal solarier</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td class="Orange" width="119" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Antal UV målinger</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="119" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>2010</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="119" valign="top" style="vertical-align: top">  60
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="119" valign="top" style="vertical-align: top">  283
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="119" valign="top" style="vertical-align: top">  23
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="119" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>2011</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="119" valign="top" style="vertical-align: top">  45
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="119" valign="top" style="vertical-align: top">  148
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="119" valign="top" style="vertical-align: top">  129
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="119" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>2012</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="119" valign="top" style="vertical-align: top">  21
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="119" valign="top" style="vertical-align: top">  92
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="119" valign="top" style="vertical-align: top">  44
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+</table>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/table.tpl (design:content/datatype/view/ezxmltags/table.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Alle kontroller i 2010 og 2011 er foretaget som varslede besøg, og udvælgelsen af solcentre er sket ud fra en risikovurdering af modtagne anmeldelser.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>I 2012 er der fra januar til april besøgt 21 tilfældigt udvalgte solcentre, og der er foretaget målinger af UV udstrålingen på 44 solarier. I alt er der kontrolleret 92 solarier i de 21 centre. Disse solcentre har i modsætning til tidligere ikke modtaget en forudgående varsling om kontrolbesøget.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Neden for ses resultaterne af målinger af udstrålingen. Det understreges, at de ikke er direkte sammenlignelige, da kontrollerne i 2012, som tidligere nævnt, var uvarslede.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Total udstråling</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/table.tpl (design:content/datatype/view/ezxmltags/table.tpl) -->
+    <table class="renderedtable borderless table" cellpadding="1" cellspacing="1"  width="550px">
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td class="Orange" width="92" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Samlet udstråling</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td class="Orange" width="92" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Over 0,3 Wm2</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td class="Orange" width="92" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Under 0,3 Wm2</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="92" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>2010</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="76" valign="top" style="vertical-align: top">  13/23&nbsp;(56%)
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="76" valign="top" style="vertical-align: top">  10/23&nbsp;(44%)
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="92" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>2011</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="76" valign="top" style="vertical-align: top">  24/129 (18,6%)
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="76" valign="top" style="vertical-align: top">  105/129 (81,4%)
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="92" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>2012</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="76" valign="top" style="vertical-align: top">  26/44&nbsp;(59%)
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="76" valign="top" style="vertical-align: top">  18/44&nbsp;(41%)
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+</table>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/table.tpl (design:content/datatype/view/ezxmltags/table.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Der er nedsat en tværministeriel arbejdsgruppe, der skal foretage en analyse af, hvilke tiltag der fremadrettet er behov for på solarieområdet. I arbejdsgruppen deltager Ministeriet for Sundhed og Forebyggelse, Beskæftigelsesministeriet og Ministeriet for Erhverv og Vækst. Rapporten om gruppens arbejde forventes at være færdig i løbet af sommeren 2012.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Som forbruger bør man altid være opmærksom på, at det kan være forbundet med risiko at gå i solarium, især hvis solarierne stråler for kraftigt. Herunder kan du læse gode råd om brug af solarier. &nbsp;</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="http://sundhedsstyrelsen.dk/da/sundhed/miljoe/solbeskyttelse" target="_self">Læs Sundhedsstyrelsens anbefalinger om solariebrug</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="../../../../Forbruger/Produktsikkerhed/Brug-produkter-s/Solarier.12fa5.delaye" target="_self">Læs Sikkerhedsstyrelsen anbefalinger om solariebrug</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<div class="embed-file ">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+<div class="content-view-embed">
+    <div class="content-body">
+      <a class="mime pdf" href="../../../../content/download/10675/124665/version/1/f/Solarier%2b2010%2b-%2b2012.17">Link til resultater af Sikkerhedsstyrelsens kontrol fra efteråret 2010 til foråret 2012</a> (PDF)
+   </div>
+</div>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/override/templates/embed/file.tpl (design:content/view/embed.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Spørgsmål i forbindelse med pressemeddelelsen kan rettes til pressechef Dorthe G. Rasmussen, 3373 2101, mob. 2543 1696, mail: 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="mailto:dgr@sik.dk" target="_self">dgr@sik.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+      
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+<!-- page_list_subitems -->    <div class="list-group">
+    </div><!-- /page_list_subitems -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+<hr>
+<div class="text-muted">
+    <small><span class="glyphicon glyphicon-time"></span> Sidst opdateret: 10-jan-2014</small><br>
+    <small><span class="glyphicon glyphicon-envelope"></span> Kontaktperson: <a title="" href="mailto:sik@sik.dk">webmaster</a></small>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+    </article>
+    <!--Content-End-->
+  </div>  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+<!-- right_menu_linkbox -->
+            
+            <div class="link-box right-menu">
+
+        <div class="body">
+          <ul>
+                                                                                                      <li >
+                  <a href="Sikkerhedsstyrelsens-ko">
+                                          Sikkerhedsstyrelsens kontrol af fyrværkeri
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="3518-farlige-gasvarmeov">
+                                          3518 farlige gasvarmeovne med el er stadig hjemme hos forbrugerne 
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Pas-paa-flyvende-trampo">
+                                          Pas på flyvende trampoliner
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Test-din-fejlstroemsafb-2">
+                                          Test din fejlstrømsafbryder – det kan redde liv
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Uautoriseret-arbejde-og">
+                                          Uautoriseret arbejde og vildledende annoncering bliver straffet
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Taend-for-damerne-ikke-">
+                                          Tænd for damerne – ikke komfuret
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Sansegyngers-ophaeng-ka">
+                                          Sansegyngers ophæng kan skade babyers syn
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Gasvarmeovne-med-el-dum">
+                                          Gasvarmeovne med el dumper i sikkerhedstest
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Nye-tal-om-overtraedels">
+                                          Nye tal om overtrædelser på autorisationsområdet
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Gratis-spil-skal-faa-bo">
+                                          Gratis spil skal få børn til at hoppe sikkert på trampolin
+                                      </a>
+                </li>
+                                                                                                                                                      <li class="selected">
+                  <a href="Sikkerhedsstyrelsens-re">
+                                          Sikkerhedsstyrelsens resultat af kontroller på solarieområdet 2010 - 2012
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Gasvarmeovne-undersoege">
+                                          Gasvarmeovne undersøges i hele Norden                                                                                         
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Kampagne-saetter-fokus-">
+                                          Kampagne sætter fokus på ukrudtsbrændere  - Pressemeddelelse fra Beredskabsstyrelsen og Sikkerhedsstyrelsen  
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Test-din-fejlstroemsafb">
+                                          Test din fejlstrømsafbryder – det kan redde liv
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Gaskoeleskab-kan-vaere-">
+                                          Gaskøleskab kan være livsfarligt
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Eleftersyn-giver-bedre-">
+                                          Eleftersyn giver bedre elsikkerhed
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Stikproeve-afsloerer-fa">
+                                          Stikprøve afslører farlige snore i børnetøj
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Gem-bleposerne-vaek.153">
+                                          Gem bleposerne væk
+                                      </a>
+                </li>
+                                    </ul>
+      </div>
+    </div>
+    <!-- /right_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+  </div></div>
+<!-- /full -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/41b925061e05fa3c114244590493915c.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Presse/Nyheder-indtil-2015/Pressemeddelelser-2012/Sikkerhedsstyrelsens-resultat-af-kontroller-paa-solarieomraadet-2010-2012 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 18:33:07 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

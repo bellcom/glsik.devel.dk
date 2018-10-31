@@ -1,0 +1,448 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Publikationer/Artikler/OEvrige-artikler/2013/Tjek-paa-sikkerheden-for-barnevogne-og-tilbehoer by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 17:12:18 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                                    <title>    Tjek på sikkerheden for barnevogne og tilbehør / 2013 / Øvrige artikler / Artikler / Publikationer / Global  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/172db9c811c86073f79ddeab86716aa8_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<!-- full -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+                        <li>
+                                    <a href="../../../../Publikationer.html">Publikationer</a>
+                          </li>
+          <li>
+                                    <a href="../../../Artikler.html">Artikler</a>
+                          </li>
+          <li>
+                                    <a href="../../OEvrige-artikler.html">Øvrige artikler</a>
+                          </li>
+          <li>
+                                    <a href="../2013.html">2013</a>
+                          </li>
+        <li class="active">Tjek på sikkerheden for barnevogne og tilbehør</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../../../Publikationer.html">
+          Publikationer
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                        <li >
+            <a href="../../../Opgoerelser-over-ulykker.html">
+                          Opgørelser over ulykker
+                        </a>
+            </li>
+                                                  
+                                                  <li class="selected">
+            <a href="../../../Artikler.html">
+                          Artikler
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Faglige-rapporter.html">
+                          Faglige rapporter
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Foldere.html">
+                          Foldere
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Materialebestilling.html">
+                          Materialebestilling
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Undervisningsmateriale.html">
+                          Undervisningsmateriale
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../Lovstof-og-standarder-om-el-og-gas.html">
+                          Lovstof og standarder om el og gas
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../../DVD.html">
+                          DVD
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>  <div class="col-md-6 center-col">    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../../../layout/set/print/Global/Publikationer/Artikler/OEvrige-art/Tjek-paa-sikkerheden-fo" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+            <h1>Tjek på sikkerheden for barnevogne og tilbehør</h1>
+      <summary>
+        <p>
+                      
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+Danske forældre bruger barnevognen anderledes end forældre i de fleste andre lande. I Danmark lægges børn ofte til at sove udendørs i barnevognen uden konstant opsyn, og så skal både barnevognen og andet udstyr være sikkerhedsmæssigt i orden. Derfor vil Sikkerhedsstyrelsen i den kommende tid undersøge og teste barnevogne, barnevognsseler og barnevognskæder på det danske marked.
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+                            </p>
+      </summary>
+      <div class="pull-right social-icons">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Tjek-paa-sikkerheden-for-barnevogne-og-tilbehoer" target="_blank"><i class="fa fa-facebook-square facebook-brand"></i></a>
+<a href="http://twitter.com/share?url=https://sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Tjek-paa-sikkerheden-for-barnevogne-og-tilbehoer" target="_blank"><i class="fa fa-twitter-square twitter-brand"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Tjek-paa-sikkerheden-for-barnevogne-og-tilbehoer" target="_blank"><i class="fa fa-pinterest-square pinterest-brand"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Tjek-paa-sikkerheden-for-barnevogne-og-tilbehoer" target="_blank"><i class="fa fa-linkedin-square linkedin-brand"></i></a>
+<a href="mailto:?subject=Tjek på sikkerheden for barnevogne og tilbehør&body=https://sik.dk/Global/Publikationer/Artikler/OEvrige-artikler/2013/Tjek-paa-sikkerheden-for-barnevogne-og-tilbehoer" target="_blank"><i class="fa fa-envelope-o mail-brand"></i></a>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+</div>
+      <br>
+      <hr>
+        
+              
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- Sikkerhedsstyrelsen er med i et fælles EU-projekt om sikre barnevogne og klapvogne. Men den danske tradition med ikke kun at bruge barnevognen til transport, men også til at sove i, stiller særlige sikkerhedsmæssige krav til barnevogne og tilbehør. Og det er producenters og importørers ansvar, at sikkerheden er i orden, oplyser Mette Cramon, der er kommunikationskonsulent i Sikkerhedsstyrelsen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Konkret vil der blive gennemført en undersøgelse af, hvilke typer barnevogne der findes på det danske marked, inden der via producenter eller importører bliver udtaget tre-fire modeller til test. Testen vil især have fokus på stabilitet, kvælningsrisiko, bremser, håndtag, fingerklemfælder og lukkemekanismer ved sammenfoldning.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Tilbehør testes også</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Der vil også blive sat fokus på tilbehør i form af barnevognsseler og barnevognskæder.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>- Producenter og importører af barnevognsseler bliver kontaktet for at sikre, at barnevognsselerne overholder de gældende regler. Vi vil undersøge nærmere om brugervejledningerne forebygger unødvendige risici ved brug af selerne, siger Mette Cramon.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Markedet for barnevognskæder vil blive undersøgt for at skabe overblik over udbuddet og især udformningen og mærkningen af kæderne. Nogle produkter vil efter screeningen blive udtaget til nærmere undersøgelse.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Barnevognskæder kategoriseres som legetøj og skal være CE-mærkede. Legetøjsbekendtgørelsen, som blev revideret i 2011, fastsætter desuden, at der skal være en permanent advarsel på en barnevognskæde om de risici, der kan opstå, hvis barnet er stort nok til at nå kæden.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Barnevogne og andre produkter til småbørn er omfattet af produktsikkerhedsloven. Der er flere oplysninger om loven og om legetøjsbekendtgørelsen på Sikkerhedsstyrelsens hjemmeside 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../index.html" target="_self">www.sik.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/InfoBox.tpl (design:content/datatype/view/ezxmltags/InfoBox.tpl) -->
+<div class="alert alert-info">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Ny og gammel standard</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Barnevogne vil blive testet ud fra den ny barnevognsstandard EN 1888:2012, men den hidtidige standard EN 1888:2003 er fortsat gældende frem til juli 2013. Hvis en barnevogn kun opfylder den gamle standard, vil en risikovurdering afgøre, om Sikkerhedsstyrelsen kræver sikkerheden forbedret.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/InfoBox.tpl (design:content/datatype/view/ezxmltags/InfoBox.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+      
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+<!-- page_list_subitems -->    <div class="list-group">
+    </div><!-- /page_list_subitems -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+<hr>
+<div class="text-muted">
+    <small><span class="glyphicon glyphicon-time"></span> Sidst opdateret: 19-dec-2013</small><br>
+    <small><span class="glyphicon glyphicon-envelope"></span> Kontaktperson: <a title="" href="mailto:sik@sik.dk">webmaster</a></small>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+    </article>
+    <!--Content-End-->
+  </div>  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+<!-- right_menu_linkbox -->
+            
+            <div class="link-box right-menu">
+
+        <div class="body">
+          <ul>
+                                                                                                      <li >
+                  <a href="Aftraek-er-en-vvs-opgave.128ab">
+                                          Aftræk er en vvs-opgave
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Ombygning-af-belysningsarmatur">
+                                          Ombygning af belysningsarmaturer giver risiko for livsfarligt stød
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Fjernaflaesning-forbrugeren-sk">
+                                          Fjernaflæsning: forbrugeren skal kende datoen
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Snyder-vaegten-dig-eller-dine-">
+                                          Snyder vægten dig eller dine kunder?
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Solcelleanlaeg-sender-stroemme">
+                                          Solcelleanlæg sender strømmen i flere retninger
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Goer-byggepladsen-elsikker.128">
+                                          Gør byggepladsen elsikker
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Nye-tider-paa-elnettet.128a3.d">
+                                          Nye tider på elnettet
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Ny-gratis-app-fra-Sikkerhedsst">
+                                          Ny gratis app fra Sikkerhedsstyrelsen til dig: Hvad må laves af el og vvs uden autorisation
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Undgaa-skader-ved-gravearbejde">
+                                          Undgå skader ved gravearbejde nær jordkabler
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Produkter-til-boern-skal-vaere">
+                                          Produkter til børn skal være sikre
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Tjek-solcelleinstallationerne">
+                                          Tjek solcelleinstallationerne
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Sikkerhedsstyrelsen-tester-gas">
+                                          Sikkerhedsstyrelsen tester gaskøleskabe
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Byggepladser-har-problemer-med">
+                                          Byggepladser har problemer med elsikkerheden
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Byggepladser-har-alt-for-mange">
+                                          Byggepladser har alt for mange installationsfejl
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Sikkerhedsstyrelsen-har-revide">
+                                          Sikkerhedsstyrelsen har revideret håndbogen for eleftersyn
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Giv-en-haand-til-gassikker-cam">
+                                          Giv en hånd til gassikker camping
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Faa-styr-paa-gassen-paa-pladse">
+                                          Få styr på gassen på pladsen
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Goer-din-campingvogn-gas-sikke">
+                                          Gør din campingvogn gas-sikker
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Har-du-styr-paa-gassen-i-campi">
+                                          Har du styr på gassen i campingvognen?
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Boernetoej-skal-vaere-sikkert">
+                                          Børnetøj skal være sikkert
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Ombyggede-trinetter-kan-vaere-">
+                                          Ombyggede trinetter kan være livsfarlige
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Testede-batteriladere-fejler-a">
+                                          Testede batteriladere fejler alvorligt
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Information-om-e-cigaretter.12">
+                                          Information om e-cigaretter
+                                      </a>
+                </li>
+                                                                                                                                                      <li class="selected">
+                  <a href="Tjek-paa-sikkerheden-for-barne">
+                                          Tjek på sikkerheden for barnevogne og tilbehør
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Er-der-CE-maerke-paa-det-gode-">
+                                          Er der CE-mærke på det gode tilbud?
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Har-forsamlingshuset-styr-paa-">
+                                          Har forsamlingshuset styr på sikkerheden ved el og gas?
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="L-AUS-goer-Avs.html">
+                                          L-AUS gør Avs
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Helle-var-heldig.html">
+                                          Helle var heldig
+                                      </a>
+                </li>
+                                    </ul>
+      </div>
+    </div>
+    <!-- /right_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+  </div></div>
+<!-- /full -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/fa9d6053e2ff2c687d5f9075346a055e.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Publikationer/Artikler/OEvrige-artikler/2013/Tjek-paa-sikkerheden-for-barnevogne-og-tilbehoer by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 17:12:18 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

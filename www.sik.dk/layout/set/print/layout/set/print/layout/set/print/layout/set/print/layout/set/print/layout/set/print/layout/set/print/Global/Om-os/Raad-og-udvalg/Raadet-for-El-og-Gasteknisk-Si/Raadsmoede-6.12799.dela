@@ -1,0 +1,651 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Om-os/Raad-og-udvalg/Raadet-for-El-og-Gasteknisk-Sikkerhed/Raadsmoeder/Raadsmoede-6.-september-2016 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 17:09:35 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                                    <title>    Rådsmøde 6. september 2016 / Rådsmøder / Rådet for El- og Gasteknisk Sikkerhed / Råd og udvalg / Om os / Global  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/172db9c811c86073f79ddeab86716aa8_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<!-- full -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+                        <li>
+                                    <a href="../../../Om-os.html">Om os</a>
+                          </li>
+          <li>
+                                    <a href="../../Raad-og-udvalg.html">Råd og udvalg</a>
+                          </li>
+          <li>
+                                    <a href="../Raadet-for-El-og-Gasteknisk-Sikkerhed.html">Rådet for El- og Gasteknisk Sikkerhed</a>
+                          </li>
+          <li>
+                                    <a href="Raadsmoeder.12795.delay">Rådsmøder</a>
+                          </li>
+        <li class="active">Rådsmøde 6. september 2016</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../../Om-os.html">
+          Om os
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                        <li >
+            <a href="../../Organisation-og-ledelse.html">
+                          Organisation og ledelse 
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Strategier-og-maal.html">
+                          Strategier og mål
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Job-og-karriere.html">
+                          Job og karriere
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Udbud-og-hoeringer.html">
+                          Udbud og høringer 
+                        </a>
+            </li>
+                                                  
+                                                  <li class="selected">
+            <a href="../../Raad-og-udvalg.html">
+                          Råd og udvalg
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Om-Sik.html">
+                          Om Sik.dk
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>  <div class="col-md-6 center-col">    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../../layout/set/print/Global/Om-os/Raad-og-udvalg/Raadet-for-El/Raadsmoede-6.15141.dela" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+            <h1>Rådsmøde 6. september 2016</h1>
+      <summary>
+        <p>
+                      
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+Referat fra møde i Rådet for El- og Gasteknisk Sikkerhed 6. september 2016 i København.
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+                            </p>
+      </summary>
+      <div class="pull-right social-icons">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://sik.dk/Global/Om-os/Raad-og-udvalg/Raadet-for-El-og-Gasteknisk-Sikkerhed/Raadsmoeder/Raadsmoede-6.-september-2016" target="_blank"><i class="fa fa-facebook-square facebook-brand"></i></a>
+<a href="http://twitter.com/share?url=https://sik.dk/Global/Om-os/Raad-og-udvalg/Raadet-for-El-og-Gasteknisk-Sikkerhed/Raadsmoeder/Raadsmoede-6.-september-2016" target="_blank"><i class="fa fa-twitter-square twitter-brand"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://sik.dk/Global/Om-os/Raad-og-udvalg/Raadet-for-El-og-Gasteknisk-Sikkerhed/Raadsmoeder/Raadsmoede-6.-september-2016" target="_blank"><i class="fa fa-pinterest-square pinterest-brand"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sik.dk/Global/Om-os/Raad-og-udvalg/Raadet-for-El-og-Gasteknisk-Sikkerhed/Raadsmoeder/Raadsmoede-6.-september-2016" target="_blank"><i class="fa fa-linkedin-square linkedin-brand"></i></a>
+<a href="mailto:?subject=Rådsmøde 6. september 2016&body=https://sik.dk/Global/Om-os/Raad-og-udvalg/Raadet-for-El-og-Gasteknisk-Sikkerhed/Raadsmoeder/Raadsmoede-6.-september-2016" target="_blank"><i class="fa fa-envelope-o mail-brand"></i></a>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+</div>
+      <br>
+      <hr>
+        
+              
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Deltagere:</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Per Michael Johansen, Björn R. Andresen, Kristian Stagis, Lene Holst Kjærgaard, Elly Kjems Hove, Tomas Christensen, Per Jørgensen (til kl. 15), Christian Jarby, Niels Jørgen Hansen (fra kl. 14.30), Lone Saaby (Sikkerhedsstyrelsen), Niels Chrestensen Hviid (Sikkerhedsstyrelsen), Lone Hansen (Sikkerhedsstyrelsen) (ref.)</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Afbud:</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+ Annette Becker Berg</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>&nbsp;</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>1. </b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Velkomst</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Rådets formand Per Michael Johansen bød velkommen til Aalborg Universitet Campus København.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>&nbsp;
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+<i>2.&nbsp;</i>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Det overordnede forsyningssystem, energipolitikken og udfordringer ved vejen mod 100 procent vedvarende energi.</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Oplæg ved professor Brian Vad Mathiesen, Aalborg Universitet, Institut for Planlægning.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Brian Vad beskrev, at Danmark er gået fra et centralistisk energisystem i 1970’erne med centrale kraftværker, hovedsageligt baseret på olie og senere også naturgas, til et semi-decentralt energisystem med mange decentrale kraftvarmeværker og vindmøller.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Han så en udfordring i at bevare gasnettet i fremtiden, samtidig med en målsætning om at blive delvist uafhængige af fossile brændsler. Han nævnte, at der vil blive brug for ombygning af gasnettet, idet der skal bruges mange typer gas, fx biogas der er vanskelig at transportere, medmindre den opgraderes til metan, gassificeret biomasse, carbon og CO2.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Han fandt, at der ikke er tilstrækkelig debat i Danmark om, hvordan vi kan opnå en situation, der er lige så gunstig som i dag, når de nuværende energiressourcer slipper op.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Brian Vad opridsede, at anvendelsen af naturgas hænger sammen med behovet siden 1970’erne for at afsætte gassen fra den danske del af Nordsøen. Sideløbende blev der satset på energibesparelser, fjernvarme og vedvarende energi, og siden 2006 har der været formulerede mål om, at Danmark på sigt skal baseres 100 procent på vedvarende energi og være uafhængigt af fossile brændsler.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Overordnet har energiforbruget i Danmark været næsten stabilt omkring 800 petajoule (PJ) fra 1970 til i dag. Men energikilderne er ændrede, så der i dag bruges ca. 200 PJ olie, 100 PJ naturgas og dertil bl.a. kul, vindmøller og affaldsforbrænding. 30 pct. af energien anvendes i transportsektoren og 40 pct. i varmesektoren, mens den resterende del er elforbrug.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Landbruget vil med den nuværende svineproduktion kunne levere biomasse svarende til godt 200 PJ. Det er mindre, end der vil være behov for, hvis transportsektoren overgår til bioethanol. Vindenergi vil realistisk kunne tre-firedobles i forhold til i dag. Danske solceller vil højst kunne levere ti procent af det danske energiforbrug.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Brian Vad nævnte, at fra et energiplanlægger-perspektiv er det centrale system meget fleksibelt og energien er til rådighed, når der er brug for den, mens det er en stor udfordring at få den samme fleksibilitet med biomasse eller solceller.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>I IDAs energivision 2050 er det forsøgt at modellere et system frem mod 2050. Der indgår bl.a., at der skal spares på strøm og varme både i husholdninger, industri og byggeri. Der skal være fleksibilitet, som blandt andet kan skabes med fjernvarme, og der skal skabes nye behov for el inden for transport- og varmeområdet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Brian Vad beskrev også behovet for energilagring og nævnte, at det er langt dyrere at lagre el end at lagre varme, gas eller flydende brændsler. Han nævnte, at power walls bør etableres i store enheder, hvis den lagrede energi skal kunne udnyttes effektivt.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Hans vurdering var, at elsystemet bliver rygraden i fremtiden og at 30-60 procent af det primære energiforbrug vil blive udgjort af el, forudsat at transporten og opvarmningen ændres.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Han betegnede det som en udfordring for forsyningssikkerheden, at en stor del af energien vil komme fra vind. Hvis der er stor produktion i alle landene rundt om Nordsøen, bliver prisen enten meget lav eller der er ikke fysisk mulighed for at komme af med el gennem kabelforbindelserne mellem landene, så møllerne må stoppes. Han nævnte, at der ikke kan optimeres meget mere på elområdet i Norden, fordi landene har samme mønster i produktion og forbrug.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>3.&nbsp;</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Udvikling og udfordringer på gasområdet</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Seniordriftssupporter Bjarne Koch, Dong Energy orienterede om gaskvalitet, gasanvendelse og gastransport.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Han beskrev, at gasnettet i Danmark oprindeligt blev etableret for at kunne udnytte Nordsøgassen og tager udgangspunkt i én forsyningskilde, mens fx Tyskland har et langt mere forgrenet transmissionssystem, hvor gas fra langt flere kilder kan blandes. Fra efteråret 2010 har Danmark importeret gas, dvs. der kom flere udsving i gaskvaliteten.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Biogas kom til som følge af energiforliget i 2012, og gasselskaberne er forpligtede til at aftage bionaturgassen. Der er pt. 12-14 danske anlæg, der leverer opgraderet biogas til nettet, og der er flere på vej. Dog er det uafklaret, hvem der skal finansiere kompressorer, der kræves som led i tilslutningen til det overordnede net. For gasselskaberne har biogas betydet nye arbejdsopgaver med kvalitetssikring af naturgaskvaliteten, måling af mængde og energiindhold samt tilsætning af odorant (lugtstof).</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Bjarne Koch understregede, at gaskvaliteten er vigtig, for at forbruger-installationerne fungerer korrekt.&nbsp; Hvis gassen har lavere brændværdi end den ensartede danske gaskvalitet, kan det betyde en dårlig forbrænding, der udvikler kulilte.&nbsp; På europæisk plan arbejdes der med specifikationer for et bredt spektrum af gaskvaliteter, men Bjarne Koch nævnte, at det vil være vanskeligt at indregulere gaskedler i danske privatboliger til en europæisk gasstandard, fordi ikke alle gaskedler har mulighed for at indstille gas-/luftforholdet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Mht. bionaturgas produceres der ofte mere, end hvad der kan aftages, og gassen skal komprimeres, for at den kan transporteres til aftagere.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Hos private og i småerhverv findes der ca. 405.000 gasinstallationer i form af minikedler. Til erhverv anvendes gas fx til opvarmning, catering, bagerier, dampkedler, procesanlæg og laktørreanlæg, og der er ca. 11.500 større installationer. Der er ca. 600 gasmotorer på små kraftvarmeværker, og desuden bruger få kraftværker fortsat naturgas.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Udviklingen på gasområdet er stagneret siden 2008. Mens DONG for ti år siden lavede ca. 2000 nye installationer årligt, kommer der i dag ca. 3-400 nye boliginstallationer til på årsbasis. Hans vurdering var, at der i fremtiden vil komme hybridløsninger med gas og elvarmepumper.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Der gøres forsøg i Danmark med at introducere gasvarmepumper til fx kommunale ejendomme, og der er ca. 10.000 i brug i Europa.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Derudover arbejdes der med mini-kraftvarmeanlæg, som fx svineavlere vil kunne udnytte produktionen fra. Af disse anlæg er der 55 i Danmark, men derudover eksporterer den danske producent EC Power mange anlæg til Tyskland.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Bjarne Koch understregede, at der også i fremtiden skal bruges gas i Danmark, enten biogas, brint eller andre gasser. Han begrundede det med, at der allerede findes et ledningsnet, som har en lang levetid, og at gassen på sigt vil kunne blive energilager for overskudsel. Han nævnte, at der ad åre ikke vil komme naturgas ind i systemet, men at det vil give god mening at bruge ledningsnettet til andet luftformigt brændsel.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Mht. de tilgængelige gasmængder nævnte Bjarne Koch, at det er nævnt, at 20 pct. af naturgasforbruget vil kunne erstattes af biogas og at det samlede gasforbrug i Danmark over en årrække er blevet reduceret med 30 pct.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Han oplyste, at Sikkerhedsstyrelsen er myndighed på gasområdet, men at den udførende myndighedsrolle med anmeldelse, registrering, tilsyn og fejlfinding altid har ligget hos gasselskaberne. Han påpegede, at hvis gasselskaberne fortsat skal agere som myndighed, ønsker de effektive værktøjer til håndhævelse og en skarpere tilgang fra Sikkerhedsstyrelsen, også over for gasselskaberne, når gasloven skal revideres. Han nævnte også, at et revideret gasreglement bør udformes som vejledninger til installatørerne, så det ikke er nødvendigt for dem at sætte sig ind i standarder.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Lone Saaby nævnte, at Sikkerhedsstyrelsens udgangspunkt vil være, at en større del af ansvaret lægges ud til branchen og at den nye gaslov vil blive skrevet op mod standarder og påpegede, at med autorisation må man kunne forvente, at installatørerne er i stand til at løse opgaverne.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Udvikling og udfordringer på elområdet</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+<i>4 a. Udviklingen i de kommende år på elområdet – hvad adskiller sig fra i dag</i>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Anders Pallesen Jensen, der er afdelingsleder i Systemoptimering hos Energinet.dk, kom sammen med driftsleder Henrik Roland Hansen med et oplæg om udviklingen i de kommende år på elområdet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Han indledte med, at vedvarende energi, især fra vindmøller, er en udfordring for elsystemet, idet produktionen af el ikke har sammenhæng med forbruget. Derfor er der allerede i dag meget samarbejde med nabolande, hvor der kan udveksles energi.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Fem-ti år frem vil der komme mere vedvarende energi, både på el- og gasområdet. Der vil komme flere anlæg i systemet, og især decentrale anlæg som solceller og batterier forventes at vokse markant. Der vil blive færre termiske kraftværker, og behovet for transmissionsanlæg vil stige, fordi energiproduktionen ikke foregår der, hvor forbrugerne er.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Ligeledes vil der blive behov for mere automatisk it-styring, blandt andet for at kunne overskue produktion fra 100.000-vis af anlæg. På længere sigt nævnte Anders Pallesen Jensen en forventning om en stigning i elforbruget, idet elektrificering på transport- og varmeområdet ventes at bidrage til grøn omstilling.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Han nævnte, at 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+<i>den eltekniske sikkerhed</i>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+ kan blive udfordret, når der kommer langt flere decentrale installationer, som mange flere personer kommer i berøring med. Derudover nævnte han it-sikkerheden, idet systemer, der styres via it, også kan forårsage fysiske sikkerhedssituationer, eksempelvis pga. hackerangreb. Björn R. Andresen nævnte, at fejl i software er lige så stor en udfordring, og Tomas Christensen påpegede, at der vil blive behov for nogen, der kan slå bro mellem den fysiske og programmeringsmæssige virkelighed.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Henrik Roland Hansen oplyste, at Energinet.dk det seneste par år, hvor der er overtaget regionale net, har arbejdet med, at løsninger både skal være it-sikkerhedsmæssigt og driftssikkerhedsmæssigt korrekte og at driftslederne derfor har fået øget driftsteknisk fokus på anlæggene. Derfor er der oprettet en egentlig driftslederfunktion, hvor driftslederen har et primært teknisk fokus, mens opgaven tidligere lå hos en afdelingschef, hvor det var lederfunktionen, der blev prioriteret.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+<i>4 b. Udviklingstendenser og udfordringer, set fra forsyningsselskaberne</i>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Charles Nielsen, direktør for El, Vand &amp; Varme, Trefor A/S, kom med et oplæg om, hvordan udviklingen ser ud, set fra et regionalt forsyningsselskab. Han beskrev udviklingen, fra den første olie blev fundet for cirka 150 år siden og op til 1970’erne, hvor verden var afhængig af olie, da oliekrisen ramte.&nbsp; Siden da er der kommet 25 procent fornybar energi i energisystemet, og i elsystemet er det på vej mod 50 procent. Denne udvikling er sket på cirka 50 år, mens der er 23 år tilbage til at nå resten af vejen mod 100 procent fornybar energi.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Charles Nielsen påpegede, at vi skal lære, at energi i fremtiden ikke vil være en ressource, men en 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+<i>teknologi</i>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+. Det bliver de store markeder som Kina og Indien, der bestemmer, hvilke produkter danskerne kan basere udviklingen på, og på verdensplan ventes solenergi at blive den primære energikilde.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Han nævnte også, at der vil blive brug for nye forretningsmodeller for forsyningsselskaberne, der i dag har et kabel ud til hver enkelt forbruger. Fremover har mange kun brug for halvt så meget el, fordi de selv producerer el fra solceller.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Han nævnte, at der er behov for, at elproduktionen fra vindmøller kan tilpasses bedre til forbruget, eksempelvis ved at undgå, at alle elbiler lades samtidigt. Han påpegede, at den første bølge af solceller kunne håndteres på nettet, men at kapaciteten ikke er der længere.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Han beskrev udfordringen, når der kommer 25 procent vedvarende energi ind i energisystemet fra andre leverandører end forsyningsselskaberne, mens et forsyningsselskab skal håndtere det på elnettet. Han betegnede standarder og fælles regler som meget vigtige, for at små og store aktører kan samarbejde, fremfor at hvert enkelt selskab har specifikke regler.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Jørgen Hansen spurgte, hvilken rolle decentral energiproduktion får.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Charles Nielsen nævnte, at den enkelte forbruger er beslutningstager og at mange ønsker uafhængighed og derfor vælger eksempelvis at sætte solceller på taget. Han gjorde opmærksom på, at som forsyningsselskab ser han stordriftsfordelene, men at der er et andet mindset hos forbrugerne og at denne udvikling allerede ses hos Trefor.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Christian Jarby opfordrede til, at forsyningsselskaberne tager initiativer til selv at etablere fx solcelleanlæg. Charles Nielsen gjorde opmærksom på, at selskaberne gerne etablerer anlæg, men på nogle områder begrænses af lovgivning.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Björn R. Andresen ville vide, hvor Charles Nielsen ser det største sikkerhedsmæssige problem. Svaret var, at der er brug for et helt klart regelsæt omkring distributionsnet, blandt andet når anlægsopgaver udbydes.&nbsp; Derudover pegede han på, at hacking og kritisk infrastruktur kan blive et problemområde.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Kristian Stagis nævnte, at elområdet teknologisk har nået et niveau, hvor kun fantasien og lovgivningen sætter begrænsninger og gav som eksempel private deleordninger for solceller. Han gjorde opmærksom på, at det ikke vil være muligt at lave regelsæt, der sikkerhedsmæssigt kan håndtere alle de ideer, der dukker op. Tomas Christensen pegede på, at det vil være vanskeligt at placere ansvaret, hvis der sker en ulykke med lånt udstyr.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>5. </b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Konsekvenser og fokusområder</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Ud fra oplæggene blev de sikkerhedstekniske konsekvenser af udviklingstendenserne på el- og gasområdet drøftet, og der kom forslag til fokusområder i det kommende år.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Per Michael Johansen nævnte, at oplæggene havde været præget af temaer som kompleksitet og multimodal energiforsyning og at udviklingen under alle omstændigheder vil overhale rådet. Han nævnte, at udviklingen er drevet af IT, men også af materialeforskning, fx nye materialer til batterier og at udviklingen inden for solceller går rigtigt stærkt.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Hans vurdering var, at gassen ikke er en driver på samme måde som el og at det derfor er langt lettere at regulere. På elområdet vil det være de enkelte brugere, også privatforbrugere, der bestemmer udviklingen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Jørgen Hansen nævnte, at den grønne omstilling er driveren for forsyningsselskaberne, mens det hos forbrugeren betyder allermest, hvilke muligheder der er for mere komfort, tryghed og sikkerhed og at hvis elprisen sænkes væsentligt over de næste år pga. fossilfri el, vil alle få meget mere teknik i huset.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Christian Jarby nævnte, at analyser viser, at forbrugeres elforbrug er i stigning og at dette vil belaste installationerne. Han fandt gas vanskeligere at forudse udviklingen på, fordi det fx endnu ikke ligger klart, hvilke gastyper der vil være i fremtiden.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Elly Kjems Hove udtrykte undren over, at oplæggene havde koncentreret sig om forsyningssikkerhed og IT-beskyttelse, mens ingen af oplæggene havde berørt udfordringer, der kan komme på produktsiden. Hun understregede, at produkterne også har betydning for, hvad reguleringen skal kunne rumme og at der også vil være sikkerhedsudfordringer, hvis for mange gasarter blandes. Hun fremhævede, at forsyningssikkerhed fylder mere end nogensinde for forbrugerne.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Tomas Christensen fremhævede en forventning hos forbrugere om, at der er styr på alle produkter på markedet, uanset hvor i verden de er købt.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Lone Saaby fandt det vanskeligt at vurdere fremtiden på gasområdet, eksempelvis hvor gassen vil blive anvendt eller om gassen på anlægssiden er delvist under udfasning. Hun nævnte, at der langtfra findes standarder på alle områder, så der kan være behov for nationale standarder, medmindre der vælges en hollandsk model med meget begrænset regulering.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Tomas Christensen nævnte, at aktørernes ansvar bliver ændret med indførelsen af bionaturgas, som han betegnede som et ret ureguleret område. Han understregede, at lugten fra tilsat odorant til gassen er forbrugernes sikkerhed og opfordrede til klare regler omkring odorant, hvis tilsætningen flyttes fra én til flere aktører.&nbsp;</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Kristian Stagis påpegede problemstillinger omkring, at hver husstand kan få sit eget elnet, eksempelvis med batterier, som kan udgøre en brandfare eller eksplosionsfare eller som kan ændre kravene til dimensionering.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Lone Saaby foreslog, at novembermødet i rådet bruger gasloven som case til at drøfte standarder og regulering. Hun nævnte også, at et tema om standardiseringsarbejdet kan være relevant. Niels Jørgen Hansen supplerede med, at der er behov for at drøfte, om det altid er det rigtige at følge europæiske standarder og om standardiseringsprocessen er betryggende. Niels Chrestensen Hviid foreslog som overordnet ramme, hvordan lovgivningen fremtidssikres.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Christian Jarby nævnte gasselskabernes myndighedsrolle som et tema, mens Tomas Christensen foreslog en sammenligning af myndighedsrollen på el- og gasområdet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Lone Saaby opsummerede temaer for de kommende tre møder:&nbsp;</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+- Gas med særlig vægt på standardisering<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+- Myndighedsrollen i en foranderlig verden<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+- Uddannelsesområdet</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Næste møde i rådet</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+ – 17. november 2016. Mødet vil have gas og standardisering som tema.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>6.&nbsp;</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Fremtidsperspektiv: Besøg hos EnergyLab Nordhavn</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Projektleder Christoffer Greisen, DTU Elektro og Niels Dullum fra CleanCharge Solutions ApS. viste rundt og præsenterede nogle af projekterne i EnergyLab Nordhavn. Det er et fireårigt demonstrationsprojekt, hvor der frem til 2019 bl.a. laves forsøg med el-tankstation med hurtigladning af elbiler, batterilagring af el, elopvarmning og it-styring og overvågning. Københavns Kommune, By &amp; Havn og en række virksomheder er partnere i projektet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+      
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+<!-- page_list_subitems -->    <div class="list-group">
+    </div><!-- /page_list_subitems -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+<hr>
+<div class="text-muted">
+    <small><span class="glyphicon glyphicon-time"></span> Sidst opdateret: 05-dec-2016</small><br>
+    <small><span class="glyphicon glyphicon-envelope"></span> Kontaktperson: <a title="" href="mailto:sik@sik.dk">webmaster</a></small>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+    </article>
+    <!--Content-End-->
+  </div>  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+<!-- right_menu_linkbox -->
+            
+            <div class="link-box right-menu">
+
+        <div class="body">
+          <ul>
+                                                                                                      <li >
+                  <a href="Raadsmoede-7.12797.dela">
+                                          Rådsmøde 7. april 2016
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Raadsmoede-31.12798.del">
+                                          Rådsmøde 31. maj 2016
+                                      </a>
+                </li>
+                                                                                                                                                      <li class="selected">
+                  <a href="Raadsmoede-6.12799.dela">
+                                          Rådsmøde 6. september 2016
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Raadsmoede-17.1279a.del">
+                                          Rådsmøde 17. november 2016
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Raadsmoede-14.12ea4.del">
+                                          Rådsmøde 14. marts 2017
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Raadsmoede-4.12ea5.dela">
+                                          Rådsmøde 4. maj 2017
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Raadsmoede-3.1513e.dela">
+                                           Rådsmøde 3. november 2017
+                                      </a>
+                </li>
+                                    </ul>
+      </div>
+    </div>
+    <!-- /right_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+  </div></div>
+<!-- /full -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/fa9d6053e2ff2c687d5f9075346a055e.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Om-os/Raad-og-udvalg/Raadet-for-El-og-Gasteknisk-Sikkerhed/Raadsmoeder/Raadsmoede-6.-september-2016 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 17:09:35 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

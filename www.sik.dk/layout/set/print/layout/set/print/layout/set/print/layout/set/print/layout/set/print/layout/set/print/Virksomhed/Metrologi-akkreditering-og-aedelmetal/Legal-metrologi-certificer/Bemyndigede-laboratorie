@@ -1,0 +1,2277 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Virksomhed/Metrologi-akkreditering-og-aedelmetal/Legal-metrologi-certificerede-virksomheder/Bemyndigede-laboratorier-maalere-og-maalesystemer by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 16:02:44 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                        <title>    Bemyndigede laboratorier - målere og målesystemer / Legal metrologi - certificerede virksomheder / Metrologi, akkreditering og ædelmetal / Virksomhed  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/d1c07eda9c326cad6c76c6c8b63b157a_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<!-- full -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+              <li>
+                                    <a href="../../../Virksomhed.html">Virksomhed</a>
+                          </li>
+          <li>
+                                    <a href="../../Metrologi-akkreditering-og-aedelmetal.html">Metrologi, akkreditering og ædelmetal</a>
+                          </li>
+          <li>
+                                    <a href="../Legal-metrologi-certificerede-virksomheder.113f5.d">Legal metrologi - certificerede virksomheder</a>
+                          </li>
+        <li class="active">Bemyndigede laboratorier - målere og målesystemer</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../Metrologi-akkreditering-og-aedelmetal.html">
+          Metrologi, akkreditering og ædelmetal
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                        <li >
+            <a href="../Legal-metrologi.html">
+                          Legal metrologi - krav til måleinstrumenters nøjagtighed
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Legal-metrologi-regler-og-vejledninger.113f3.delay">
+                          Legal metrologi - regler og vejledninger
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Legal-metrologi-bestemmelser-for-de-enkelte-maaleo">
+                          Legal metrologi - bestemmelser for de enkelte måleområder
+                        </a>
+            </li>
+                                                  
+                                                  <li class="selected">
+            <a href="../Legal-metrologi-certificerede-virksomheder.113f5.d">
+                          Legal metrologi - certificerede virksomheder
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Legal-metrologi-nationale-og-EOEF-typegodkendelser">
+                          Legal metrologi - nationale og EØF typegodkendelser
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Legal-metrologi-spoergsmaal-og-svar.html">
+                          Legal metrologi - spørgsmål og svar
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Akkreditering.html">
+                          Akkreditering – sikring af kvalitet
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../AEdelmetal.html">
+                          Ædelmetal
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>  <div class="col-md-9 center-col">    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../layout/set/print/Virksomhed/Metrologi-akkreditering-og-aedelmetal/Legal-met/Bemyndigede-laboratorie" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+            <h1>Bemyndigede laboratorier - målere og målesystemer</h1>
+      <summary>
+        <p>
+                      
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+Sikkerhedsstyrelsen bemyndiger laboratorier til at foretage verifikation af målere og målesystemer omfattet af Sikkerhedsstyrelsens regler om måleteknisk kontrol.
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+                            </p>
+      </summary>
+      <div class="pull-right social-icons">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://sik.dk/Virksomhed/Metrologi-akkreditering-og-aedelmetal/Legal-metrologi-certificerede-virksomheder/Bemyndigede-laboratorier-maalere-og-maalesystemer" target="_blank"><i class="fa fa-facebook-square facebook-brand"></i></a>
+<a href="http://twitter.com/share?url=https://sik.dk/Virksomhed/Metrologi-akkreditering-og-aedelmetal/Legal-metrologi-certificerede-virksomheder/Bemyndigede-laboratorier-maalere-og-maalesystemer" target="_blank"><i class="fa fa-twitter-square twitter-brand"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://sik.dk/Virksomhed/Metrologi-akkreditering-og-aedelmetal/Legal-metrologi-certificerede-virksomheder/Bemyndigede-laboratorier-maalere-og-maalesystemer" target="_blank"><i class="fa fa-pinterest-square pinterest-brand"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sik.dk/Virksomhed/Metrologi-akkreditering-og-aedelmetal/Legal-metrologi-certificerede-virksomheder/Bemyndigede-laboratorier-maalere-og-maalesystemer" target="_blank"><i class="fa fa-linkedin-square linkedin-brand"></i></a>
+<a href="mailto:?subject=Bemyndigede laboratorier - målere og målesystemer&body=https://sik.dk/Virksomhed/Metrologi-akkreditering-og-aedelmetal/Legal-metrologi-certificerede-virksomheder/Bemyndigede-laboratorier-maalere-og-maalesystemer" target="_blank"><i class="fa fa-envelope-o mail-brand"></i></a>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+</div>
+      <br>
+      <hr>
+        
+              
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Bemyndigede laboratorier udfører førstegangsverifikation af måleinstrumenter og målesystemer, der ikke er omfattet af EU-regulering (nationale regler) og reverifikation af alle måleinstrumenter og målesystemer i brug.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>I Bekendtgørelse om bemyndigelse af laboratorier til at udføre måleteknisk kontrol kan du se hvilke regler der stiller krav om bemyndigelse af laboratorier, hvilke krav der stilles til et bemyndiget laboratorium og hvordan udpegningen sker.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=131216" title="Link til Retsinformation" target="_blank">Link til Bekendtgørelse nr 322 af 29/03/2010 om bemyndigelse af laboratorier til at udføre måleteknisk kontrol</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Bemyndigede laboratorier tildeles et identifikationsnummer, som skal anbringes på de plomber og verifikationsmærker m.v., der anbringes på de verificerede instrumenter.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Vi har samlet en liste, hvor du kan finde identifikationsnummer og kontaktoplysninger på bemyndigede laboratorier. Du kan også se, hvilke opgaver, de er bemyndiget til at udføre.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Laboratorier som er bemyndiget til verifikation og e-mærkningskontrol</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/table.tpl (design:content/datatype/view/ezxmltags/table.tpl) -->
+  <table class="renderedtable table" cellpadding="3" cellspacing="1"  width="100%">
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td class="Blue" width="256" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Opgave</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td class="Blue" colspan="12" width="256" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Identifikationsnummer på laboratorium</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="256" valign="top" style="vertical-align: top">  Vægte/DK-verifikation
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  009
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  022
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  209
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  223
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  333
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  496
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="53" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="256" valign="top" style="vertical-align: top">  Lodder/verifikation
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  009
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="53" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="256" valign="top" style="vertical-align: top">  Volumenmålere til væsker med undtagelse af vand/verifikation
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  009
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  394
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="53" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="256" valign="top" style="vertical-align: top">  Masseflowmålere/DK-verifikation
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  009
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  022
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="53" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="256" valign="top" style="vertical-align: top">  Varmtvandsmålere/verifikation
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  009
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  200
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  268
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  295
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  341
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="53" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="256" valign="top" style="vertical-align: top">  Koldtvandsmålere/verifikation
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  009
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  200
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  268
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  295
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  341
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  418
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="53" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="256" valign="top" style="vertical-align: top">  Varmenergimålere/verifikation
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  009
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  200
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  268
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  295
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  341
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="53" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="256" valign="top" style="vertical-align: top">  Køleenergimålere/verifikation
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  268
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  568
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="53" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="256" valign="top" style="vertical-align: top">  Volumenmålere til fjernvarme/verifikation
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  009
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  200
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  268
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  295
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  341
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="53" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="256" valign="top" style="vertical-align: top">  Gasmålere/verifikation
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  009
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="53" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="256" valign="top" style="vertical-align: top">  Længdemål/verifkation
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  200
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="53" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="256" valign="top" style="vertical-align: top">  Dæktryksmålere/verifikation
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  009
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="53" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="256" valign="top" style="vertical-align: top">  Elmålere/verifikation iht. DK-godkendelse
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  268
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  299
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="53" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="256" valign="top" style="vertical-align: top">  Elmålere/reverifikation af MID-målere
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  268
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  299
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="53" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="256" valign="top" style="vertical-align: top">  e- /Э-mærkningskontrol
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  009
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="53" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="256" valign="top" style="vertical-align: top">  Flerdimensionale måleinstrumenter/verifikation
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  009
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="42" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="53" valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+</table>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/table.tpl (design:content/datatype/view/ezxmltags/table.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Nummer og kontaktoplysninger på bemyndigede laboratorier</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/table.tpl (design:content/datatype/view/ezxmltags/table.tpl) -->
+  <table class="renderedtable table" cellpadding="3" cellspacing="1" >
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td class="Blue" width="36" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Nr</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td class="Blue" width="36" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Laboratorium</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td class="Blue" width="36" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+<a name="eztoc87572_0_0_1" id="eztoc87572_0_0_1"></a><h4>Hovednummer</h4>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td class="Blue" width="36" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+<a name="eztoc87572_0_0_2" id="eztoc87572_0_0_2"></a><h4>Mailadresse</h4>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="36" valign="top" style="vertical-align: top">  009
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="420" valign="top" style="vertical-align: top">  FORCE Technology, Division for Måleteknik, Kemisk Analyse og Ledelsessystemer, Park Allé 345, 2605 Brøndby
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="108" valign="top" style="vertical-align: top">  Tlf. 43 26 70 00
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="204" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="mailto:info@forcetechnology.com" target="_self">info@forcetechnology.com</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="36" valign="top" style="vertical-align: top">  022
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="420" valign="top" style="vertical-align: top">  Trescal A/S, Mads Clausens Vej 12, 8600 Silkeborg
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="108" valign="top" style="vertical-align: top">  Tlf. 87 20 69 69
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="204" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="mailto:dkcalib@trescal.com" target="_self">dkcalib@trescal.com</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="36" valign="top" style="vertical-align: top">  200
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="420" valign="top" style="vertical-align: top">  Teknologisk Institut, Postbox 141, Gregersensvej, 2630 Tåstrup
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="108" valign="top" style="vertical-align: top">  Tlf. 42 99 66 11
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="204" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="mailto:info@teknologisk.dk" title="Info" target="_self">info@teknologisk.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+.
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="36" valign="top" style="vertical-align: top">  200
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="420" valign="top" style="vertical-align: top">  Teknologisk Institut, Installation &amp; Kalibrering, Kongsvangs Allé 29, 8000 Århus C
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="108" valign="top" style="vertical-align: top">  Tlf. 72 20 12 00
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="204" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="mailto:info@teknologisk.dk" title="Info" target="_self">info@teknologisk.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+.
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="36" valign="top" style="vertical-align: top">  209
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="420" valign="top" style="vertical-align: top">  Dansk Vægtkalibrering, Navervej 26, 8382 Hinnerup
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="108" valign="top" style="vertical-align: top">  Tlf. 86 98 55 77
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="204" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="mailto:danvaegt@danvaegt.dk" target="_self">danvaegt@danvaegt.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="36" valign="top" style="vertical-align: top">  223
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="420" valign="top" style="vertical-align: top">  Scanvaegt Calibration&nbsp;A/S, Johan Gutenbergs Vej 5-9, 8200 Århus
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="108" valign="top" style="vertical-align: top">  Tlf. 86 78 46 22
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="204" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="mailto:info@scanvaegt.dk" target="_self">info@scanvaegt.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="36" valign="top" style="vertical-align: top">  268
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="420" valign="top" style="vertical-align: top">  Kamstrup A/S, Industrivej 28, 8660 Skanderborg
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="108" valign="top" style="vertical-align: top">  Tlf. 89 93 10 00
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="204" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="mailto:info@kamstrup.dk" target="_self">info@kamstrup.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="36" valign="top" style="vertical-align: top">  295
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="420" valign="top" style="vertical-align: top">  Hofor A/S, Varme/vandlaboratoriet, Øster Allé 6, 2100 København Ø
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="108" valign="top" style="vertical-align: top">  Tlf. 33 95 33 95
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="204" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="mailto:clani@hofor.dk" target="_self">clani@hofor.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="36" valign="top" style="vertical-align: top">  299
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="420" valign="top" style="vertical-align: top">  Eniig Energiteknik A/S, Over Bækken 6, 9000 Aalborg
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="108" valign="top" style="vertical-align: top">  Tlf.&nbsp;99 36 99 36
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="204" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="mailto:hef@hef.dk" target="_self">hef@hef.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="36" valign="top" style="vertical-align: top">  333
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="420" valign="top" style="vertical-align: top">  Element Metech A/S, Herningvej 30, Flyvestation Karup, 7470 Karup
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="108" valign="top" style="vertical-align: top">  Tlf. 96 62 50 00
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="204" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="mailto:info.metech.dk@element.com" target="_self">info.metech.dk@element.com</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="36" valign="top" style="vertical-align: top">  341
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="420" valign="top" style="vertical-align: top">  DIN Forsyning A/S, Ravnevej 10, 6705 Esbjerg Ø
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="108" valign="top" style="vertical-align: top">  Tlf.&nbsp;74 74 74 74
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="204" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="mailto:post@dinforsyning.dk" target="_self">post@dinforsyning.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="36" valign="top" style="vertical-align: top">  394
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="420" valign="top" style="vertical-align: top">  DOMS Metrology ApS, Formervangen 28, 2600 Glostrup
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="108" valign="top" style="vertical-align: top">  Tlf. 43 29 94 70
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="204" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="mailto:mail@domsmetrology.dk" target="_self">mail@domsmetrology.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="36" valign="top" style="vertical-align: top">  418
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="420" valign="top" style="vertical-align: top">  Midtfyns Vandforsyning A.m.b.A,&nbsp;Målerlaboratoriet,&nbsp;Lombjergevej 22, 5750 Ringe
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="108" valign="top" style="vertical-align: top">  Tlf. 62 62 12 05
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="204" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="mailto:info@midtfynsvand.dk" target="_self">info@midtfynsvand.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="36" valign="top" style="vertical-align: top">  496
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="420" valign="top" style="vertical-align: top">  Scanvaegt Systems A/S, Kalibreringslaboratoriet, Johan Gutenbergs Vej 5-9, 8200 Århus N
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="108" valign="top" style="vertical-align: top">  Tlf. 86 78 55 00
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="204" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="mailto:info@scanvaegt.dk" target="_self">info@scanvaegt.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="36" valign="top" style="vertical-align: top">  568
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="420" valign="top" style="vertical-align: top">  Danfoss A/S, PL35, Nordborgvej 81, 6430 Nordborg
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="108" valign="top" style="vertical-align: top">  Tlf.74 88 22 22
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<td width="204" valign="top" style="vertical-align: top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="mailto:info@scanvaegt.dk" target="_self">danfoss@danfoss.com</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+
+  </td>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+</table>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/content/datatype/view/ezxmltags/table.tpl (design:content/datatype/view/ezxmltags/table.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+      
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+<!-- page_list_subitems -->    <div class="list-group">
+    </div><!-- /page_list_subitems -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+<hr>
+<div class="text-muted">
+    <small><span class="glyphicon glyphicon-time"></span> Sidst opdateret: 24-okt-2018</small><br>
+    <small><span class="glyphicon glyphicon-envelope"></span> Kontaktperson: <a title="" href="mailto:sik@sik.dk">webmaster</a></small>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+    </article>
+    <!--Content-End-->
+  </div></div>
+<!-- /full -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/f7012d06058bd5d5db35a640dcb232eb.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Virksomhed/Metrologi-akkreditering-og-aedelmetal/Legal-metrologi-certificerede-virksomheder/Bemyndigede-laboratorier-maalere-og-maalesystemer by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 16:02:44 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

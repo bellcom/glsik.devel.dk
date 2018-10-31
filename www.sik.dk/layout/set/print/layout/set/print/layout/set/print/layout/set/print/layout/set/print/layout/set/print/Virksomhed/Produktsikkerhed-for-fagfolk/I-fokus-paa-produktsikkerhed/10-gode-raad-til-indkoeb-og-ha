@@ -1,0 +1,517 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Virksomhed/Produktsikkerhed-for-fagfolk/I-fokus-paa-produktsikkerhed/10-gode-raad-til-indkoeb-og-haandtering-af-legetoej by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 16:05:58 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                        <title>    10 gode råd til indkøb og håndtering af legetøj / I fokus på produktsikkerhed / Produktsikkerhed for fagfolk / Virksomhed  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/d1c07eda9c326cad6c76c6c8b63b157a_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<!-- full -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+              <li>
+                                    <a href="../../../Virksomhed.html">Virksomhed</a>
+                          </li>
+          <li>
+                                    <a href="../../Produktsikkerhed-for-fagfolk.html">Produktsikkerhed for fagfolk</a>
+                          </li>
+          <li>
+                                    <a href="../I-fokus-paa-produktsikkerhed.html">I fokus på produktsikkerhed</a>
+                          </li>
+        <li class="active">10 gode råd til indkøb og håndtering af legetøj</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../Produktsikkerhed-for-fagfolk.html">
+          Produktsikkerhed for fagfolk
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                                                  <li class="selected">
+            <a href="../I-fokus-paa-produktsikkerhed.html">
+                          I fokus
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Love-og-regler-for-produktsikkerhed.html">
+                          Love og regler
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Farlige-produkter.html">
+                          Farlige produkter
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Maerkning-af-produkter.html">
+                          Mærkning
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Vejledninger-om-produktsikkerhed.html">
+                          Vejledninger til producenter, importører og forhandlere
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../Markedsovervaagning-af-nye-omraader.html">
+                          Markedsovervågning af nye områder
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>  <div class="col-md-6 center-col">    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../layout/set/print/Virksomhed/Produktsikkerhed-for-fagfolk/I-fokus-paa-produk/10-gode-raad-til-indkoe-2" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+            <h1>10 gode råd til indkøb og håndtering af legetøj</h1>
+      <summary>
+        <p>
+                      
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+Sikkerhedsstyrelsen og Miljøstyrelsen har samlet 10 gode råd til dig, der i det daglige indkøber eller håndterer legetøj. Rådene er sendt ud til landets daginstitutioner og børnehaver. Her på vores hjemmeside har vi udvidet nogle af rådene lidt, så du kan finde mere udførlig information under de enkelte punkter. 
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+                            </p>
+      </summary>
+      <div class="pull-right social-icons">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://sik.dk/Virksomhed/Produktsikkerhed-for-fagfolk/I-fokus-paa-produktsikkerhed/10-gode-raad-til-indkoeb-og-haandtering-af-legetoej" target="_blank"><i class="fa fa-facebook-square facebook-brand"></i></a>
+<a href="http://twitter.com/share?url=https://sik.dk/Virksomhed/Produktsikkerhed-for-fagfolk/I-fokus-paa-produktsikkerhed/10-gode-raad-til-indkoeb-og-haandtering-af-legetoej" target="_blank"><i class="fa fa-twitter-square twitter-brand"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://sik.dk/Virksomhed/Produktsikkerhed-for-fagfolk/I-fokus-paa-produktsikkerhed/10-gode-raad-til-indkoeb-og-haandtering-af-legetoej" target="_blank"><i class="fa fa-pinterest-square pinterest-brand"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sik.dk/Virksomhed/Produktsikkerhed-for-fagfolk/I-fokus-paa-produktsikkerhed/10-gode-raad-til-indkoeb-og-haandtering-af-legetoej" target="_blank"><i class="fa fa-linkedin-square linkedin-brand"></i></a>
+<a href="mailto:?subject=10 gode råd til indkøb og håndtering af legetøj&body=https://sik.dk/Virksomhed/Produktsikkerhed-for-fagfolk/I-fokus-paa-produktsikkerhed/10-gode-raad-til-indkoeb-og-haandtering-af-legetoej" target="_blank"><i class="fa fa-envelope-o mail-brand"></i></a>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+</div>
+      <br>
+      <hr>
+        
+              
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+<a name="eztoc81636_0_0_0_1" id="eztoc81636_0_0_0_1"></a><h5>1. Sig NEJ TAK til at modtage brugt blødt plastlegetøj</h5>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Sig nej tak til brugt blødt plastlegetøj købt før 2007, fordi legetøjet kan indeholde hormonforstyrrende ftalater. Siden 1999 har Danmark haft et forbud mod ftalater i legetøj til børn under tre år. I 2007 blev der indført forbud mod de farligste ftalater i alt legetøj i hele EU.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+<a name="eztoc81636_0_0_0_2" id="eztoc81636_0_0_0_2"></a><h5>2. Køb kun CE-mærket legetøj</h5>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Alt legetøj I køber SKAL være CE-mærket. Producenten CE-mærker legetøjet for at vise myndighederne, at alle krav i legetøjsdirektivet er overholdt. Hvis CE-mærket mangler, lever legetøjet med stor sandsynlighed ikke op til sikkerhedskravene, fordi fabrikanten ikke står inde for, at kravene er overholdt. CE-mærket kan sidde på legetøjets emballage.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>CE-mærket er dog ikke et godkendelsesmærke, der betyder, at myndighederne har vurderet produktet, og det garanterer ikke, at legetøjet er blevet testet af et uafhængigt laboratorium eller lignende.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Alligevel er det vigtigt, at legetøj er CE-mærket, når det købes ind, fordi mærket er producentens garanti for, at kravene er overholdt. I Danmark bliver der sjældent solgt legetøj uden CE-mærkning, men ved indkøb på Internettet, skal du være ekstra opmærksom, især hvis der købes ind fra lande uden for EU.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="../Maerkning-af-produkter/Hvad-er-CE-Maerkning.html" target="_self">Link til mere info om CE-mærkning</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Ud over CE-mærkning, kan I gå efter Miljømærket legetøj, som sikrer, at der er taget hensyn til både miljø og sundhed.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+<a name="eztoc81636_0_0_0_3" id="eztoc81636_0_0_0_3"></a><h5>3. Tag anbefalinger om alder og advarsler alvorligt – især ved legetøj til børn under 3 år – bedøm ikke selv!</h5>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Legetøj til børn under 3 år er underlagt skærpede krav. Legetøjet må ikke indeholde små dele (fx løstsiddende dukkeøjne og legetøjsperler), som kan sluges, sætte sig fast i svælget og i værste tilfælde kvæle barnet. Legetøjet skal kunne holde til, at små børn er hårde ved legetøjet, så de må ikke kunne rive eller bide smådele af. Selvom en voksen holder øje, kan små børn godt putte små ting i munden uden, at det opdages. Undgå også snore og lange bånd, der kan komme om halsen og medføre risiko for kvælning. Anbefalinger om alder og advarsler skal tages meget alvorligt.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Vær opmærksom på, at producenter kan angive andre vejledende aldersgrænser, som ikke tager udgangspunkt i barnets sikkerhed, men det anbefales at følge dem, fordi producenten har gjort sig tanker om legeværdien af legetøjet i forhold til barnets alder. En vejledende grænse kan for eksempel angives som 3+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+<a name="eztoc81636_0_0_0_4" id="eztoc81636_0_0_0_4"></a><h5>4. Brug kommunens indkøbsaftaler</h5>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Hvis din kommune er med i Partnerskab for offentlige grønne indkøb, skal de centrale indkøbsaftaler leve op til en høj miljømæssig standard og legetøj til børn under 6 år må f.eks. ikke indeholde ftalater og tungmetaller.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="http://www.gronneindkob.dk/" target="_self">Læs mere om partnerskab for offentlige grønne indkøb</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+&nbsp;</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Det er altid en god ide at undgå legetøj med parfume og duftstoffer. Duftstoffer kan irritere følsomme slimhinder og kan især ved længerevarende kontakt med huden fremkalde allergi.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+<a name="eztoc81636_0_0_0_5" id="eztoc81636_0_0_0_5"></a><h5>5. Hold altid ekstra opsyn, når I bruger hobbyprodukter</h5>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Producenter af hobbyprodukter skal ikke lave specielle brugsvejledninger til børn, men de laver den ofte alligevel. Spørg altid efter den. Hold ekstra øje med børnene, når de bruger hobbyprodukter, da de nemmere bliver udsat for kemiske stoffer i produkter som f.eks. er i flydende form som en fingermaling. Hobbyprodukter kan være mærket med et A. I A-mærkede produkter er der sat krav der går ud over lovgivningen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Læs mere om mærkningen af hobbyprodukter på 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="http://www.fffh.dk/" target="_self">www.fffh.dk</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+ eller&nbsp;
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="http://mst.dk/kemi/kemikalier/saerligt-for-borgere-om-kemikalier/groenne-tips/fritiden/hobbyprodukter-og-lim/" title="Link til Miljøstyrelsen" target="_blank">Miljøstyrelsen</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+<a name="eztoc81636_0_0_0_6" id="eztoc81636_0_0_0_6"></a><h5>6. Gå ikke ud fra, at naturmaterialer er sundere end plast</h5>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Naturmaterialer er ikke altid sundere end fx plast. Naturmaterialer kan indeholde skadelige stoffer, der findes naturligt i materialet, eller det kan være behandlet med en maling eller en lak. Der er derfor ingen grund til, ud fra et sundhedsmæssigt synspunkt, at vælge legetøj af naturprodukter frem for plast. Hverken legetøj af naturmaterialer eller plast må indeholde stoffer i mængder, der kan udgøre en risiko.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+<a name="eztoc81636_0_0_0_7" id="eztoc81636_0_0_0_7"></a><h5>7. Følg fabrikantens anvisninger ved rengøring af legetøj</h5>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Legetøj skal kunne tåle rengøring, uden at det går i stykker, f.eks. at smådele løsnes lettere eller at legetøjet frigiver kemiske stoffer, der kan være farlige. Legetøj skal dog ikke kunne holde til en hvilken som helst form for rengøring! Følg derfor fabrikantens anvisninger for rengøring.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Typiske anvisninger for legetøjets rengøring kan fx være, at det ikke tåler maskinvask, eller en øvre temperaturgrænse for rengøringen samt angivelse af hvilke rengøringsmidler der må bruges.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Hvis legetøjet vaskes ved for høj temperatur, kan det mekaniske nedbrydes, sådan at smådele løsner sig, eller der kan opstå direkte adgang til indre elektronik eller lignende, hvis lim bliver nedbrudt.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Maskinvask af legetøj påvirker produktet som ved iblødsætning og legetøjet påvirkes også voldsomt mekanisk – især når det centrifugeres. Her kan dele af legetøjet knække af og fx batteridæksler og lignende gå i stykker.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Legetøjet til helt små børn vaskes ofte, fordi det puttes i munden. Hvis der på emballagen eller på selve legetøjet er rengøringsanvisninger, er det en god idé at gemme informationen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+<a name="eztoc81636_0_0_0_8" id="eztoc81636_0_0_0_8"></a><h5>8. Pas på produkter, der appellerer til børn, men som ikke er legetøj</h5>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Flere produkter, der IKKE er legetøj, er lavet, så de ligner legetøj, f.eks. elprodukter med Disneyfigurer, og derfor appellerer de særligt til børn. Produkterne kan være CE-mærkede, men de har intet med legetøj at gøre. Produkter tilsluttet stikkontakter eller strøm er IKKE legetøj, og derfor risikerer børn at få alvorlige stød og forbrændinger, hvis de leger med produkterne.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+<a name="eztoc81636_0_0_0_9" id="eztoc81636_0_0_0_9"></a><h5>9. Hold batterier langt væk fra børn</h5>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Legetøj, der bruger batterier, sælges tit med løse batterier vedlagt. Fjern eller sæt de løse batterier forsvarligt i, før legetøjet gives til børnene. Batterier kan sluges og er meget giftige. Batterierne skal skiftes af en voksen. Der skal bruges værktøj eller lignende, da det er et sikkerhedskrav, at batteriet er sikret imod at kunne tages ud, når legetøjet gives til barnet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Hvis man overlader batteriskiftet til børn, er der erfaring for, at sikkerhedsskruen på batteridækslet ofte bliver glemt, og der kan opstå en farlig situation, fordi batterierne er let tilgængelige.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+<a name="eztoc81636_0_0_0_10" id="eztoc81636_0_0_0_10"></a><h5>10. Fjern legetøjets emballage før det gives til børn</h5>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/header.tpl (design:content/datatype/view/ezxmltags/header.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Emballage er IKKE beregnet til leg! Den kan indeholde plasticposer eller andet blød plast, der giver kvælningsrisiko. Den kan også indeholde smådele, eller den kan skilles ad i smådele, der kan sluges. Vær især opmærksom på at emballage, der har form af &quot;en halv bold&quot;, kan sætte sig fast i svælget og blokere lufttilførslen. Det kan være farligt for mindre børn at tage emballagen i munden eller over næse og mund. Fjern derfor emballagen før du giver legetøjet til børnene. Før emballagen smides ud, bør du sikre dig, at der ikke er advarsler eller andre informationer, fx rengøringsanvisninger, der bør gemmes.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+      
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+<!-- page_list_subitems -->    <div class="list-group">
+    </div><!-- /page_list_subitems -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+<hr>
+<div class="text-muted">
+    <small><span class="glyphicon glyphicon-time"></span> Sidst opdateret: 16-aug-2017</small><br>
+    <small><span class="glyphicon glyphicon-envelope"></span> Kontaktperson: <a title="" href="mailto:sik@sik.dk">webmaster</a></small>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+    </article>
+    <!--Content-End-->
+  </div>  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+<!-- right_menu_linkbox -->
+            
+            <div class="link-box right-menu">
+
+        <div class="body">
+          <ul>
+                                                                                                      <li >
+                  <a href="Aldersvurdering-af-squishies.1">
+                                          Aldersvurdering af squishies
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Sikkerhed-omkring-segboards.f6">
+                                          Sikkerhed omkring segboards 
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Faa-styr-paa-straalingen-og-UV">
+                                          Få styr på strålingen og UV-typen
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Staerke-magnetsaet-er-farligt-">
+                                          Stærke magnetsæt er farligt legetøj
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Standard-daekker-ikke-visse-ba">
+                                          Standard dækker ikke visse bærbare gasblus
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="10-gode-raad-til-indkoebere-af">
+                                          10 gode råd til indkøbere af barnevogne/kombivogne
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Saelg-kun-sikre-laserpointere">
+                                          Sælg kun sikre laserpointere
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Registrering-af-solcentre.f6ec">
+                                          Registrering af solcentre
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Ny-solarielov.html">
+                                          Ny solarielov
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Legetoejsregler.html">
+                                          Legetøjsregler.dk
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Tjek-af-legetoej-uden-lovpligt">
+                                          Tjek af legetøj uden lovpligtig mærkning
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Pas-paa-med-1-10V-analogstyrin">
+                                          Pas på med 1-10V analogstyringer af dæmpbare LED-belysningsarmaturer
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Ombygning-af-belysningsarmatur">
+                                          Ombygning af belysningsarmaturer giver risiko for livsfarligt stød
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Fjernstyrede-helikoptere-kan-v">
+                                          Fjernstyrede helikoptere kan være legetøj
+                                      </a>
+                </li>
+                                                                                                                                                      <li class="selected">
+                  <a href="10-gode-raad-til-indkoeb-og-ha">
+                                          10 gode råd til indkøb og håndtering af legetøj
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Fokus-paa-gasprodukter.f703.de">
+                                          Fokus på gasprodukter
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Screening-af-solcentre-i-Danma">
+                                          Screening af solcentre i Danmark
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Fortsat-fokus-paa-forbudte-lig">
+                                          Fortsat fokus på forbudte lightere 
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Alvorlige-sikkerhedsrisici-ved">
+                                          Alvorlige sikkerhedsrisici ved lyskæder
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Rejseadaptere-kan-vaere-farlig">
+                                          Rejseadaptere
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Efterligninger-af-levnedsmidle">
+                                          Efterligninger af levnedsmidler kan være farlige
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Kontrol-med-sikkerhed-af-leget">
+                                          Kontrol med sikkerhed af legetøj
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Projekt-Snore-i-boernetoej.f6f">
+                                          Projekt "Snore i børnetøj"
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Pas-paa-hvis-du-koeber-biopejs">
+                                          Pas på, hvis du køber biopejse
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Et-aars-foedselsdag-for-lighte">
+                                          Et års fødselsdag for lighterforbud
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Voldsom-stigning-i-RAPEX2.f6e6">
+                                          Voldsom stigning i RAPEX
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Lighterforbud2.html">
+                                          Lighterforbud
+                                      </a>
+                </li>
+                                    </ul>
+      </div>
+    </div>
+    <!-- /right_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+  </div></div>
+<!-- /full -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/f7012d06058bd5d5db35a640dcb232eb.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Virksomhed/Produktsikkerhed-for-fagfolk/I-fokus-paa-produktsikkerhed/10-gode-raad-til-indkoeb-og-haandtering-af-legetoej by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 16:05:58 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->

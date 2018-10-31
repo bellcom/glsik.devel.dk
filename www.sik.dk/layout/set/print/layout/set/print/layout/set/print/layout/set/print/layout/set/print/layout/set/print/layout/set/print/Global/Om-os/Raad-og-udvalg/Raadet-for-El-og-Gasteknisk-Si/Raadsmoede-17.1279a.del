@@ -1,0 +1,718 @@
+
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+  
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Om-os/Raad-og-udvalg/Raadet-for-El-og-Gasteknisk-Sikkerhed/Raadsmoeder/Raadsmoede-17.-november-2016 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 17:09:35 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                                    <title>    Rådsmøde 17. november 2016 / Rådsmøder / Rådet for El- og Gasteknisk Sikkerhed / Råd og udvalg / Om os / Global  </title>
+    <link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/stylesheets/172db9c811c86073f79ddeab86716aa8_all.css" />
+
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+<script type="text/javascript">
+var bc_test = true;
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/header/javascript.tpl) -->
+
+    <!--[if lt IE 8]>
+    <style type="text/css" media="print">
+      @import url("/design/design_2013/stylesheets/ie6-print.css");
+    </style>
+    <![endif]-->
+
+  </head>
+
+  <body onload="window.print();" id="print-layout">
+  <img src="../../../../../../../../../../../../../../../../../../../../../../../../../extension/sikkerhedsstyrelsen/design/design_2013/images/Sikkerhedsstyrelsen_logo_230x69_transparent.png" id="main_logo" alt="Logo med link til forsiden" />
+
+  <!-- module_result start -->
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<!-- full -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<!-- submenu -->
+<div class="sub-menu">
+  <ol class="breadcrumb">
+        
+                        <li>
+                                    <a href="../../../Om-os.html">Om os</a>
+                          </li>
+          <li>
+                                    <a href="../../Raad-og-udvalg.html">Råd og udvalg</a>
+                          </li>
+          <li>
+                                    <a href="../Raadet-for-El-og-Gasteknisk-Sikkerhed.html">Rådet for El- og Gasteknisk Sikkerhed</a>
+                          </li>
+          <li>
+                                    <a href="Raadsmoeder.12795.delay">Rådsmøder</a>
+                          </li>
+        <li class="active">Rådsmøde 17. november 2016</li>
+  </ol>
+  <hr>
+</div>
+<!-- /submenu -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/submenu.tpl) -->
+<div class="row">
+  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+<!-- left_menu_linkbox -->    
+  
+  <div class="link-box left-menu">
+    <header>
+      <h5>
+        <a href="../../../Om-os.html">
+          Om os
+        </a>
+      </h5>
+    </header>
+    <div class="body">
+      <ul>
+                                        
+                        <li >
+            <a href="../../Organisation-og-ledelse.html">
+                          Organisation og ledelse 
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Strategier-og-maal.html">
+                          Strategier og mål
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Job-og-karriere.html">
+                          Job og karriere
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Udbud-og-hoeringer.html">
+                          Udbud og høringer 
+                        </a>
+            </li>
+                                                  
+                                                  <li class="selected">
+            <a href="../../Raad-og-udvalg.html">
+                          Råd og udvalg
+                        </a>
+            </li>
+                                                  
+                        <li >
+            <a href="../../Om-Sik.html">
+                          Om Sik.dk
+                        </a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+    <!-- /left_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/left_menu_linkbox.tpl) -->
+  </div>  <div class="col-md-6 center-col">    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+<ol class="page-actions">
+  <li><a href="../../../../layout/set/print/Global/Om-os/Raad-og-udvalg/Raadet-for-El/Raadsmoede-17.15142.del" title="Print" rel="nofollow" class="print" onclick="window.open(this.href, 'popupwindow', 'width=600,height=800,scrollbars,resizable'); return false;">Print</a></li>
+     <li><a href="#" class="increaseFont font-action" title="Forst&oslash;r tekst st&oslash;rrelse">Zoom ind</a></li>
+   <li><a href="#" class="decreaseFont font-action" title="Formindsk tekst st&oslash;rrelse">Zoom ud</a></li>
+  
+</ol>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_actions.tpl) -->
+    <!--Content-Begin-->
+    <article>
+            <h1>Rådsmøde 17. november 2016</h1>
+      <summary>
+        <p>
+                      
+<!-- START: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+
+Referat fra rådsmøde hos NGF Nature Energy Midtfyn
+<!-- STOP: including template: design/standard/templates/content/datatype/view/eztext.tpl (design:content/datatype/view/eztext.tpl) -->
+                            </p>
+      </summary>
+      <div class="pull-right social-icons">
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://sik.dk/Global/Om-os/Raad-og-udvalg/Raadet-for-El-og-Gasteknisk-Sikkerhed/Raadsmoeder/Raadsmoede-17.-november-2016" target="_blank"><i class="fa fa-facebook-square facebook-brand"></i></a>
+<a href="http://twitter.com/share?url=https://sik.dk/Global/Om-os/Raad-og-udvalg/Raadet-for-El-og-Gasteknisk-Sikkerhed/Raadsmoeder/Raadsmoede-17.-november-2016" target="_blank"><i class="fa fa-twitter-square twitter-brand"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://sik.dk/Global/Om-os/Raad-og-udvalg/Raadet-for-El-og-Gasteknisk-Sikkerhed/Raadsmoeder/Raadsmoede-17.-november-2016" target="_blank"><i class="fa fa-pinterest-square pinterest-brand"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sik.dk/Global/Om-os/Raad-og-udvalg/Raadet-for-El-og-Gasteknisk-Sikkerhed/Raadsmoeder/Raadsmoede-17.-november-2016" target="_blank"><i class="fa fa-linkedin-square linkedin-brand"></i></a>
+<a href="mailto:?subject=Rådsmøde 17. november 2016&body=https://sik.dk/Global/Om-os/Raad-og-udvalg/Raadet-for-El-og-Gasteknisk-Sikkerhed/Raadsmoeder/Raadsmoede-17.-november-2016" target="_blank"><i class="fa fa-envelope-o mail-brand"></i></a>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/social_icons.tpl) -->
+</div>
+      <br>
+      <hr>
+        
+              
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Deltagere:</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Per Michael Johansen, Annette Becker Berg, Björn R. Andresen, Lene Holst Kjærgaard, Elly Kjems Hove (til kl. 13), Tomas Christensen, Christian Jarby, Niels Jørgen Hansen, Lone Saaby (Sikkerhedsstyrelsen), Niels Chrestensen Hviid (Sikkerhedsstyrelsen), Arne Hosbond (Sikkerhedsstyrelsen), Lone Hansen (Sikkerhedsstyrelsen) (ref.)</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Afbud:</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<br />
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/line.tpl (design:content/datatype/view/ezxmltags/line.tpl) -->
+Per Jørgensen, Kristian Stagis</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>1. Velkomst</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Formand Per Michael Johansen bød velkommen til rådsmødet efter rundvisning på biogasanlægget. Han indledte med opsamling på rundvisningen. Arne Hosbond nævnte, at det er et af de større biogasanlæg, som i sommerperioden kan forsyne hele Fyn med biogas. Da gassen er anderledes end Nordsøgassen, kræver det, at den opgraderes, så den får samme kvalitet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Lone Saaby oplyste, at der vil blive eftersendt oplysninger om økonomien for anlæg og drift, men at målsætningen er, at biogasanlægget økonomisk skal bære sig selv. Hun nævnte, at forretningsmodellen er, at landmænd leverer gylle gratis og får et andet gødningsprodukt retur.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Arne Hosbond nævnte, at der bygges mange biogasanlæg i øjeblikket, blandt andet fordi der er en tilskudsordning på området. Han pegede på, at en af de største udfordringer i fremtiden kan blive at skaffe tilstrækkeligt med affald/iblandingsmateriale til biogasanlæggene og at det kan betyde, at gassen bliver dyrere.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Han oplyste, at der i Danmark er krav om, at biogassen skal opgraderes, inden den sendes ud på nettet, så den lever op til minimumskravene til naturgassen. Varierende gaskvalitet kan kræve justering af gasmotorer og kedler. Ligeledes gjorde han opmærksom på, at der er en risiko, hvis gaskvaliteten varierer ud over de grænser, der er fastsat i Danmark. Han nævnte, at den danske gas har en høj kvalitet, men at der er ønsker fra EU om en harmonisering og mere fleksible gaskvaliteter.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>2. Godkendelse af referat fra sidste møde</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Referatet blev godkendt.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>3. Godkendelse af dagsorden</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Dagsordenen blev godkendt.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>4. Ændring til rådets forretningsorden</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Per Michael Johansen oplyste, at rådets forretningsorden skal ændres, idet Erhvervs- og vækstministeren har ønsket, at rådets møder åbnes for tre faste observatører fra organisationerne VELTEK, Arbejdsgiverne og Dansk Elforbund.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Udkastet til ændring blev drøftet. Niels Jørgen Hansen påpegede, at det bør fremgå, at organisationerne indstiller personer, både en mand og en kvinde, over for formanden, som udpeger de permanente observatører.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Rådet godkendte ændringen af forretningsordenen med denne præcisering.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Erhvervs- og vækstministeren skal godkende, at forretningsordenen ændres.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>5. Gas som forsyningskilde – udvikling og udfordringer</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Sten Lønborg, der har været beskæftiget på produktsikkerhedsområdet, var inviteret til at komme med et oplæg om lovgivningen bag de produkter, der kommer ind i Danmark.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Sten Lønborg opridsede regelsættet, som består af EU's gasapparatdirektiv og de danske gasreglementer, men også ATEX-direktivet, som dækker eksplosiv atmosfære. Han nævnte, at eksempelvis gasarter er beskrevet i standarder.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>På produkter kan der være CE-mærkning, men i Danmark findes desuden en national DG-mærkning.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Lone Saaby spurgte, hvor detaljeret reguleringen bør være, hvis gasreglerne bliver mere funktionsbaserede, og Niels Jørgen Hansen ville vide, om produkter er tilstrækkeligt dækket af gasapparatdirektivet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Sten Lønborg nævnte, at det i direktivet beskrives, hvad man vil opnå, og derefter bruges standardernes beskrivelser til at udføre det i praksis.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Arne Hosbond oplyste, at en ny gasapparatforordning træder i kraft i 2018, men at den ikke vil omfatte håndholdte redskaber. De vil i stedet blive omfattet af det generelle produktsikkerhedsdirektiv (GPSD), og det vil være op til fabrikanten at stå inde for, at det er sikkert.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Flere nævnte, at det kan blive en udfordring, hvis der ikke er mærkning på de enkelte produkter, eksempelvis slanger, i et større anlæg. Det vil betyde, at dem, der skal arbejde med anlægget, ikke kan se, at enkeltdelene lever op til kravene.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Arne Hosbond oplyste, at det overvejes i de nye bekendtgørelser at skrive, at hvis et produkt anvendes i Danmark, skal det være produceret og mærket efter en angivet EN-standard.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Sten Lønborg pegede på, at installatører ikke tjekker op på produktstandarderne og at det bliver kunderne, der har ansvaret for kontrol. Lone Saaby nævnte, at det bør være grundlæggende viden hos en installatør, at han skal tjekke produkterne.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Jørgen Hansen sagde, at installatører har ansvaret, men forventer, at anerkendte danske leverandører står inde for de produkter, de leverer. Han nævnte, at der bør være en markedskontrol, så byggemarkeder og andre leverandører kigges over skulderen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Christian Jarby ville vide, om grundlaget for kontrol er tilstrækkeligt, hvis der ikke er mærkning på fx en gasslange. Arne Hosbond bekræftede, at kontrollen på produkter kan udføres, men at myndighederne kun kan gribe ind, hvis produktet er installeret forkert.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Jørgen Hansen undrede sig over, at der ikke er overensstemmelse mellem, hvilke produkter det er lovligt at markedsføre i Danmark og hvilke det er lovligt at anvende. Han ville vide, om det fx vil være lovligt at markedsføre en ukrudtsbrænder, der ikke lever op til de danske særkrav.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Arne Hosbond gjorde opmærksom på, at denne problemstilling også gælder gasapparater i dag. De må markedsføres i Danmark, hvis de er CE-mærkede, men de må ikke sættes op, hvis de ikke er beregnet til brug i Danmark eller mærket til en dansk gaskvalitet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Christian Jarby fandt det vigtigt, at forbrugerne kan se, at et produkt overholder de danske regler. Han påpegede, at forbrugere ikke kan se forskel på standarder.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Tomas Christensen spurgte, om det forventes, at han som forbruger kan gennemskue, om han fx må bruge en regulator, han køber i et byggemarked.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Jørgen Hansen nævnte, at når man handler i et byggemarked, forventer man, at det, man køber, også kan anvendes lovligt. Han fandt, at man bør kunne rejse erstatningskrav, hvis et byggemarked sælger et produkt, der ikke kan anvendes lovligt.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Arne Hosbond understregede, at forbrugere skal kunne regne med, at tingene passer sammen og at den eneste forskel fremover vil være, at mærkningen kommer til at se anderledes ud.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Christian Jarby bad om at få ført til referat, at han gerne vil have set nærmere på, hvad det betyder for forbrugerne, at der ikke er overensstemmelse mellem, hvad der må markedsføres og hvad der må anvendes.&nbsp;</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>6. Regler eller standarder </b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Chrestensen Hviid orienterede om Sikkerhedsstyrelsens igangværende arbejde på gasområdet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Han beskrev, at et af de centrale hensyn er, at det skal være lettere at drive virksomhed, både gennem øget fleksibilitet i kraft af funktionsbaseret lovgivning og ved fortsat vejledning på gasområdet. Han nævnte, at gasprojektet er koblet til Erhvervs- og Vækstministeriets 2025-plan, hvor der er fokus på at lette byrder, bl.a. gennem digitalisering og enklere sagsbehandling.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Chrestensen Hviid beskrev, at gaslovgivningen i Danmark er 25 år gammel og at der er behov for at gå fra detailregulering til funktionsbaseret regulering, men at der fortsat skal være det rette sikkerhedsniveau.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Han oplyste, at Sikkerhedsstyrelsen har hentet erfaringer fra flere lande og bl.a. besøgt Holland, hvor gasreglerne er meget liberale sammenlignet med Danmark. Der er eksempelvis ikke noget autorisationskrav, kun en frivillig certificering.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Jørgen Hansen nævnte, at det drøftes i Holland, om reguleringen er tilstrækkelig af hensyn til sikkerheden og hvordan antallet af ulykker kan reduceres og at det indikerer, at der sker ulykker.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Christian Jarby opfordrede til, at der laves statistik på gasulykker i Danmark, og Tomas Christensen supplerede med, at et overblik over ulykker vil kunne danne udgangspunkt for informationskampagner.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Chrestensen Hviid oplyste, at organisationer og private virksomheder har deltaget i dialog om de fremtidige regler på gasområdet og at processen fortsat er i gang. Han nævnte, at det har været meget positivt at få interessenterne inddraget tidligt i arbejdet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Funktionsbaseret gasregulering har været et af temaerne i dialogen. Der angives minimumskrav af hensyn til sikkerheden, men ved udførelsen kan man vælge, om man vil gøre, som man plejer eller gøre noget nyt. Niels Chrestensen Hviid gjorde opmærksom på, at vejledninger og standarder vil kunne indgå som en del af reguleringen, når det er relevant.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Lone Saaby understregede, at der er en bevægelse i gang mod rammelovgivning, som giver øget fleksibilitet, men at det er vigtigt at drøfte, hvad det betyder for sikkerheden, når det i højere grad lægges ud til branchen at udfylde rammerne.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Tomas Christensen fandt det frugtbart med en tidlig diskussion. Han påpegede, at når biogas adskiller sig fra Nordsøgassen, skal det beskrives klart, hvad der kan gøres funktionsbaseret og hvilke regler det er nødvendigt at lægge fast.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Chrestensen Hviid oplyste, at der pt. ud over gasloven er 11 danske gasreglementer med status som bekendtgørelser. Fremover er intentionen at have en gaslov som ramme og derudover et antal bekendtgørelser. Han understregede, at området fortsat skal reguleres, men at der efter 30 år med naturgas i Danmark er så gode kutymer på nogle områder, at behovet for regulering skal overvejes.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Arne Hosbond nævnte, at der formentlig vil blive en bekendtgørelse om installationer, en om anlæg, en om drift og vedligehold, en om gaskvalitet, en om gasleverandører og gasdistributører og en om materiel. Som led i arbejdet med bekendtgørelserne vil interessenter også blive involveret. Annette Becker Berg opfordrede til også at involvere uddannelsesinstitutioner.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Chrestensen Hviid orienterede om tidsplanen og oplyste, at der i foråret 2017 forventes at ligge et forslag til ny gaslov klar. Arne Hosbond gjorde opmærksom på, at der vil blive arbejdet sideløbende med bekendtgørelser, så der bliver bedst mulig sammenhæng mellem gasloven og de tilhørende bekendtgørelser. Tomas Christensen opfordrede til, at vejledningerne udarbejdes, så de er klar samtidig med lov og bekendtgørelser, fordi slutbrugerne har brug for det samlede materiale.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Rådet drøftede derefter temaerne, der har været taget med interessenter.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+<i>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Funktionsbaseret gasregulering</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</i>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Per Michael Johansen påpegede, at funktionskrav frem for en detaljeret regulering vil betyde, at de udførende skal være mere kvalificerede og at der dermed stilles større krav til uddannelserne.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Chrestensen Hviid bad om synspunkter til, hvad Sikkerhedsstyrelsen skal være særligt opmærksom på, hvis gasreguleringen bliver mindre detaljeret end i dag.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Jørgen Hansen erklærede sig enig i, at gasreguleringen bør være mindre detaljeret. Han understregede dog, at det ikke er tilstrækkeligt at kræve, at alle installationer er sikre. Det skal også kunne kontrolleres, at installationerne er lovlige, og der skal være en ensartet opfattelse af, hvad der er lovligt, både hos installatører og dem, der skal kontrollere det.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Han opfordrede til at sætte rammer op, som der kan opereres indenfor og nævnte, at jo mere rammeprægede reglerne er, jo større krav vil det stille til installatørerne og jo færre installatører vil der være på markedet. Han tilføjede, at der tidligere var mange vvs-installatører, som også lavede gasinstallationer, men at arbejdet er blevet stadigt mere specialiseret og markedet bliver mindre.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Han pegede på, at typisk har mindre virksomheder størst brug for klare regler.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Per Michael Johansen spurgte, om branchen ikke med den nødvendige uddannelse selv kan finde ud af at agere inden for rammerne. Niels Jørgen Hansen pointerede, at der allerede i dag er væsentlige uddannelseskrav på gasområdet og at en justering af kravene ikke vil betyde, at der kommer flere virksomheder i branchen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Christian Jarby nævnte, at vejledninger, der knytter sig til bekendtgørelserne, bør indeholde det, der er nødvendigt for senere at kunne regulere området. Han fandt det vigtigt, at Sikkerhedsstyrelsen er med i udarbejdelsen af standarder, og han pointerede, at uddannelse og efteruddannelse skal tænkes ind.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Annette Becker Berg pegede på, at der godt vil kunne uddannes medarbejdere, der kan honorere kravene i en funktionsbaseret regulering, men at det vil være vigtigt med tydelige vejledninger. Per Michael Johansen nævnte, at med rammer, den enkelte kan udfylde, kan gasinstallatører måske blive mere innovative og være med til at udvikle faget.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Jørgen Hansen erklærede sig enig i at gå så langt, som det er muligt med en funktionsbaseret regulering. Han understregede dog, at nogle hensyn trækker i modsat retning, blandt andet at virksomheder har brug for entydighed, så deres skøn bliver relativt ens og at der også er ensartede skøn, når der føres tilsyn.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Tomas Christensen var enig i at arbejde hen mod funktionsbaseret regulering. Han understregede, at der i rammen for reguleringen skal tages højde for, hvor der er risici. Han betegnede vejledninger som nøglen ved uddannelse af dem, der skal udføre arbejdet og nævnte, at store aktører kan udfordre mulighederne, mens de mindre vil kunne følge vejledningerne. Han nævnte, at sikkerheds-kravene og den sikkerhedsmæssige funktion er vigtigst og bør udgøre rammen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Lone Saaby nævnte, at der arbejdes ud fra, at gasloven skal have en vis holdbarhed og at der både vil være brug for specifikke vejledninger til de små virksomheder og et bredt råderum til de større virksomheder. Hun pegede på, at der vil være behov for, at branchen bidrager, når der skal udarbejdes vejledninger og når reglerne skal implementeres. Hun nævnte, at vi skal passe meget på med at lave for snævre lovgivningsmæssige rammer, der begrænser udviklingen af uddannelserne.&nbsp; Uddannelserne er nødt til at være fleksible for ikke at blive forældet inden for fem-ti år.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Jørgen Hansen understregede, at en gasinstallatør bliver uddannet til at lave sikre installationer nu og desuden overordnet skal vide noget om mulighederne om 10-15 år, men at de unge skal uddannes til at tænke selvstændigt inden for rammer, der opsættes. Han betegnede nye regler på gasområdet som en større uddannelsesopgave end ændringerne inden for el. På elområdet er nogle bestemmelser blevet flyttet fra bekendtgørelser til standarder, men dækker i princippet det samme. På gasområdet vil der blive fjernet regler, uden at der er standarder at sætte i stedet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Annette Becker Berg påpegede, at uddannelserne i dag er meget begrænsede af gasreglementet. Studerende, der gerne vil bryde grænserne, holder sig stringent til reglementet for at være sikre på at bestå deres eksamen, idet de ellers er nødt til at søge dispensationer fra reglerne. For dem vil det være fordelagtigt med en mere funktionsbaseret regulering.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Jørgen Hansen spurgte desuden, hvilken status vejledninger vil få. Han nævnte, at hvis man følger en standard, kan man godtgøre, at reglerne er fulgt, men ville vide, om det samme gælder for vejledninger.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Arne Hosbond pegede på, at der fortsat vil være nogle områder, der er detaljeret regulerede, men at udgangspunktet skal være kvalitetskrav, så der ikke i reglerne bliver begrænsninger for nye produkter, der kommer på markedet. Han oplyste, at der bl.a. på gasinstallationsområdet er en standard, der vil kunne anvendes dele af i sammenhæng med reglerne.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Per Michael Johansen opsummerede, at rådet har en erkendelse af, at gasreglerne vil blive funktionsbaserede, men at rammesætning og opfølgning i form af vejledninger er vigtigt. Han nævnte, at reglerne skal give branchen mulighed for at være innovativ og at uddannelserne har en rolle med at fylde rammerne ud.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Lone Saaby pegede på, at det vil være meget relevant at kunne hente hjælp fra uddannelserne, når der skal udarbejdes vejledninger.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Annette Becker Berg oplyste, at de installatører, der uddannes i dag, ofte kommer ud i rådgivningsbranchen, fordi de gerne vil mere end at være udførende. Hun nævnte, at der arbejdes på at modernisere uddannelserne og tiltrække flere studerende og at en attraktiv valgfagspakke i fremtiden kunne være innovative gasinstallationer. Hun gav tilsagn om at bidrage til vejledninger.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+<i>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Den sikkerhedstekniske overvågning</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</i>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Chrestensen Hviid oplyste, at byrder, effektivitet, træfsikkerhed og en risikobaseret tilgang skal afvejes ved planlægningen af tilsyn.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Christian Jarby nævnte, at tilsyn fortsat bør ses præventivt, også ved nye installationer, af hensyn til brodne kar blandt udførende og opfordrede til at fokusere på områder med stor belastning eller med den største konsekvens ved en ulykke. Tomas Christensen opfordrede til at tage udgangspunkt i tidligere hændelser, også gerne ud over Danmark.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Annette Becker Berg opfordrede til at se på markedshindringer, for eksempel at en autorisation gælder på livstid. Hun spurgte, hvordan det sikres, at installatører med ældre autorisationer bliver opdaterede og omstillingsparate og fandt, at der bør stilles krav for at få lov at opretholde en autorisation. Hun nævnte, at i trafikken får man klip i kørekortet og at det får konsekvenser, hvis man gentagne gange bryder reglerne.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Jørgen Hansen understregede, at flertallet af installationsvirksomheder er nødt til at følge med i den ny teknologi, ellers er de ikke ret længe på markedet. Han var enig i, at det kan virke underligt, at man skal leve op til en række krav for at få autorisation, men at der ikke er krav derefter. Han nævnte, at der stilles krav om, at en virksomhed har et KLS-system, men at kravet om at holde sig fagligt opdateret forsvandt med den ny autorisationslov.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Arne Hosbond påpegede, at det ikke altid er installatøren, der er skyld i ulykker. Han oplyste, at der for nogle år siden var optalt hændelser, og at ca. halvdelen var installatørens fejl og den anden halvdel produktfejl. Han understregede, at tilsyn har til formål at finde begge typer fejl og at de personlige uddannelser er et af de emner, der vil blive taget op i arbejdet med de nye regler.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Jørgen Hansen pegede på, at andre lande bruger flere ressourcer på ekstern inspektion af nye installationer, så det er installationen i stedet for installatøren, der certificeres.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Arne Hosbond oplyste, at der laves tilsyn på ti procent af alle nye og ændrede gasinstallationer og én procent af de eksisterende installationer. Det udvælges efter apparattype og ikke efter, om det er sat op i et privat hjem eller fx en skole.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Christian Jarby opfordrede til at diskutere gasselskabernes tilsynsrolle på et kommende møde. Han pegede på, at de delvist agerer som myndighed, men er pressede på økonomien. Lone Saaby ønskede meldinger på, hvordan rådets medlemmer ser, at snittet skal være.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Jørgen Hansen fandt, at hvis Sikkerhedsstyrelsen tager tilsynsopgaven hjem, er der risiko for, at den bliver nedprioriteret. Han beskrev, at det var sket på el-området, men erkendte, at økonomien samtidig er blevet strammere.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Tomas Christensen gjorde opmærksom på, at der har været tradition for, at de samme lavede både installationen fra nettet og husinstallationen, men at dette ikke sker i dag. På vegne af Dansk Energi nævnte han, at der ikke længere er den samme synergi, når ét selskab kommer med gaskedlen og et andet med nettilslutningen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+<i>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Markedshindringer</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</i>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Chrestensen Hviid ønskede også bemærkninger til, om der er andre kendte markedshindringer end at kedel og aftræk i dag skal have en samlet godkendelse. Dette havde rådsmedlemmerne ikke eksempler på.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+<i>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>Flaskegas</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</i>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/emphasize.tpl (design:content/datatype/view/ezxmltags/emphasize.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Niels Chrestensen Hviid påpegede, at der er væsentlige prisforskelle på flaskegas mellem Danmark og fx Tyskland. Arne Hosbond beskrev, at tre store danske flaskegasleverandører fylder og sælger gasflasker og at de laver tilsyn på tankanlæg og i øvrigt der, hvor de kender kunden og har en aftale med ham. Der laves ikke tilsyn, hvis gasflaskerne leveres til videresalg, idet gasleverandørerne så ikke kender køberen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Arne Hosbond sagde, at tilsynspligten kan gøre det besværligt at blive godkendt som gasleverandør. Han oplyste, at der i Norge var tre store gasleverandører for ti år siden, mens der i dag er 120 gasleverandører og at priserne samtidig er faldet. Han understregede, at det skal kræve en godkendelse at kunne fylde gasflasker, så det ikke bliver forbrugerne selv, men at fx en campingplads kunne have en tank stående og fylde gæsternes gasflasker. Samtidig vil tilsynspligten kunne fjernes, ligesom der allerede i dag ikke føres tilsyn med gasflaskerne i detailhandelen.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Christian Jarby roste processen omkring arbejdet med de nye gasregler, hvor branchen er blevet inddraget meget bredt. Tomas Christensen udtrykte tilfredshed med, at der var udsendt materiale med spørgsmål til overvejelse forud for rådsmødet.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>7. De næste møder i rådet</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>14. marts 2017. Tema: Myndighedsrollen i en foranderlig verden. Mødet foregår i Esbjerg.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>4. maj 2017. Tema: Uddannelse. Det blev aftalt, at mødet holdes i Aarhus. Annette Becker Berg understregede, at debatten bør omfatte hele kæden fra lærlingeuddannelser til ingeniører.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+<b>8. Evt.</b>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/strong.tpl (design:content/datatype/view/ezxmltags/strong.tpl) -->
+</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Per Michael Johansen takkede for et godt møde med værdifulde bidrag fra medlemmerne og en god rundvisning.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+      
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+<!-- page_list_subitems -->    <div class="list-group">
+    </div><!-- /page_list_subitems -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_list_subitems.tpl) -->
+      
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+<hr>
+<div class="text-muted">
+    <small><span class="glyphicon glyphicon-time"></span> Sidst opdateret: 27-marts-2017</small><br>
+    <small><span class="glyphicon glyphicon-envelope"></span> Kontaktperson: <a title="" href="mailto:sik@sik.dk">webmaster</a></small>
+</div>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/page_content_footer.tpl) -->
+    </article>
+    <!--Content-End-->
+  </div>  <div class="col-md-3">
+    
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+<!-- right_menu_linkbox -->
+            
+            <div class="link-box right-menu">
+
+        <div class="body">
+          <ul>
+                                                                                                      <li >
+                  <a href="Raadsmoede-7.12797.dela">
+                                          Rådsmøde 7. april 2016
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Raadsmoede-31.12798.del">
+                                          Rådsmøde 31. maj 2016
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Raadsmoede-6.12799.dela">
+                                          Rådsmøde 6. september 2016
+                                      </a>
+                </li>
+                                                                                                                                                      <li class="selected">
+                  <a href="Raadsmoede-17.1279a.del">
+                                          Rådsmøde 17. november 2016
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Raadsmoede-14.12ea4.del">
+                                          Rådsmøde 14. marts 2017
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Raadsmoede-4.12ea5.dela">
+                                          Rådsmøde 4. maj 2017
+                                      </a>
+                </li>
+                                                                                                                    <li >
+                  <a href="Raadsmoede-3.1513e.dela">
+                                           Rådsmøde 3. november 2017
+                                      </a>
+                </li>
+                                    </ul>
+      </div>
+    </div>
+    <!-- /right_menu_linkbox -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/right_menu_linkbox.tpl) -->
+  </div></div>
+<!-- /full -->
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+
+  <!-- module_result end-->
+
+<!-- Start page_footer -->
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<footer class="row">
+  <hr>
+  <div class="text-center">
+    Sikkerhedsstyrelsen&nbsp; | &nbsp;Nørregade 63&nbsp; | &nbsp;6700 Esbjerg&nbsp; | &nbsp;Tlf. 33 73 20 00&nbsp;<br>
+    Email: <a href="mailto:sik@sik.dk">sik@sik.dk</a>&nbsp; | &nbsp;Åbningstider: Mandag - torsdag: 8:00 - 15:00 og fredag: 8:00 - 14:00
+  </div>
+</footer>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/body/footer.tpl) -->
+<!-- End page_footer -->
+  <script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../../../../../../../var/plain_site/cache/public/javascript/fa9d6053e2ff2c687d5f9075346a055e.js" charset="utf-8"></script>
+
+  
+  
+<!-- START: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = 'http://ssl.siteimprove.com/js/siteanalyze_2666.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-6298150-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl (extension/sikkerhedsstyrelsen/design/design_2013/templates/partials/html/footer/javascript.tpl) -->
+  </body>
+
+<!-- Mirrored from www.sik.dk/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/layout/set/print/Global/Om-os/Raad-og-udvalg/Raadet-for-El-og-Gasteknisk-Sikkerhed/Raadsmoeder/Raadsmoede-17.-november-2016 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Oct 2018 17:09:35 GMT -->
+</html>
+
+<!-- STOP: including template: extension/sikkerhedsstyrelsen/design/design_2013/templates/print_pagelayout.tpl (design:print_pagelayout.tpl) -->
